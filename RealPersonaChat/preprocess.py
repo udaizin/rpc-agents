@@ -46,12 +46,12 @@ interlocutor_idsに含まれる話者の対話データセットをフォーマ�
     ...    
 ]
 '''
-def convert_dialogues_format(dialogue_dataset, interlocutor_dataset, target_ids):
-    for target_id in target_ids:
+def convert_dialogues_format(dialogue_dataset, interlocutor_dataset, target_interlocutor_ids):
+    for target_interlocutor_id in target_interlocutor_ids:
         interlocutor_dialogues = []
         for dialogue_data in dialogue_dataset['train']:
             # 対象のinterlocutor_idの対話データのみを抽出
-            if target_id in dialogue_data['interlocutors']:
+            if target_interlocutor_id in dialogue_data['interlocutors']:
                 dialogue = {
                     "dialogue_id": dialogue_data['dialogue_id'],
                     "interlocutors": dialogue_data['interlocutors'],
@@ -63,7 +63,7 @@ def convert_dialogues_format(dialogue_dataset, interlocutor_dataset, target_ids)
                 interlocutor_dialogues.append(dialogue)
 
         # ファイルの保存
-        with open(f"/work/rpc-agents/RealPersonaChat/data/{target_id}_dialogues.json", 'w') as f:
+        with open(f"./RealPersonaChat/data/{target_interlocutor_id}_dialogues.json", 'w') as f:
             json.dump(interlocutor_dialogues, f, ensure_ascii=False, indent=2)
 
 if __name__ == '__main__':
@@ -72,7 +72,7 @@ if __name__ == '__main__':
     interlocutor_dataset = load_dataset("nu-dialogue/real-persona-chat", name='interlocutor', trust_remote_code=True)
 
     # 読み込む対象のinterlocutor_idのリストを指定
-    interlocutor_ids = ['CP', 'AT', 'FR', 'CA', 'AY', 'DV', 'CE']
+    target_interlocutor_ids = ['CP', 'AT', 'FR', 'CA', 'AY', 'DV', 'CE']
 
     # フォーマット変換
-    convert_dialogues_format(dialogue_dataset, interlocutor_dataset, interlocutor_ids)
+    convert_dialogues_format(dialogue_dataset, interlocutor_dataset, target_interlocutor_ids)
