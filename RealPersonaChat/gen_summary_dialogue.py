@@ -1,16 +1,9 @@
-from api_call_util import decoder_for_openai
-from io_utils import read_json, read_gen_data, read_jsonl, load_seed_data_train
 import os
-import glob
-from threading import Thread, Lock
 import json
-from functools import partial
-import re
-from tqdm import tqdm
+from tqdm.contrib import tzip
 from dotenv import load_dotenv, find_dotenv
 from openai import OpenAI
-import sys
-from config import args
+
 
 _ = load_dotenv(find_dotenv())
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
@@ -22,13 +15,11 @@ for target_interlocutor_id in TARGET_INTERLOCUTOR_IDS:
     with open(f'./RealPersonaChat/data/change_format/{target_interlocutor_id}_dialogues.json', 'r') as f:
         dialogues = json.load(f)
 
-    utterances_list = []
-    for i in range(10):
-        utterances = '\n'.join(dialogues[i]['utterances'])
-        utterances_list.append(utterances)
+    utterances_list = ['\n'.join(dialogue['utterances']) for dialogue in dialogues]
+    dialogue_id_list = [dialogue['dialogue_id'] for dialogue in dialogues]
 
-    utterances_summary_pair_list = []
-    for utterances in utterances_list:
+    dialogues_summary_list = []
+    for utterances, dialogue_id in tzip(utterances_list, dialogue_id_list):
         prompt = f'''対話履歴:
         {utterances}
 
@@ -41,15 +32,16 @@ for target_interlocutor_id in TARGET_INTERLOCUTOR_IDS:
             ],
         )
 
-        utterances_summary_pair = {
+        dialogue_summary_dict = {
+            "dialogue_id": dialogue_id,
             "utterances": utterances,
             "summary": completion.choices[0].message.content
         }
-        utterances_summary_pair_list.append(utterances_summary_pair)
+        dialogues_summary_list.append(dialogue_summary_dict)
 
     # json形式で保存
-    with open(f'./RealPersonaChat/data/gen_summary/{target_interlocutor_id}_utterances_summary_pair.json', 'w') as f:
-        json.dump(utterances_summary_pair_list, f, ensure_ascii=False, indent=2)
+    with open(f'./RealPersonaChat/data/gen_summary/{target_interlocutor_id}_summary.json', 'w') as f:
+        json.dump(dialogues_summary_list, f, ensure_ascii=False, indent=2)
 
 
         
