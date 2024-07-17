@@ -5,7 +5,6 @@ from tqdm.contrib import tzip
 from dotenv import load_dotenv, find_dotenv
 from openai import OpenAI
 from datasets import load_dataset
-import textwrap
 
 
 _ = load_dotenv(find_dotenv())  
@@ -57,6 +56,7 @@ if __name__ == '__main__':
 
         dialogues_first_person_list = []
         for utterances, dialogue_id, partner_interlocutor_id in tzip(utterances_list, dialogue_id_list, partner_interlocutor_id_list):
+            # インデントなどを整えるため、'\n'でjoin
             user_prompt = '\n'.join([f'{target_interlocutor_id}の基本情報は次のとおりです。',
                             f'ペルソナ: {target_interlocutor_persona_prompt}',
                             f'性格特性: {target_interlocutor_personality_prompt}',
