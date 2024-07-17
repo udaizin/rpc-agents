@@ -11,7 +11,6 @@ TARGET_INTERLOCUTOR_IDS = os.getenv("TARGET_INTERLOCUTOR_IDS").split(',')
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 for target_interlocutor_id in TARGET_INTERLOCUTOR_IDS:
-    # /work/rpc-agents/RealPersonaChat/data/CP_dialogues.jsonを読み込み
     with open(f'./RealPersonaChat/data/change_format/{target_interlocutor_id}_dialogues.json', 'r') as f:
         dialogues = json.load(f)
 
