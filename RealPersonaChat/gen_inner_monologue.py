@@ -1,6 +1,5 @@
 import os
 import json
-from pprint import pprint
 from tqdm.contrib import tzip
 from dotenv import load_dotenv, find_dotenv
 from openai import OpenAI
@@ -52,16 +51,16 @@ if __name__ == '__main__':
             dialogues = json.load(f)
         
         # 実験のため少数の対話データのみを取得
-        utterances_list = ['\n'.join(dialogue['utterances']) for dialogue in dialogues[2:3]]
-        dialogue_id_list = [dialogue['dialogue_id'] for dialogue in dialogues[2:3]]
-        interlocutors_list = [dialogue['interlocutors'] for dialogue in dialogues[2:3]]
+        utterances_list = ['\n'.join(dialogue['utterances']) for dialogue in dialogues]
+        dialogue_id_list = [dialogue['dialogue_id'] for dialogue in dialogues]
+        interlocutors_list = [dialogue['interlocutors'] for dialogue in dialogues]
         partner_interlocutor_id_list = [interlocutors[0] if interlocutors[1] == target_interlocutor_id else interlocutors[1] for interlocutors in interlocutors_list]
 
         dialogues_first_person_list = []
         for utterances, dialogue_id, partner_interlocutor_id in tzip(utterances_list, dialogue_id_list, partner_interlocutor_id_list):
             # インデントなどを整えるため、'\n'でjoin
             system_prompt = '\n'.join([
-                f'あなたは{target_interlocutor_id}です。以下のペルソナや性格特性、ルールに基づいて対話履歴を再構成してください。',
+                f'あなたは{target_interlocutor_id}です。あなたの性別やペルソナ、性格特性は次のようになっています。',
                 f'性別: {target_interlocutor_gender_jp}',
                 f'ペルソナ: {target_interlocutor_persona_prompt}',
                 f'性格特性: {target_interlocutor_personality_prompt}',
@@ -72,6 +71,7 @@ if __name__ == '__main__':
                 f'3. 主人公は{target_interlocutor_id}です。対話履歴の中に、{target_interlocutor_id}が何かを感じたり考えたりしたと思うところに、(thinking)のラベルを用いて{target_interlocutor_id}の気持ちや考えを挿入してください。',
                 f'4. (speaking)のラベルの内容は「絶対に」書き換えないでそのまま残してください。ただし、{target_interlocutor_id}の思考があったと思うときに(speaking)のラベルの前か後ろに、(thinking)のラベルを挿入することができます。',
                 f'5. Big Five性格特性やペルソナを考慮して、{target_interlocutor_id}の感情や思考を表現してください。'
+                f'6. {target_interlocutor_id} (thinking): 〜 という形式に従って、{target_interlocutor_id}の内心描写を追加してください。',
             ])
             utterances_example = '\n'.join([
                 f'{partner_interlocutor_id} (speaking): こんにちは。',
@@ -116,10 +116,6 @@ if __name__ == '__main__':
                 f'対話履歴:',
                 f'{utterances}'
             ])    
-            print('System Prompt:')
-            print(system_prompt)
-            print('')
-            print(user_second_prompt)
 
             completion = client.chat.completions.create(
                 model="gpt-4o",
@@ -137,9 +133,6 @@ if __name__ == '__main__':
                 "first_person_dialogue": completion.choices[0].message.content
             }
             dialogues_first_person_list.append(dialogue_first_person_dict)
-            print('')
-            print('Inner Monologue Annotation:')
-            print(completion.choices[0].message.content)
 
         # json形式で保存
         with open(f'./RealPersonaChat/data/gen_inner_monologue/{target_interlocutor_id}_inner_monologue.json', 'w') as f:
