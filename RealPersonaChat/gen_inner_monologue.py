@@ -46,7 +46,7 @@ def validate_monologue_format(original_dialogue: str, inner_monologue_dialogue: 
             print(f'inner_monologue_speaking_line: {inner_monologue_speaking_line}')
             print('original_dialogue_lineの内容がinner_monologue_speaking_lineで書き換わっています。')
             return False
-    
+
     return True
 
 def postprocess_inner_monologue(inner_monologue_dialogue: str, target_interlocutor_id) -> str:
@@ -95,6 +95,7 @@ def create_inner_monologue_annotation(utterances: str, target_interlocutor_id: s
         f'4. (speaking)のラベルの内容は「絶対に」書き換えないでそのまま残してください。',
         f'5. 「{target_interlocutor_id} (thinking): 〜 」という形式必ず従って、{target_interlocutor_id}の内心描写を追加してください。{partner_interlocutor_id} (thinking): 〜 という行は絶対に作らないでください。',
         f'6. 各行に(speaking)や(thinking)のラベルは1つしか含まれないようにしてください。',
+        f'7. 基本的に(thinking)ラベルは{partner_interlocutor_id}の発言の後または{target_interlocutor_id}の発言の前に挿入してください。ただし、{target_interlocutor_id}が発言後に感情や考えを持った場合は、その発言の後に(thinking)ラベルを挿入してください。',
         '',
         '次に、もとの対話履歴と出力のフォーマットの例を示します。',
         'もとの対話履歴の例:',
