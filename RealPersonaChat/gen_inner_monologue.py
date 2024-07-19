@@ -51,6 +51,30 @@ def validate_monologue_format(original_dialogue: str, inner_monologue_dialogue: 
 
 def create_inner_monologue_annotation(utterances: str, target_interlocutor_id: str, partner_interlocutor_id: str) -> str:
     # インデントなどを整えるため、'\n'でjoin
+    utterances_example = '\n'.join([
+        f'{partner_interlocutor_id} (speaking): こんにちは。',
+        f'{target_interlocutor_id} (speaking): こんにちは。最近暑くなってきましたよね。',
+        f'{partner_interlocutor_id} (speaking): はい、そうですね。でも、夏が好きなので、暑いのは嬉しいです。',
+        f'{target_interlocutor_id} (speaking): そうなんですね。私は暑いのはあまり得意じゃないんです。',
+        f'{partner_interlocutor_id} (speaking): そうなんですか。じゃあ、夏はあまり好きじゃないんですね。',
+        f'{target_interlocutor_id} (speaking): 夏はあまり好きじゃないんですけど、冬も寒いからどっちもどっちかな笑',
+        f'{partner_interlocutor_id} (speaking): まあ、春とか秋の方が気温的にはすごしやすいですね。',
+        f'{target_interlocutor_id} (speaking): 春は特に好きだな。桜とかも見れるし'
+    ])
+    inner_monologue_example = '\n'.join([
+        f'{partner_interlocutor_id} (speaking): こんにちは。',
+        f'{target_interlocutor_id} (speaking): こんにちは。最近暑くなってきましたよね。',
+        f'{partner_interlocutor_id} (speaking): はい、そうですね。でも、夏が好きなので、暑いのは嬉しいです。',
+        f'{target_interlocutor_id} (thinking): (具体的な感情や考え)',
+        f'{target_interlocutor_id} (speaking): そうなんですね。私は暑いのはあまり得意じゃないんです。',
+        f'{target_interlocutor_id} (thinking): (具体的な感情や考え)',
+        f'{partner_interlocutor_id} (speaking): そうなんですか。じゃあ、夏はあまり好きじゃないんですね。',
+        f'{target_interlocutor_id} (speaking): 夏はあまり好きじゃないんですけど、冬も寒いからどっちもどっちかな笑',
+        f'{target_interlocutor_id} (thinking): (具体的な感情や考え)',
+        f'{partner_interlocutor_id} (speaking): まあ、春とか秋の方が気温的にはすごしやすいですね。',
+        f'{target_interlocutor_id} (thinking): (具体的な感情や考え)',
+        f'{target_interlocutor_id} (speaking): 春は特に好きだな。桜とかも見れるし'
+    ]) 
     system_prompt = '\n'.join([
         f'あなたは{target_interlocutor_id}です。あなたの性別やペルソナ、性格特性は次のようになっています。',
         f'性別: {target_interlocutor_gender_jp}',
@@ -63,61 +87,29 @@ def create_inner_monologue_annotation(utterances: str, target_interlocutor_id: s
         f'3. 主人公は{target_interlocutor_id}です。対話履歴の中に、{target_interlocutor_id}が何かを感じたり考えたりしたと思うところに、(thinking)のラベルを用いて{target_interlocutor_id}の気持ちや考えを挿入してください。',
         f'4. (speaking)のラベルの内容は「絶対に」書き換えないでそのまま残してください。',
         f'5. {target_interlocutor_id} (thinking): 〜 という形式必ず従って、{target_interlocutor_id}の内心描写を追加してください。{partner_interlocutor_id} (thinking): 〜 という行は絶対に作らないでください。',
-        f'6. 各行に(speaking)や(thinking)のラベルは1つしか含まれないようにしてください。'
-    ])
-    utterances_example = '\n'.join([
-        f'{partner_interlocutor_id} (speaking): こんにちは。',
-        f'{target_interlocutor_id} (speaking): こんにちは。最近暑くなってきましたよね。',
-        f'{partner_interlocutor_id} (speaking): はい、そうですね。でも、夏が好きなので、暑いのは嬉しいです。',
-        f'{target_interlocutor_id} (speaking): そうなんですね。私は暑いのはあまり得意じゃないんです。',
-        f'{partner_interlocutor_id} (speaking): そうなんですか。じゃあ、夏はあまり好きじゃないんですね。',
-        f'{target_interlocutor_id} (speaking): 夏はあまり好きじゃないんですけど、冬も寒いからどっちもどっちかな笑',
-        f'{partner_interlocutor_id} (speaking): まあ、春とか秋の方が気温的にはすごしやすいですね。',
-        f'{target_interlocutor_id} (speaking): お花見とか好きなので、春が待ち遠しいです。',
-        f'{partner_interlocutor_id} (speaking): お花見いいですね。私も大好きです',
-        f'{target_interlocutor_id} (speaking): もし良かったら来年一緒にお花見しませんか？',
-        f'{partner_interlocutor_id} (speaking): いいですね〜 来年いきましょう',
-        f'{target_interlocutor_id} (speaking): 楽しみにしてますね！'
-    ])                       
-    user_first_prompt = '\n'.join([
-        f'対話履歴が以下の通り与えられるとき、対話履歴を読んで{target_interlocutor_id}の内心描写を追加してください。{target_interlocutor_id}の思考や感情が動いた場所に行を適宜挿入してください。',
+        f'6. 各行に(speaking)や(thinking)のラベルは1つしか含まれないようにしてください。',
         '',
-        f'対話履歴:',
-        f'{utterances_example}'
+        '次に、もとの対話履歴と内心描写付き対話履歴のフォーマットの例を示します。',
+        'もとの対話履歴:',
+        f'{utterances_example}',
+        '内心描写付き対話履歴:',
+        f'{inner_monologue_example}',
+        '回答を生成する際には、「内心描写付き対話履歴:」を削除してください。'
     ])
-    assistant_prompt = '\n'.join([
-        f'{partner_interlocutor_id} (speaking): こんにちは。',
-        f'{target_interlocutor_id} (speaking): こんにちは。最近暑くなってきましたよね。',
-        f'{partner_interlocutor_id} (speaking): はい、そうですね。でも、夏が好きなので、暑いのは嬉しいです。',
-        f'{target_interlocutor_id} (thinking): 暑いのが好きなんだ。私はあんまり好きじゃないな〜',
-        f'{target_interlocutor_id} (speaking): そうなんですね。私は暑いのはあまり得意じゃないんです。',
-        f'{partner_interlocutor_id} (speaking): そうなんですか。じゃあ、夏はあまり好きじゃないんですね。',
-        f'{target_interlocutor_id} (speaking): 夏はあまり好きじゃないんですけど、冬も寒いからどっちもどっちかな笑',
-        f'{partner_interlocutor_id} (speaking): まあ、春とか秋の方が気温的にはすごしやすいですね。',
-        f'{target_interlocutor_id} (thinking): 春は特に好きだな。桜とかも見れるし',
-        f'{target_interlocutor_id} (speaking): お花見とか好きなので、春が待ち遠しいです。',
-        f'{partner_interlocutor_id} (speaking): お花見いいですね。私も大好きです',
-        f'{target_interlocutor_id} (thinking): <{partner_interlocutor_id}>さんお花見好きなんだ。来年一緒に行きたいな。',
-        f'{target_interlocutor_id} (speaking): もし良かったら来年一緒にお花見しませんか？',
-        f'{target_interlocutor_id} (thinking): OKしてくれるかな〜',
-        f'{partner_interlocutor_id} (speaking): いいですね〜 来年いきましょう',
-        f'{target_interlocutor_id} (speaking): 楽しみにしてますね！',
-        f'{target_interlocutor_id} (thinking): やった！楽しみだな〜'
-    ])
-    user_second_prompt = '\n'.join([
-        f'対話履歴が以下の通り与えられるとき、対話履歴を読んで{target_interlocutor_id}の内心描写を追加してください。{target_interlocutor_id}の思考や感情が動いた場所に行を適宜挿入してください。',
+
+    user_first_prompt = '\n'.join([
+        '以下の対話履歴を読んで、{target_interlocutor_id}の思考や感情が動いた場所に行を適宜挿入してください。',
+        '行を挿入する際は、(thinking): 〜 という形式で{target_interlocutor_id}の内心描写を追加してください。',
         '',
         f'対話履歴:',
         f'{utterances}'
-    ])    
+    ])
 
     completion = client.chat.completions.create(
         model="gpt-4o",
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_first_prompt},
-            {"role": "assistant", "content": assistant_prompt},
-            {"role": "user", "content": user_second_prompt}
         ],
         temperature=0.7,
     )
