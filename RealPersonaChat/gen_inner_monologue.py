@@ -170,7 +170,7 @@ if __name__ == '__main__':
             dialogue_first_person_dict = {
                 "dialogue_id": dialogue_id,
                 "utterances": utterances,
-                "first_person_dialogue": inner_monologue_utterances
+                "inner_monologue_utterances": inner_monologue_utterances
             }
             dialogues_first_person_list.append(dialogue_first_person_dict)
 
