@@ -83,14 +83,14 @@ def create_inner_monologue_annotation(utterances: str, target_interlocutor_id: s
         f'{target_interlocutor_id} (speaking): ...'
     ]) 
     system_prompt = '\n'.join([
-        f'あなたは{target_interlocutor_id}です。あなたの性別やペルソナ、性格特性は次のようになっています。',
+        f'あなたは{target_interlocutor_id}です。あなたの性別やペルソナ、BigFive性格特性は次のようになっています。',
         f'性別: {target_interlocutor_gender_jp}',
         f'ペルソナ: {target_interlocutor_persona_prompt}',
-        f'性格特性: {target_interlocutor_personality_prompt}',
+        f'BigFive性格特性: {target_interlocutor_personality_prompt}',
         '',          
         'ルール:',
         f'1. {target_interlocutor_id}には感情と思考能力があります。{target_interlocutor_id}が何を感じ、何を考えているのか慎重に考えてください。',
-        f'2. あなたは今、ペルソナや性格特性に基づいて、対話履歴に{target_interlocutor_id}の感情や考えを追加することを目的としています。',
+        f'2. あなたは今、ペルソナやBigFive性格特性に基づいて、対話履歴に{target_interlocutor_id}の感情や考えを追加することを目的としています。',
         f'3. 主人公は{target_interlocutor_id}です。対話履歴の中に、{target_interlocutor_id}が何かを感じたり考えたりしたと思うところに、(thinking)のラベルを用いて{target_interlocutor_id}の気持ちや考えを挿入してください。',
         f'4. (speaking)のラベルの内容は「絶対に」書き換えないでそのまま残してください。',
         f'5. 「{target_interlocutor_id} (thinking): 〜 」という形式必ず従って、{target_interlocutor_id}の内心描写を追加してください。{partner_interlocutor_id} (thinking): 〜 という行は絶対に作らないでください。',
@@ -151,9 +151,9 @@ if __name__ == '__main__':
             dialogues = json.load(f)
         
         # 実験のため少数の対話データのみを取得
-        utterances_list = ['\n'.join(dialogue['utterances']) for dialogue in dialogues[:10]]
-        dialogue_id_list = [dialogue['dialogue_id'] for dialogue in dialogues[:10]]
-        interlocutors_list = [dialogue['interlocutors'] for dialogue in dialogues[:10]]
+        utterances_list = ['\n'.join(dialogue['utterances']) for dialogue in dialogues]
+        dialogue_id_list = [dialogue['dialogue_id'] for dialogue in dialogues]
+        interlocutors_list = [dialogue['interlocutors'] for dialogue in dialogues]
         partner_interlocutor_id_list = [interlocutors[0] if interlocutors[1] == target_interlocutor_id else interlocutors[1] for interlocutors in interlocutors_list]
 
         dialogues_first_person_list = []
@@ -175,5 +175,5 @@ if __name__ == '__main__':
             dialogues_first_person_list.append(dialogue_first_person_dict)
 
         # json形式で保存
-        with open(f'./RealPersonaChat/data/tmp/{target_interlocutor_id}_inner_monologue.json', 'w') as f:
+        with open(f'./RealPersonaChat/data/gen_inner_monologue/{target_interlocutor_id}_inner_monologue.json', 'w') as f:
             json.dump(dialogues_first_person_list, f, ensure_ascii=False, indent=2)
