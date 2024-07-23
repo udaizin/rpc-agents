@@ -7,7 +7,7 @@ model_name = 'tokyotech-llm/Llama-3-Swallow-8B-Instruct-v0.1'
 sampling_params = SamplingParams(
     temperature=0, max_tokens=5, stop="<|eot_id|>"
 )
-OUTPUT_DIR = './BFI/result/sample2'
+OUTPUT_DIR = './BFI/result/sample'
 
 question_num_detail_dict = {
     1: '話し好き', 2: '無口な', 3: '陽気な', 4: '外交的', 5: '暗い', 6: '無愛想な', 7: '社交的', 8: '人嫌い', 9: '活動的な', 10: '意思表示しない', 11: '積極的な', 12: '地味な', # 外向性
@@ -79,9 +79,9 @@ def calculate_BFI_score():
             '7: 非常にあてはまる',
             '',
             '質問:',
-            '(X) 林檎は赤い',
+            '(X) りんごは赤い',
             '回答:',
-            '(X) 5',
+            '(X) 7',
             '',
             '質問:',
             f'{question.detail}',
