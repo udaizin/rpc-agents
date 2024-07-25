@@ -7,7 +7,7 @@ from openai import OpenAI
 from datasets import load_dataset
 
 
-_ = load_dotenv(find_dotenv())  
+_ = load_dotenv(find_dotenv(), override=True)  
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 TARGET_INTERLOCUTOR_IDS = os.getenv("TARGET_INTERLOCUTOR_IDS").split(',')
 BIG_FIVE_PERSONALITY_TRAITS_TRANS_DICT = {'BigFive_Openness': '開放性', 'BigFive_Conscientiousness': '誠実性', 
@@ -19,7 +19,7 @@ client = OpenAI(api_key=OPENAI_API_KEY)
 def change_bigfive_number_to_level(bigfive_number: float) -> str:
     if bigfive_number <= 3.0:
         return "低い"
-    elif bigfive_number <= 5.0:
+    elif bigfive_number < 5.0:
         return "中程度"
     else:
         return "高い"
@@ -29,14 +29,14 @@ def validate_monologue_format(original_dialogue: str, inner_monologue_dialogue: 
     # inner_monologue_dialogueのすべての行が{target_interlocutor_id} (speaking): 〜 または {target_interlocutor_id} (thinking): 〜 または {partner_interlocutor_id} (speaking): 〜 で始まっているかチェック
     inner_monologue_lines = inner_monologue_dialogue.split('\n')
     for inner_monologue_line in inner_monologue_lines:
-        if not (inner_monologue_line.startswith(f'{target_interlocutor_id} (speaking):') or inner_monologue_line.startswith(f'{target_interlocutor_id} (thinking):') or inner_monologue_line.startswith(f'{partner_interlocutor_id} (speaking):')):
+        if not (inner_monologue_line.startswith(f'{target_interlocutor_id} (speaking): ') or inner_monologue_line.startswith(f'{target_interlocutor_id} (thinking): ') or inner_monologue_line.startswith(f'{partner_interlocutor_id} (speaking): ')):
             print(f'inner_monologue_line: {inner_monologue_line}')
-            print('inner_monologue_dialogueのすべての行が{target_interlocutor_id} (speaking): 〜 または {target_interlocutor_id} (thinking): 〜 または {partner_interlocutor_id} (speaking): 〜 で始まっていません。')
+            print(f'inner_monologue_dialogueのすべての行が{target_interlocutor_id} (speaking): 〜 または {target_interlocutor_id} (thinking): 〜 または {partner_interlocutor_id} (speaking): 〜 で始まっていません。')
             return False
 
     original_dialogue_lines = original_dialogue.split('\n')
-    inner_monologue_speaking_lines = [line for line in inner_monologue_dialogue.split('\n') if line.startswith(f'{target_interlocutor_id} (speaking):') or line.startswith(f'{partner_interlocutor_id} (speaking):')]
-    inner_monologue_thinking_lines = [line for line in inner_monologue_dialogue.split('\n') if line.startswith(f'{target_interlocutor_id} (thinking):')]
+    inner_monologue_speaking_lines = [line for line in inner_monologue_dialogue.split('\n') if line.startswith(f'{target_interlocutor_id} (speaking): ') or line.startswith(f'{partner_interlocutor_id} (speaking): ')]
+    inner_monologue_thinking_lines = [line for line in inner_monologue_dialogue.split('\n') if line.startswith(f'{target_interlocutor_id} (thinking): ')]
 
     # original_dialogue_linesの内容がinner_monologue_speaking_linesで書き換わってないかチェック
     # ここで{target_interlocutor_id} (speaking): 〜 (thinking) などという行があるかどうかの確認も兼ねている
@@ -46,6 +46,34 @@ def validate_monologue_format(original_dialogue: str, inner_monologue_dialogue: 
             print(f'inner_monologue_speaking_line: {inner_monologue_speaking_line}')
             print('original_dialogue_lineの内容がinner_monologue_speaking_lineで書き換わっています。')
             return False
+        
+    # {target_interlocutor_id} (thinking): 〜 の行のあとに{target_interlocutor_id} (speaking): 〜 があるかチェック
+    # 例: {target_interlocutor_id} (thinking): ... \n {target_interlocutor_id} (speaking): ... という形式であるかチェック
+    for i, inner_monologue_line in enumerate(inner_monologue_lines):
+        if inner_monologue_line.startswith(f'{target_interlocutor_id} (thinking): ') and i == len(inner_monologue_lines)-1:
+            print(f'inner_monologue_line: {inner_monologue_line}')
+            print(f'{target_interlocutor_id} (thinking): 〜 の一つ後に{target_interlocutor_id} (speaking): 〜 がありません。')
+            return False
+        if inner_monologue_line.startswith(f'{target_interlocutor_id} (thinking): '):
+            if not inner_monologue_lines[i+1].startswith(f'{target_interlocutor_id} (speaking): '):
+                print(f'inner_monologue_line: {inner_monologue_line}')
+                print(f'inner_monologue_next_line: {inner_monologue_lines[i+1]}')
+                print(f'{target_interlocutor_id} (thinking): 〜 の一つ後に{target_interlocutor_id} (speaking): 〜 がありません。')
+                return False
+
+    # {target_interlocutor_id} (speaking): ... の一つ前にかならず{target_interlocutor_id} (thinking): ... があるかチェック
+    # 例: {target_interlocutor_id} (thinking): ... \n {target_interlocutor_id} (speaking): ... という形式であるかチェック
+    for i, inner_monologue_line in enumerate(inner_monologue_lines):
+        if inner_monologue_line.startswith(f'{target_interlocutor_id} (speaking): ') and i == 0:
+            print(f'inner_monologue_line: {inner_monologue_line}')
+            print(f'{target_interlocutor_id} (speaking): ... の一つ前にかならず{target_interlocutor_id} (thinking): ... がありません。')
+            return False
+        if inner_monologue_line.startswith(f'{target_interlocutor_id} (speaking): '):
+            if not inner_monologue_lines[i-1].startswith(f'{target_interlocutor_id} (thinking): '):
+                print(f'inner_monologue_line: {inner_monologue_line}')
+                print(f'inner_monologue_previous_line: {inner_monologue_lines[i-1]}')
+                print(f'{target_interlocutor_id} (speaking): ... の一つ前にかならず{target_interlocutor_id} (thinking): ... がありません。')
+                return False
 
     return True
 
@@ -58,7 +86,7 @@ def postprocess_inner_monologue(inner_monologue_dialogue: str, target_interlocut
 
 def create_inner_monologue_annotation(utterances: str, target_interlocutor_id: str, partner_interlocutor_id: str) -> str:
     # インデントなどを整えるため、'\n'でjoin
-    utterances_example = '\n'.join([
+    utterances_example_1 = '\n'.join([
         f'{partner_interlocutor_id} (speaking): ...',
         f'{target_interlocutor_id} (speaking): ...',
         f'{partner_interlocutor_id} (speaking): ...',
@@ -68,20 +96,48 @@ def create_inner_monologue_annotation(utterances: str, target_interlocutor_id: s
         f'{partner_interlocutor_id} (speaking): ...',
         f'{target_interlocutor_id} (speaking): ...'
     ])
-    inner_monologue_example = '\n'.join([
+    inner_monologue_example_1 = '\n'.join([
         f'{partner_interlocutor_id} (speaking): ...',
+        f'{target_interlocutor_id} (thinking): (具体的な感情や考え)',
         f'{target_interlocutor_id} (speaking): ...',
         f'{partner_interlocutor_id} (speaking): ...',
         f'{target_interlocutor_id} (thinking): (具体的な感情や考え)',
         f'{target_interlocutor_id} (speaking): ...',
-        f'{target_interlocutor_id} (thinking): (具体的な感情や考え)',
         f'{partner_interlocutor_id} (speaking): ...',
-        f'{target_interlocutor_id} (speaking): ...',
         f'{target_interlocutor_id} (thinking): (具体的な感情や考え)',
+        f'{target_interlocutor_id} (speaking): ...',
         f'{partner_interlocutor_id} (speaking): ...',
         f'{target_interlocutor_id} (thinking): (具体的な感情や考え)',
         f'{target_interlocutor_id} (speaking): ...'
     ]) 
+    utterances_example_2 = '\n'.join([
+        f'{target_interlocutor_id} (speaking): ...',
+        f'{partner_interlocutor_id} (speaking): ...',
+        f'{target_interlocutor_id} (speaking): ...',
+        f'{partner_interlocutor_id} (speaking): ...',
+        f'{target_interlocutor_id} (speaking): ...',
+        f'{partner_interlocutor_id} (speaking): ...',
+        f'{target_interlocutor_id} (speaking): ...',
+        f'{partner_interlocutor_id} (speaking): ...',
+        f'{target_interlocutor_id} (speaking): ...'
+    ])
+    inner_monologue_example_2 = '\n'.join([
+        f'{target_interlocutor_id} (thinking): (具体的な感情や考え)',
+        f'{target_interlocutor_id} (speaking): ...',
+        f'{partner_interlocutor_id} (speaking): ...',
+        f'{target_interlocutor_id} (thinking): (具体的な感情や考え)',
+        f'{target_interlocutor_id} (speaking): ...',
+        f'{partner_interlocutor_id} (speaking): ...',
+        f'{target_interlocutor_id} (thinking): (具体的な感情や考え)',
+        f'{target_interlocutor_id} (speaking): ...',
+        f'{partner_interlocutor_id} (speaking): ...',
+        f'{target_interlocutor_id} (thinking): (具体的な感情や考え)',
+        f'{target_interlocutor_id} (speaking): ...',
+        f'{partner_interlocutor_id} (speaking): ...',
+        f'{target_interlocutor_id} (thinking): (具体的な感情や考え)',
+        f'{target_interlocutor_id} (speaking): ...'
+    ])
+
     system_prompt = '\n'.join([
         f'あなたは{target_interlocutor_id}です。あなたの性別やペルソナ、BigFive性格特性は次のようになっています。',
         f'性別: {target_interlocutor_gender_jp}',
@@ -94,20 +150,25 @@ def create_inner_monologue_annotation(utterances: str, target_interlocutor_id: s
         f'3. 主人公は{target_interlocutor_id}です。対話履歴の中に、{target_interlocutor_id}が何かを感じたり考えたりしたと思うところに、(thinking)のラベルを用いて{target_interlocutor_id}の気持ちや考えを挿入してください。',
         f'4. (speaking)のラベルの内容は「絶対に」書き換えないでそのまま残してください。',
         f'5. 「{target_interlocutor_id} (thinking): 〜 」という形式必ず従って、{target_interlocutor_id}の内心描写を追加してください。{partner_interlocutor_id} (thinking): 〜 という行は絶対に作らないでください。',
-        f'6. 各行に(speaking)や(thinking)のラベルは1つしか含まれないようにしてください。',
-        f'7. 基本的に(thinking)ラベルは{partner_interlocutor_id}の発言の後または{target_interlocutor_id}の発言の前に挿入してください。ただし、{target_interlocutor_id}が発言後に感情や考えを持った場合は、その発言の後に(thinking)ラベルを挿入してください。',
-        '',
+        f'6. 必ず{target_interlocutor_id} (speaking): 〜 という行の前に{target_interlocutor_id} (thinking): 〜 という行を挿入してください。',
         '次に、もとの対話履歴と出力のフォーマットの例を示します。',
-        'もとの対話履歴の例:',
-        f'{utterances_example}',
-        '出力の例:',
-        f'{inner_monologue_example}',
+        '',
+        'もとの対話履歴の例1:',
+        f'{utterances_example_1}',
+        '出力の例2:',
+        f'{inner_monologue_example_1}',
+        '',
+        'もとの対話履歴の例2:',
+        f'{utterances_example_2}',
+        '出力の例2:',
+        f'{inner_monologue_example_2}',
+        '',
         '回答を生成する際には、「出力:」を含めないでください。また、出力には空行を含めないでください'
     ])
 
     user_first_prompt = '\n'.join([
-        '以下の対話履歴を読んで、{target_interlocutor_id}の思考や感情が動いた場所に行を適宜挿入してください。',
-        '行を挿入する際は、(thinking): 〜 という形式で{target_interlocutor_id}の内心描写を追加してください。',
+        f'以下の対話履歴を読んで、{target_interlocutor_id}の思考や感情が動いた場所に行を適宜挿入してください。',
+        f'行を挿入する際は、(thinking): 〜 という形式で{target_interlocutor_id}の内心描写を追加してください。',
         '',
         f'対話履歴:',
         f'{utterances}'
@@ -123,6 +184,42 @@ def create_inner_monologue_annotation(utterances: str, target_interlocutor_id: s
     )
 
     return completion.choices[0].message.content
+
+'''
+gpt-4oの出力をjson形式に変換する関数
+入力: "A (thinking): 緊張するな\nA (speaking): こんにちは\nB (speaking): こんにちは"
+出力:  
+[
+    {
+        "role": "A",
+        "action": "(thinking)",
+        "content": "緊張するな",
+    },
+    {
+        "role": "A",
+        "action": "(speaking)",
+        "content": "こんにちは",
+    },
+    {
+        "role": "B",
+        "action": "(speaking)",
+        "content": "こんにちは",
+    }
+]
+'''
+def convert_raw_utterances_into_json_format(utterances: str) -> str:
+    utterances_list = utterances.split('\n')
+    utterances_json_list = []
+    for utterance in utterances_list:
+        role, action_content = utterance.split(' ', 1)
+        action, content = action_content.split(': ', 1)
+        utterance_dict = {
+            "role": role,
+            "action": action,
+            "content": content
+        }
+        utterances_json_list.append(utterance_dict)
+    return utterances_json_list
 
 if __name__ == '__main__':
     # RealPersonaChatのinterlocutor_datasetを読み込む
@@ -166,11 +263,11 @@ if __name__ == '__main__':
                     break
                 else:
                     print('inner_monologue_utterancesの形式が正しくありません。再度生成します。')
-
+        
             dialogue_first_person_dict = {
                 "dialogue_id": dialogue_id,
-                "utterances": utterances,
-                "inner_monologue_utterances": inner_monologue_utterances
+                "utterances": convert_raw_utterances_into_json_format(utterances),
+                "inner_monologue_utterances": convert_raw_utterances_into_json_format(inner_monologue_utterances)
             }
             dialogues_first_person_list.append(dialogue_first_person_dict)
 
