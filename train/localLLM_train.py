@@ -44,7 +44,7 @@ set_seed(100)
 
 DEVICE = torch.device("cuda:0" if torch.cuda.is_available else "cpu")
 DATAPATH = "/work/QG_nursing/QA_dataset_Swallow/"
-TRAINING_MODEL_NAME = "tokyotech-llm/Swallow-70b-instruct-hf"
+TRAINING_MODEL_NAME = "tokyotech-llm/Llama-3-Swallow-70B-Instruct-v0.1"
 LORA = True
 QUANTIZATION = True
 
