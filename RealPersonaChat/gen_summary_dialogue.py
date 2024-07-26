@@ -5,7 +5,7 @@ from dotenv import load_dotenv, find_dotenv
 from openai import OpenAI
 
 
-_ = load_dotenv(find_dotenv())
+_ = load_dotenv(find_dotenv(), override=True)
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 TARGET_INTERLOCUTOR_IDS = os.getenv("TARGET_INTERLOCUTOR_IDS").split(',')
 client = OpenAI(api_key=OPENAI_API_KEY)
