@@ -63,7 +63,7 @@ def convert_dialogues_format(dialogue_dataset, interlocutor_dataset, target_inte
                 interlocutor_dialogues.append(dialogue)
 
         # ファイルの保存
-        with open(f"./RealPersonaChat/data/{target_interlocutor_id}_dialogues.json", 'w') as f:
+        with open(f"./RealPersonaChat/data/change_format/{target_interlocutor_id}_dialogues.json", 'w') as f:
             json.dump(interlocutor_dialogues, f, ensure_ascii=False, indent=2)
 
 if __name__ == '__main__':
@@ -72,7 +72,7 @@ if __name__ == '__main__':
     interlocutor_dataset = load_dataset("nu-dialogue/real-persona-chat", name='interlocutor', trust_remote_code=True)
 
     # 読み込む対象のinterlocutor_idのリストを指定
-    target_interlocutor_ids = ['CP', 'AT', 'FR', 'CA', 'AY', 'DV', 'CE']
+    target_interlocutor_ids = ['CP', 'AT', 'FR', 'CA', 'AY', 'DV', 'CE', 'FL']
 
     # フォーマット変換
     convert_dialogues_format(dialogue_dataset, interlocutor_dataset, target_interlocutor_ids)

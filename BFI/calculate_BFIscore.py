@@ -7,6 +7,8 @@ model_name = 'tokyotech-llm/Llama-3-Swallow-8B-Instruct-v0.1'
 sampling_params = SamplingParams(
     temperature=0, max_tokens=5, stop="<|eot_id|>"
 )
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+llm = LLM(model_name, tensor_parallel_size=1)
 OUTPUT_DIR = './BFI/result/sample'
 
 question_num_detail_dict = {
@@ -61,9 +63,6 @@ def get_question_list():
 
 
 def calculate_BFI_score():
-    # 対話履歴の影響を受けないように毎回ここで初期化
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    llm = LLM(model_name, tensor_parallel_size=1)
     results = []
     questions = get_question_list()
     for question in tqdm(questions):
