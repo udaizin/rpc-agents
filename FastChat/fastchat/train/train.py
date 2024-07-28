@@ -61,7 +61,7 @@ class TrainingArguments(transformers.TrainingArguments):
     cache_dir: Optional[str] = field(default=None)
     optim: str = field(default="adamw_torch")
     model_max_length: int = field(
-        default=512,
+        default=1024,
         metadata={
             "help": "Maximum sequence length. Sequences will be right padded (and possibly truncated)."
         },
@@ -171,19 +171,14 @@ def make_supervised_data_module(
         for line in fp:
             if line:
                 raw_data.append(json.loads(line))
-    perm = np.random.permutation(len(raw_data))
-    split = int(len(perm) * 0.98)
-    train_indices = perm[:split]
-    eval_indices = perm[split:]
-    train_raw_data = [raw_data[i] for i in train_indices]
-    eval_raw_data = [raw_data[i] for i in eval_indices]
+    
+    train_raw_data = raw_data
 
-    rank0_print(f"#train {len(train_raw_data)}, #eval {len(eval_raw_data)}")
+    rank0_print(f"#train {len(train_raw_data)}")
 
     train_dataset = dataset_cls(train_raw_data, tokenizer=tokenizer)
-    eval_dataset = dataset_cls(eval_raw_data, tokenizer=tokenizer)
 
-    return dict(train_dataset=train_dataset, eval_dataset=eval_dataset)
+    return dict(train_dataset=train_dataset)
 
 
 def train():
@@ -199,7 +194,6 @@ def train():
     config = transformers.AutoConfig.from_pretrained(
         model_args.model_name_or_path,
         cache_dir=training_args.cache_dir,
-        trust_remote_code=model_args.trust_remote_code,
     )
     orig_ctx_len = getattr(config, "max_position_embeddings", None)
     if orig_ctx_len and training_args.model_max_length > orig_ctx_len:
@@ -212,7 +206,6 @@ def train():
         model_args.model_name_or_path,
         config=config,
         cache_dir=training_args.cache_dir,
-        trust_remote_code=model_args.trust_remote_code,
     )
     tokenizer = transformers.AutoTokenizer.from_pretrained(
         model_args.model_name_or_path,
@@ -220,11 +213,8 @@ def train():
         model_max_length=training_args.model_max_length,
         padding_side=model_args.padding_side,
         use_fast=False,
-        trust_remote_code=model_args.trust_remote_code,
     )
 
-    # if tokenizer.pad_token != tokenizer.unk_token:
-    #     tokenizer.pad_token = tokenizer.unk_token
     tokenizer.pad_token = tokenizer.eos_token
 
     # Load data
