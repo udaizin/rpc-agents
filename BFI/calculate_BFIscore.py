@@ -3,13 +3,13 @@ from vllm import LLM, SamplingParams
 from tqdm import tqdm
 
 
-model_name = 'tokyotech-llm/Llama-3-Swallow-8B-Instruct-v0.1'
+model_name = './models/Swallow3-8B-FL-lr-5e-6'
 sampling_params = SamplingParams(
     temperature=0, max_tokens=5, stop="<|eot_id|>"
 )
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 llm = LLM(model_name, tensor_parallel_size=1)
-OUTPUT_DIR = './BFI/result/sample'
+OUTPUT_DIR = './BFI/result/Swallow3-8B-FL-lr-5e-6'
 
 question_num_detail_dict = {
     1: '話し好き', 2: '無口な', 3: '陽気な', 4: '外交的', 5: '暗い', 6: '無愛想な', 7: '社交的', 8: '人嫌い', 9: '活動的な', 10: '意思表示しない', 11: '積極的な', 12: '地味な', # 外向性
@@ -78,9 +78,9 @@ def calculate_BFI_score():
             '7: 非常にあてはまる',
             '',
             '質問:',
-            '(X) りんごは赤い',
+            '(A) りんごは赤い',
             '回答:',
-            '(X) 7',
+            '(A) 7',
             '',
             '質問:',
             f'{question.detail}',
@@ -88,7 +88,7 @@ def calculate_BFI_score():
         ])
 
         message = [
-            {"role": "system", "content": "あなたにはこれからアンケートに受けてもらいます。"},
+            {"role": "system", "content": "あなたにはこれからアンケートに受けてもらいます。問題番号と数値のみで回答してください。"},
             {
                 "role": "user",
                 "content": BFI_test_prompt,
