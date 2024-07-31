@@ -7,9 +7,9 @@ from vllm import LLM, SamplingParams
 from tqdm import tqdm
 from datasets import load_dataset
 
-TARGET_INTERLOCUTOR_ID = 'FL'
-model_name = './models/Swallow3-8B-FL-v2-4e-6'
-OUTPUT_DIR = './BFI/result/Swallow3-8B-FL-v2-4e-6'
+TARGET_INTERLOCUTOR_ID = 'CP'
+model_name = f'./models/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v2-4e-6'
+OUTPUT_DIR = f'./BFI/result/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v2-4e-6'
 BIG_FIVE = ['外向性', '神経症傾向', '開放性', '誠実性', '協調性']
 RANDOM_ID_LIST = [20, 22, 3, 14, 50, 51, 59, 49, 23, 60, 53, 29, 25, 47, 41, 5, 6, 28, 15, 1, 2, 56, 33, 13, 52, 48, 10, 38, 32, 
                   19, 18, 30, 7, 37, 34, 31, 35, 36, 16, 17, 42, 8, 4, 44, 55, 46, 39, 26, 45, 12, 43, 21, 24, 54, 40, 58, 11, 57, 9, 27]
@@ -152,6 +152,90 @@ def calculate_BFI_score():
 
     return scores
 
+def calculate_BFI_score_plane_model():
+    model_name = 'tokyotech-llm/Llama-3-Swallow-8B-Instruct-v0.1'
+    output_dir = './BFI/result/Swallow3-8B-plane'
+    sampling_params = SamplingParams(
+        temperature=0, max_tokens=1, stop="<|eot_id|>"
+    )
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    llm = LLM(model_name, tensor_parallel_size=1)
+    results = []
+    questions = get_question_list()
+    # Question.idがRANDOM_ID_LISTの順番に従って質問事項をランダムに並び替える
+    questions = [questions[i-1] for i in RANDOM_ID_LIST]
+
+    interlocutor_dataset = load_dataset("nu-dialogue/real-persona-chat", name='interlocutor', trust_remote_code=True)
+    interlocutor_data = interlocutor_dataset['train'].filter(lambda x: x['interlocutor_id'] == TARGET_INTERLOCUTOR_ID)
+    target_interlocutor_personality = interlocutor_data[0]['personality']
+    openness = target_interlocutor_personality['BigFive_Openness']
+    conscientiousness = target_interlocutor_personality['BigFive_Conscientiousness']
+    extraversion = target_interlocutor_personality['BigFive_Extraversion']
+    agreeableness = target_interlocutor_personality['BigFive_Agreeableness']
+    neuroticism = target_interlocutor_personality['BigFive_Neuroticism']
+    
+    for question in tqdm(questions):
+
+        BFI_test_prompt = '\n'.join(['いまからあなたに性格に関する質問をします。以下の質問に対して、それぞれどのくらい当てはまるかを次の尺度で評価してください。回答するときは数字のみを出力してください。',
+            '',
+            '1: まったくあてはまらない',
+            '2: ほとんどあてはまらない',
+            '3: あまりあてはまらない',
+            '4: どちらとも言えない',
+            '5: ややあてはまる',
+            '6: かなりあてはまる',
+            '7: 非常にあてはまる',
+            '',
+            '質問:',
+            'りんごは赤い',
+            '回答:',
+            '7',
+            '',
+            '質問:',
+            f'{question.detail}',
+            '回答:'
+        ])
+
+        message = [
+            {"role": "system", "content": f"あなたにはこれからアンケートに受けてもらいます。数値のみで回答してください。"},
+            {
+                "role": "user",
+                "content": BFI_test_prompt,
+            },
+        ]
+        prompt = tokenizer.apply_chat_template(
+            message, tokenize=False, add_generation_prompt=True
+        )
+
+        output = llm.generate(prompt, sampling_params)
+
+        # output[0].outputs[0].textの最初の文字数字ならばその数字をquestionにセット
+        if output[0].outputs[0].text[0].isdigit():
+            # 数字が1~7の範囲内かどうか
+            if int(output[0].outputs[0].text[0]) < 1 or int(output[0].outputs[0].text[0]) > 7:
+                print('Error: 回答が1~7の範囲内にありません。')
+                print(f'ID: {question.id}, 出力: {output[0].outputs[0].text}')
+            else:
+                question.set_question_score(int(output[0].outputs[0].text))
+        else:
+            print('Error: 回答の最初の文字が数字ではありません。')
+            print(f'ID: {question.id}, 出力: {output[0].outputs[0].text}')
+    
+    # 性格特性ごとにスコアを集計
+    scores = {'外向性': 0, '神経症傾向': 0, '開放性': 0, '誠実性': 0, '協調性': 0}
+    for question in questions:
+        scores[question.category] += question.get_question_score()
+
+    # それぞれの性格特性のスコアの平均をとる
+    for key in scores.keys():
+        scores[key] = scores[key] / 12
+    
+    # 結果をjsonファイルに保存
+    with open(f'{output_dir}/BFI_test.json', 'w') as f:
+        results.append({'answer': [question.__dict__ for question in questions]})
+        results.append({'scores': scores})
+        json.dump(results, f, ensure_ascii=False, indent=2)
+
 def calculate_BFI_score_only_prompt():
     # プレーンモデルの読み込み
     model_name = 'tokyotech-llm/Llama-3-Swallow-8B-Instruct-v0.1'
@@ -237,11 +321,15 @@ def calculate_BFI_score_only_prompt():
         json.dump(results, f, ensure_ascii=False, indent=2)
 
 if __name__ == '__main__':
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
     parser = argparse.ArgumentParser()
+    parser.add_argument('--plane_model', action='store_true', default=False, help='If you want to use plane model, please use this option.')
     parser.add_argument('--only_prompt', action='store_true', default=False, help='If you want to output only prompt, please use this option.')
     args = parser.parse_args()
 
-    if args.only_prompt:
+    if args.plane_model:
+        calculate_BFI_score_plane_model()
+    elif args.only_prompt:
         calculate_BFI_score_only_prompt()
     else:
         calculate_BFI_score()
