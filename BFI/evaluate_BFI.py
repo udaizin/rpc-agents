@@ -26,7 +26,7 @@ def plot_radar_chart(my_model_result, only_prompt_result, target_interlocutor_BF
         '開放性': [my_model_result[1]['scores']['開放性'], only_prompt_result[1]['scores']['開放性'], target_interlocutor_BFI['開放性']],
         '誠実性': [my_model_result[1]['scores']['誠実性'], only_prompt_result[1]['scores']['誠実性'], target_interlocutor_BFI['誠実性']],
         '協調性': [my_model_result[1]['scores']['協調性'], only_prompt_result[1]['scores']['協調性'], target_interlocutor_BFI['協調性']],
-    }, index=['独自モデル', 'プロンプトのみ', '対象人物の真のスコア'])
+    }, index=['SFT済みモデル', '性格特性プロンプト', '対象人物の真のスコア'])
 
     circos = Circos.radar_chart(
         BFI_df,
