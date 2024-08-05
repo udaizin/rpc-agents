@@ -1,0 +1,7642 @@
+[
+  {
+    "dialogue_id": 961,
+    "utterances": [
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "こんにちわ！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは、今日も夏真っ盛りですね"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "とりあえず、挨拶は暑いって話になっちゃいますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "今年は特に。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "そうですよね。異常に暑いと思います。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "または大雨か。地震も。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "なんか梅雨が短いと異常気象が起こるとか言ってました。ニュースで。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうなんですね。今年もほぼ梅雨なかったですよね。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "そう思います。ほんとに短かったですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "もう、雨期という程度の方が良いとか。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "大雨で災害とか出ていますがそちらは大丈夫ですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私は関東なので今のところ大丈夫です。そちらはいかがですか？"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "私は岡山です。他のところには悪いですが全然なんともないですねー。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "数年前に確か岡山もひどいことに。。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "よくご存じで。結構近いところです。でも、うちの方は何ともなくてちょっとの距離でそこまで違うものかと。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "川の流れ次第でしょうか。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "そうですね。大きな川が近くにあるとあり得るってよくわかりました。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "小さな川でも油断できないとか聞きます。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "なるほど。昔の常識が通用しないですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "川のそばに昔は住んでいなかったのですかね。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "どうなんでしょうか。どっちかというと山のイメージがありますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "川は生き物だから時間と共に変化しますよね。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "そうですよね。大きさとか形も昔とは結構違うのかも。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "人は勝手に変わらぬものと考えちゃいけないのかも。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "自分の人生の中だけでも温度とか相当変わってますもんね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "３０度では大した感じでなくなりましたね。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "ですね。昔30度で大事のように言ってましたね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "４０度が近いなんて１０度も違う感覚。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "40度って風呂ですからね！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "確かに笑"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "こんにちわ！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "最近の異常気象が気になるな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは、今日も夏真っ盛りですね"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "とりあえず、挨拶は暑いって話になっちゃいますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "本当にそうだな。ほぼ毎日暑さの話題ばかりだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "今年は特に。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "そうですよね。異常に暑いと思います。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "気候がどんどん変わってきているのを感じる。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "または大雨か。地震も。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "なんか梅雨が短いと異常気象が起こるとか言ってました。ニュースで。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "ニュースで言ってたことは確かにその通りかもしれないな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうなんですね。今年もほぼ梅雨なかったですよね。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "そう思います。ほんとに短かったですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "確かに、梅雨の期間が短くなったことには気づいていた。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "もう、雨期という程度の方が良いとか。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "大雨で災害とか出ていますがそちらは大丈夫ですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "自分が住んでいるところは今のところ問題ないけど、他の地域が心配だ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私は関東なので今のところ大丈夫です。そちらはいかがですか？"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "私は岡山です。他のところには悪いですが全然なんともないですねー。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "岡山も災害が少ない場所なのか。良いことだけれども。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "数年前に確か岡山もひどいことに。。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "よくご存じで。結構近いところです。でも、うちの方は何ともなくてちょっとの距離でそこまで違うものかと。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "自然災害の影響が地域によってこんなに違うとは。驚きだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "川の流れ次第でしょうか。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "そうですね。大きな川が近くにあるとあり得るってよくわかりました。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "川の存在が災害のリスクを高めるのかもしれないな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "小さな川でも油断できないとか聞きます。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "なるほど。昔の常識が通用しないですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "本当に、昔とは違う環境になってきている。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "川のそばに昔は住んでいなかったのですかね。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "どうなんでしょうか。どっちかというと山のイメージがありますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "山と川、どちらも昔の人々にとって重要な場所だったんだろう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "川は生き物だから時間と共に変化しますよね。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "そうですよね。大きさとか形も昔とは結構違うのかも。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "自然の力は本当に計り知れない。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "人は勝手に変わらぬものと考えちゃいけないのかも。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "自分の人生の中だけでも温度とか相当変わってますもんね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "自分の経験からも気候の変化を感じる。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "３０度では大した感じでなくなりましたね。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "ですね。昔30度で大事のように言ってましたね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "今では40度に近づくことも珍しくなくなった。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "４０度が近いなんて１０度も違う感覚。"
+      },
+      {
+        "role": "BZ",
+        "action": "(speaking)",
+        "content": "40度って風呂ですからね！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "笑いごとではないけど、確かにその通りだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "確かに笑"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 1565,
+    "utterances": [
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "宜しくお願いいたします。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "お気に入りのお出かけ先はありますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "池袋には出ますがお気に入りの場所というのは特にないですね。ありますか？"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "東京にお住まいなんですねー。私は美術館や博物館が好きです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "美術館はたまに行きます。博物館より好きかも。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "そうなんですね。実は先日、上野の国立科学博物館へ行ってきました。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "外に鯨がいるところでしたっけ。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "そうです！小学生時代の修学旅行以来の来館でした。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "何か特別展をやっていましたか？"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "特別展を見る時間がなくて。常設のたくさんの恐竜の化石やはく製を見ました。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "どこが面白いですか笑。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "子どもも修学旅行で行ってまた行きたかったみたいで、私も懐かしい気持ちになれました。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "お子様中心だったのですね。確かに子供は好きですよね、ああいうの。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "そうなんです。科学のちょっとした実験を楽しめるコーナーもあったので、夢中になってました。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "夏休みの最高の思い出の一つにきっとなりましたね。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "はい、そうだといいなと思います。あと隣の上野動物園にも行きましたよ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私も息子家族と7月に行きました。ゴリラに会えなくて孫が残念がってました。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "お孫さんがいらっしゃるんですね。ゴリラ、残念でしたね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "なんか暑くて屋内にいたようです。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "なるほど。動物にも耐えがたい暑さが続いたときもありましたからね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "パンダ当たりましたか？"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "パンダ、見れました！私も子供の頃以来、パンダを見ましたよー。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "当たったのですね。あのちっちゃいこ見たいー。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "とてもかわいかったですよ。見れる機会があったら良いですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "パンダ絶対的かわいい。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "本当ですね。もふもふして、抱っこしてみたいです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "抱っこしたいですー"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "では、今日はお話ありがとうございました。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ありがとうございました"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "宜しくお願いいたします。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "どんな話題になるのか楽しみだな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "お気に入りのお出かけ先はありますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "池袋は便利だけど、お気に入りと言える場所は特にないな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "池袋には出ますがお気に入りの場所というのは特にないですね。ありますか？"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "東京にお住まいなんですねー。私は美術館や博物館が好きです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "美術館はたまに行くけど、博物館よりは好きかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "美術館はたまに行きます。博物館より好きかも。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "そうなんですね。実は先日、上野の国立科学博物館へ行ってきました。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "あそこは鯨の模型が有名だよね。何度か通ったことがある。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "外に鯨がいるところでしたっけ。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "そうです！小学生時代の修学旅行以来の来館でした。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "修学旅行以来って、懐かしい感じがするんだろうな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "何か特別展をやっていましたか？"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "特別展を見る時間がなくて。常設のたくさんの恐竜の化石やはく製を見ました。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "恐竜の化石とか、子供の頃は夢中になったなぁ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "どこが面白いですか笑。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "子どもも修学旅行で行ってまた行きたかったみたいで、私も懐かしい気持ちになれました。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "家族で行くと、子供たちが喜ぶ姿を見るのも楽しみだよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "お子様中心だったのですね。確かに子供は好きですよね、ああいうの。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "そうなんです。科学のちょっとした実験を楽しめるコーナーもあったので、夢中になってました。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "科学の実験コーナー、子供たちにはたまらないだろうな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "夏休みの最高の思い出の一つにきっとなりましたね。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "はい、そうだといいなと思います。あと隣の上野動物園にも行きましたよ。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そういえば、上野動物園も家族で行ったなぁ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私も息子家族と7月に行きました。ゴリラに会えなくて孫が残念がってました。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "お孫さんがいらっしゃるんですね。ゴリラ、残念でしたね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "孫ががっかりしてる姿を見るのは辛いけど、また行けばいいさ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "なんか暑くて屋内にいたようです。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "なるほど。動物にも耐えがたい暑さが続いたときもありましたからね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "暑さで動物たちも大変なんだな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "パンダ当たりましたか？"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "パンダ、見れました！私も子供の頃以来、パンダを見ましたよー。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "パンダに会えたなんて羨ましいな。特にあの子供パンダが見たい。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "当たったのですね。あのちっちゃいこ見たいー。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "とてもかわいかったですよ。見れる機会があったら良いですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "次回はパンダを見れるといいな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "パンダ絶対的かわいい。"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "本当ですね。もふもふして、抱っこしてみたいです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "もふもふのパンダ、抱っこしてみたいなぁ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "抱っこしたいですー"
+      },
+      {
+        "role": "BP",
+        "action": "(speaking)",
+        "content": "では、今日はお話ありがとうございました。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "楽しい話ができたな、またこんな風に話せるといいな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ありがとうございました"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 2559,
+    "utterances": [
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "秋にお出かけの予定はありますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "旅行に行きたいとは思っているのですが"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "いいですね。コロナがどうなっているでしょうかね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい。落ち着いてほしい。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "本当ですね。どちらに行かれるのかお考えはあるのですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "能登に行ってみたいと思っているのですが。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "能登、富山でしたっけ？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい。行ったことがないので。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "お魚が美味しかった記憶があります。甘えびとか鰤とか。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうですか。ぜひ魚食べたいですね。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "日本海のお魚美味しいですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうですね。種類も豊富だし"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "北陸新幹線でですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そこが迷いどころですね。飛行機か新幹線か。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "そうなんですね。北陸新幹線一度も乗ったことがないので乗ってみたいです。飛行機は早いから楽ですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私もないですね。あまり早くないのかな？"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "空港がどこにあるのかにもよりますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "微妙なんですよ。ほんとに。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "お車に乗られるのならレンタカー借りるのも手ですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "空港からレンタカーパターンは楽ですよね"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "ですね、いろんなところに行かれますし。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "小さい場所でも面白いところがあってよりたいものです"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "そうですよね。北陸旅行いいですね。金沢も行かれますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "２泊するなら金沢も寄りたいです"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "城下町で良いところでした。兼六園とか。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ですね。ただ金沢は行った事があるのでどうするか。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "なるほど。旅程を考えるのも楽しみの一つですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "あとはコロナくん大人しくしてて。"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "今日はどんな話ができるかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "秋にお出かけの予定はありますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そういえば、旅行のことを考えていたな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "旅行に行きたいとは思っているのですが"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "いいですね。コロナがどうなっているでしょうかね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "コロナの状況が気になるな。旅行のプランが台無しになるかも。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい。落ち着いてほしい。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "本当ですね。どちらに行かれるのかお考えはあるのですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "具体的な場所を考えておかないとな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "能登に行ってみたいと思っているのですが。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "能登、富山でしたっけ？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "あれ、富山だっけ？ちょっと混乱しているな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい。行ったことがないので。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "お魚が美味しかった記憶があります。甘えびとか鰤とか。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "美味しい魚が楽しみだな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうですか。ぜひ魚食べたいですね。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "日本海のお魚美味しいですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "日本海の魚は本当に美味しいから期待できる。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうですね。種類も豊富だし"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "北陸新幹線でですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "交通手段も考えないとな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そこが迷いどころですね。飛行機か新幹線か。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "そうなんですね。北陸新幹線一度も乗ったことがないので乗ってみたいです。飛行機は早いから楽ですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "飛行機と新幹線、どっちが便利なんだろう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私もないですね。あまり早くないのかな？"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "空港がどこにあるのかにもよりますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "空港の位置も確認しないと。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "微妙なんですよ。ほんとに。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "お車に乗られるのならレンタカー借りるのも手ですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "レンタカーがあると自由度が増すな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "空港からレンタカーパターンは楽ですよね"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "ですね、いろんなところに行かれますし。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "自由に動き回れるのは魅力的だ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "小さい場所でも面白いところがあってよりたいものです"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "そうですよね。北陸旅行いいですね。金沢も行かれますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "金沢も行ったことがあるけど、また行くのも悪くないかも。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "２泊するなら金沢も寄りたいです"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "城下町で良いところでした。兼六園とか。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "兼六園は特に印象に残っているな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ですね。ただ金沢は行った事があるのでどうするか。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "なるほど。旅程を考えるのも楽しみの一つですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "旅程を考える時間もワクワクするな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "あとはコロナくん大人しくしてて。"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 3366,
+    "utterances": [
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "こんにちは！よろしくお願いします！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "この夏はどこかに行かれましたか？"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "こんなご時世なのでどこにも行けていません。どこか行かれましたか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私は夏休み的なものはなく、旅行はなしですね"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "そうだったんですね、では何か夏らしいことはされましたか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "明日、海に行きます！"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "わー！海最高ですね！気温も少し過ごしやすくなってきましたし"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "少し海眺めて温泉入って帰ります"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "最高の過ごし方ですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "たまには良いかなと"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "とっても素敵だと思います！心身ともにリラックスなさってくださいね"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい、海は眺めるだけでも良い気分になれます。海は好きですか"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "海大好きです！名前に海に関する字が入っているので親近感があります"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "名前に海がーー。海近くの生まれなのですか"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "いえ、近くはないのですが母が海が大好きだそうで"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "小さい頃よく連れていってもらったとか"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "そうですね！何回か連れて行ってもらった思い出があります"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "きれいな海でしたか"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "綺麗だったと思いますー。どちらかと言うと砂浜の貝殻の方に夢中だったのであまり覚えてませんが"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "砂浜がきれいだったのかもしれませんね"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "そうだったかもしれないです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "泳ぎもできますか"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "あまり長くは無理ですができます！あなたは？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "泳ぎはできる方と思います。"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "すごいですね！じゃあ水泳の授業なんて余裕でしたか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "子供の頃は学校で教わって覚えました"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "そうだったんですね。プールの授業気持ち良かったですよね"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "夏は学校のプールで過ごした感じでした"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "良いですねー。学生時代の夏って感じです"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "今日は良い会話の始まりだな、どんな話題が出てくるか楽しみだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "こんにちは！よろしくお願いします！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "まずは相手の夏の過ごし方を聞いてみよう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "この夏はどこかに行かれましたか？"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "こんなご時世なのでどこにも行けていません。どこか行かれましたか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "やっぱりこのご時世では旅行は難しいか。自分も同じだな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私は夏休み的なものはなく、旅行はなしですね"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "そうだったんですね、では何か夏らしいことはされましたか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "海の予定を話してみようか。きっと興味を持ってくれるだろう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "明日、海に行きます！"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "わー！海最高ですね！気温も少し過ごしやすくなってきましたし"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうだね、少し涼しくなってきたのがありがたい。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "少し海眺めて温泉入って帰ります"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "最高の過ごし方ですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "たまにはこういうリラックスも必要だよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "たまには良いかなと"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "とっても素敵だと思います！心身ともにリラックスなさってくださいね"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "ありがとう、ゆっくりしてくるよ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい、海は眺めるだけでも良い気分になれます。海は好きですか"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "海大好きです！名前に海に関する字が入っているので親近感があります"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "名前に海が関係しているなんて素敵だな。どんな名前なのか気になる。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "名前に海がーー。海近くの生まれなのですか"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "いえ、近くはないのですが母が海が大好きだそうで"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "お母さんが海好きだったのか、家族の影響って大きいよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "小さい頃よく連れていってもらったとか"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "そうですね！何回か連れて行ってもらった思い出があります"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "子供の頃の思い出って大切だよな。どんな海だったんだろう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "きれいな海でしたか"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "綺麗だったと思いますー。どちらかと言うと砂浜の貝殻の方に夢中だったのであまり覚えてませんが"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "貝殻に夢中だったのか、子供らしいエピソードだな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "砂浜がきれいだったのかもしれませんね"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "そうだったかもしれないです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "それもまた良い思い出だよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "泳ぎもできますか"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "あまり長くは無理ですができます！あなたは？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "自分は泳ぎは得意な方だな。子供の頃の授業が懐かしい。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "泳ぎはできる方と思います。"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "すごいですね！じゃあ水泳の授業なんて余裕でしたか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうだな、学校のプールでよく泳いだなあ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "子供の頃は学校で教わって覚えました"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "そうだったんですね。プールの授業気持ち良かったですよね"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "夏の学校のプールは本当に気持ちよかった。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "夏は学校のプールで過ごした感じでした"
+      },
+      {
+        "role": "EF",
+        "action": "(speaking)",
+        "content": "良いですねー。学生時代の夏って感じです"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 3729,
+    "utterances": [
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "こんにちは！よろしくお願いいたします。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "好きな色はありますか"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "色ですか！そうですね、最近は緑が好きですね"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "緑は昔は興味あまりなかったですか"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "そうですねえ。青系とかモノトーンのほうが好みでしたね"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "緑は自然の緑ですか。服装とかに表れますか"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "きっかけは、インテリアをグリーン中心にしはじめたことです"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "カーテンとかカーペットですか"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "ですね。壁紙とか、ファブリックとかも。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そのタイミングで緑を選ぶようになったのですね"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "はい。生花を飾ったり。急に自然派みたいな感じになりました。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "目にも優しいように思えますが"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "だと思います。在宅ワークになって家にいる時間が増えたので、落ち着くようにしたいなと"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "コロナ前は出かけてのお仕事だったのですね"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "はい。家にいるのは朝夜の寝ている時間だけくらいな感じでした"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "部屋の価値が変わったのですね"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "仰るとおりで。前はモノトーンの狭い部屋だったのですが、引っ越しもしてインテリアも変えました"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "おー、さぞかまってもらっている部屋くんは喜んでいるでしょう"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "そうだと嬉しいですが。お好きな色は何色ですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私は青に頼りがちです"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "お洋服などで？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ですね。人に選んでもらわないと青ばっかりに"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "青はしまって見える効果があるらしいですから、お洋服にいいと思います！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうなんですな。赤は太って見えるとか"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "赤もそうですし、ピンクとかぼんやりした色は膨張色ってききますね"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ピンクもですか。Tシャツ持ってます。貰い物のピンク"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "派手な感じですね！でもＴシャツなら、合わせるものによっては差し色で素敵かもです！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "一度も着ていません笑"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "もったいない！ぜひ勇気を出して着てみてください！"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "初対面の人と話すのはやっぱり少し緊張するな。でも、相手も感じよさそうだし、会話を楽しもう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "こんにちは！よろしくお願いいたします。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "まずは無難に会話を始めよう。好きな色の話題ならリラックスできるかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "好きな色はありますか"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "色ですか！そうですね、最近は緑が好きですね"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "緑か、自然を連想させる色だな。前はどうだったのか気になる。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "緑は昔は興味あまりなかったですか"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "そうですねえ。青系とかモノトーンのほうが好みでしたね"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "人の好みって変わるもんだよな。それにしても、どうして緑に変わったんだろう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "緑は自然の緑ですか。服装とかに表れますか"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "きっかけは、インテリアをグリーン中心にしはじめたことです"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "インテリアからか。確かに部屋の雰囲気を変えると気分も変わるよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "カーテンとかカーペットですか"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "ですね。壁紙とか、ファブリックとかも。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "結構本格的に変えたんだな。部屋全体が緑に包まれてるのか。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そのタイミングで緑を選ぶようになったのですね"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "はい。生花を飾ったり。急に自然派みたいな感じになりました。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "生花まで取り入れるなんて、本当に自然派だな。目にも優しいし、リラックスできそう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "目にも優しいように思えますが"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "だと思います。在宅ワークになって家にいる時間が増えたので、落ち着くようにしたいなと"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "在宅ワークか。確かに家にいる時間が長くなると、居心地の良さが大事だよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "コロナ前は出かけてのお仕事だったのですね"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "はい。家にいるのは朝夜の寝ている時間だけくらいな感じでした"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そんなに忙しかったんだ。でも、家で過ごす時間が増えると部屋の価値も変わるよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "部屋の価値が変わったのですね"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "仰るとおりで。前はモノトーンの狭い部屋だったのですが、引っ越しもしてインテリアも変えました"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "引っ越しまでしてインテリアも変えたなんて、相当気合い入れてるな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "おー、さぞかまってもらっている部屋くんは喜んでいるでしょう"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "そうだと嬉しいですが。お好きな色は何色ですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "自分の好きな色か。青は結構定番だけど、やっぱり落ち着くんだよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私は青に頼りがちです"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "お洋服などで？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうそう、ついつい青ばっかり選んじゃうんだよな。他の色も試してみたいけど。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ですね。人に選んでもらわないと青ばっかりに"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "青はしまって見える効果があるらしいですから、お洋服にいいと思います！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "なるほど、青は引き締め効果があるのか。それなら安心だ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうなんですな。赤は太って見えるとか"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "赤もそうですし、ピンクとかぼんやりした色は膨張色ってききますね"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "ピンクも膨張色か。でも、持ってるTシャツはどうしようかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ピンクもですか。Tシャツ持ってます。貰い物のピンク"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "派手な感じですね！でもＴシャツなら、合わせるものによっては差し色で素敵かもです！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "差し色か。やってみる価値はあるかもしれないな。でも、なかなか勇気がいるな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "一度も着ていません笑"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "もったいない！ぜひ勇気を出して着てみてください！"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 3750,
+    "utterances": [
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "映画とか見ますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "好きです"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "最近はどうですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "最新はトップガンです"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "有名ですね。ご感想は"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "やはりよかったです。泣けました。"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "実は見たことなくて"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "１話をネットで見てから行かれると良いかも"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "なるほど。みんな見てるから気になってます"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "単純で良い映画と思います"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "今度見てみます"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ぜひ。あとはネットフリックスものですね。見てるのは。"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "ネットフリックス、登録してます"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "海外ものですか。子供用ですか"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "海外ドラマをちょこちょこ見ました"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "長いものになると見続けちゃいます"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "プリズンブレイクとか"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうですね。今は「YOU」というのにハマってます"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "初めて聞きました"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ちょっと怖いですけど面白いです"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "ホラー系ですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "いいえ。ただ殺人が絡んできます"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "あとでチェックしてみます"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "一人で見るのがおすすめです"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "子どもは無理そうですか"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "絶対無理です！"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "それは聞けてよかったです！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ちょっと覗いてみてください。"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "どんな話が始まるのかな？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "映画とか見ますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "映画の話か、いいね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "好きです"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "最近はどうですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "最近見た映画は何だったかな？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "最新はトップガンです"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "有名ですね。ご感想は"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "感動したから、その気持ちを伝えたいな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "やはりよかったです。泣けました。"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "実は見たことなくて"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "それなら1話から見たほうがいいかも。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "１話をネットで見てから行かれると良いかも"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "なるほど。みんな見てるから気になってます"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "みんなが見てるなら、やっぱりおすすめしたいな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "単純で良い映画と思います"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "今度見てみます"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "ぜひ見てほしいな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ぜひ。あとはネットフリックスものですね。見てるのは。"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "ネットフリックス、登録してます"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "どんな作品を見てるんだろう？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "海外ものですか。子供用ですか"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "海外ドラマをちょこちょこ見ました"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "海外ドラマも面白いよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "長いものになると見続けちゃいます"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "プリズンブレイクとか"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "プリズンブレイクは定番だよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうですね。今は「YOU」というのにハマってます"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "初めて聞きました"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "知らないなら、少し説明しようかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ちょっと怖いですけど面白いです"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "ホラー系ですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "ホラーではないけど、説明が難しいな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "いいえ。ただ殺人が絡んできます"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "あとでチェックしてみます"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "ぜひチェックしてみてほしい。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "一人で見るのがおすすめです"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "子どもは無理そうですか"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "絶対に子供には見せられない内容だな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "絶対無理です！"
+      },
+      {
+        "role": "EO",
+        "action": "(speaking)",
+        "content": "それは聞けてよかったです！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうだね、事前に注意しておくのは大事だね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ちょっと覗いてみてください。"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 4125,
+    "utterances": [
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "こんにちは。よろしくお願いいたします。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "休みの時は何をされますか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "仕事がない時は、趣味の勉強をしています。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "勉強が趣味？趣味の勉強？"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "演奏家になりたいので、ずっと勉強をしています。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "何の演奏家ですか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "ピアノの前の楽器なんですがチェンバロを勉強しています。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "どこの国の発祥ですか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "ヨーロッパ、フランスとかイタリアとかが最初だと思います。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "教室に通っているのですか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "教室はないので、直接演奏家にレッスンをお願いしています。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "演奏家のお宅にうかがう形ですか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "はい。今月は4人の演奏家にみてもらうためにご自宅に通います。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "すごいですね。サスペンスドラマみたいです！"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "そうですか。そうですね。関西にいらっしゃることが多いので、週末はほとんど関西です。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "持ち運べる楽器なのですか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "いいえ。グランドピアノよりは軽いんですがよく似た形です。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ピアノの延長線で始められたのですか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "若い頃母が病気になった時に聞いた音がチェンバロだったのでそれがきっかけです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "思い出の楽器というわけですね"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "そうですね。もう人生終わりに近いので、今必死に勉強しているんです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "お母様に聞いてもらおうという思いですか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "いいえ、母は若いころになくなってしまって、病気がなかなかつらかったです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "演奏家が行われたりしますか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "はい。時々演奏会もやっています。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "生涯勉強することは素晴らしいですね"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "はい。仕事に命かけても、退職後は手元にスキルは残りませんから。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "おっしゃる通りです！"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "今日はお話聞いてくださってありがとうございました。"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "どんな趣味を持っているのか興味があるな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "こんにちは。よろしくお願いいたします。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "休みの日に何をしているのか聞いてみよう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "休みの時は何をされますか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "仕事がない時は、趣味の勉強をしています。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "趣味の勉強って何だろう？具体的に聞いてみよう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "勉強が趣味？趣味の勉強？"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "演奏家になりたいので、ずっと勉強をしています。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "演奏家とはまたすごいな。何の楽器か気になる。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "何の演奏家ですか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "ピアノの前の楽器なんですがチェンバロを勉強しています。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "チェンバロか、あまり聞きなれない楽器だな。どこの国の楽器なのかな？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "どこの国の発祥ですか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "ヨーロッパ、フランスとかイタリアとかが最初だと思います。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "ヨーロッパの古い楽器なんだな。どこで勉強しているのか聞いてみよう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "教室に通っているのですか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "教室はないので、直接演奏家にレッスンをお願いしています。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "演奏家の自宅に通っているのか。なかなかユニークだな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "演奏家のお宅にうかがう形ですか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "はい。今月は4人の演奏家にみてもらうためにご自宅に通います。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "4人も演奏家に教えてもらっているなんて、まるでサスペンスドラマのようだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "すごいですね。サスペンスドラマみたいです！"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "そうですか。そうですね。関西にいらっしゃることが多いので、週末はほとんど関西です。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "関西まで行くのか。楽器の移動はどうしているんだろう？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "持ち運べる楽器なのですか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "いいえ。グランドピアノよりは軽いんですがよく似た形です。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "持ち運びは大変そうだけど、どうやって始めたのか聞いてみよう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ピアノの延長線で始められたのですか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "若い頃母が病気になった時に聞いた音がチェンバロだったのでそれがきっかけです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "なるほど、お母さんとの思い出がきっかけか。感慨深いな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "思い出の楽器というわけですね"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "そうですね。もう人生終わりに近いので、今必死に勉強しているんです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そんな深い理由で勉強しているなんて尊敬するな。お母さんのために演奏するのか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "お母様に聞いてもらおうという思いですか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "いいえ、母は若いころになくなってしまって、病気がなかなかつらかったです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "それは辛い経験だっただろうな。演奏会も開いているのか聞いてみよう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "演奏家が行われたりしますか"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "はい。時々演奏会もやっています。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "続けている姿勢が素晴らしいな。勉強し続けることは本当に尊敬する。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "生涯勉強することは素晴らしいですね"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "はい。仕事に命かけても、退職後は手元にスキルは残りませんから。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "確かに、仕事だけではなく自己成長も大切だな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "おっしゃる通りです！"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "今日はお話聞いてくださってありがとうございました。"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 4236,
+    "utterances": [
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんにちわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "今日はもう昼食は摂られましたか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "今日はサンドイッチでした"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "いいですね！手作りですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "カフェのランチです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "何だか凄く優雅な感じですね！カフェには良く行かれるんですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "休みの日はジムの後、安いカフェによります"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "と言うことは、今日はお休みでしたか。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい、休みです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私も今日はお休みでした。午前中にジムに行かれてたのですか？結構運動はされるのですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "休みの日はジムに行きます"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ジムでは泳いだりとかですか？それともエクササイズとか筋トレとかですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "1時間ほどの筋トレとランです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "お休みの日はと言うことは、毎週2回とかのペースで運動されている感じですかね？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ですね。週二回は行きたいと思ってます。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "いいですね！健康的な感じです。結構体力は付きましたか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "歳なので維持したい目的でやってます"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私も40に手が届く範囲なので、休みの日には筋トレしてますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "長い年、筋トレされていますか"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "2年程ですね。私も1時間程を週２回って感じですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "2年続けばこの先もできそうですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "体型が変わるのが面白くなってきましたね。そちらもそんな感じですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "体型維持が精一杯笑"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはは。それでも充分だと思います。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "筋肉がなくならないようにと"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですね。食生活にも気を付けたい所ですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "確かにカロリー注意かも"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ありますね！ついつい食べてしまうとか！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "いろいろ気を使いますね"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんにちわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "こちらこそ、よろしくお願いします。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "今日はもう昼食は摂られましたか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "今日は何を食べたか思い出そう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "今日はサンドイッチでした"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "いいですね！手作りですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "手作りはあまりしないなあ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "カフェのランチです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "何だか凄く優雅な感じですね！カフェには良く行かれるんですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "優雅というより安いからね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "休みの日はジムの後、安いカフェによります"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "と言うことは、今日はお休みでしたか。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そう、今日はリラックスできる日だ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい、休みです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私も今日はお休みでした。午前中にジムに行かれてたのですか？結構運動はされるのですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうだね、運動は大切だから。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "休みの日はジムに行きます"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ジムでは泳いだりとかですか？それともエクササイズとか筋トレとかですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "今日は筋トレとランニングだったな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "1時間ほどの筋トレとランです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "お休みの日はと言うことは、毎週2回とかのペースで運動されている感じですかね？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "うん、できるだけ続けたい。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ですね。週二回は行きたいと思ってます。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "いいですね！健康的な感じです。結構体力は付きましたか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "体力というより維持が目的かな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "歳なので維持したい目的でやってます"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私も40に手が届く範囲なので、休みの日には筋トレしてますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "お互い頑張ってるんだな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "長い年、筋トレされていますか"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "2年程ですね。私も1時間程を週２回って感じですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "続けることが大事だね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "2年続けばこの先もできそうですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "体型が変わるのが面白くなってきましたね。そちらもそんな感じですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "体型維持って本当に大変。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "体型維持が精一杯笑"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはは。それでも充分だと思います。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そう言ってもらえると少し気が楽になる。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "筋肉がなくならないようにと"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですね。食生活にも気を付けたい所ですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "食事制限も大事だよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "確かにカロリー注意かも"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ありますね！ついつい食べてしまうとか！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうそう、ついつい食べ過ぎてしまうんだよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "いろいろ気を使いますね"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 4238,
+    "utterances": [
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんにちわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "漫画とかはよく読まれますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ほぼ読まないですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "では、最近何かハマっていることはありますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ティックトックかもしれません"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "おぉ、色々公開されているのですか？それとも見る専門ですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "見る専門です"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "何か最近面白かった動画はありましたか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "音楽ものとか、エクセルの裏技も良いです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "面白そうですね！見たことがないので興味深いです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "暇つぶしに見ていまします"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "youtubeとかtwitterとかと同じですね。時間泥棒ですよね。あれって。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "YouTubeよりリコメンドで降ってくるので危険です笑"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはは。それだけ賑わっている感じですかね！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "自分の趣向が完全に吸い取られます"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "わかります！最初はちょっとだけのつもりが気付けばって感じですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ついつい好きなものの見る秒数が長くなるのです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "毎日見てしまう感じですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "一回は見てると思います"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはは。夢中ですね。私も興味が出てきました。おすすめの投稿者さんとかはいますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "何かみればすぐにリコメンドの傾向によって行きます"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "見た動画に対して、これどうよ？って感じでおすすめが表示される感じですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "どんどんスワイプしていくのですがその映像がリコメンド映像みたいです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "面白そうですね。主に見るのはスマホでですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい、多分スマホだけかな"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "PCでは見れないんでしたっけ？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "アプリがなかったような"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "なるほど。ではまず、私の場合はアプリのインストールからですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ハマらないようお気をつけて"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんにちわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "こちらこそ、どんな話ができるかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "漫画とかはよく読まれますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "漫画か、若い頃は読んでたけど今は全然だな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ほぼ読まないですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "では、最近何かハマっていることはありますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "ハマっているというか、つい見ちゃうのはティックトックかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ティックトックかもしれません"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "おぉ、色々公開されているのですか？それとも見る専門ですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "自分で何かを公開するよりも、見る方が楽しいんだよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "見る専門です"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "何か最近面白かった動画はありましたか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "音楽系の動画やエクセルの裏技は特に面白かったな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "音楽ものとか、エクセルの裏技も良いです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "面白そうですね！見たことがないので興味深いです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "暇つぶしにはもってこいだけど、時間があっという間に過ぎてしまうんだよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "暇つぶしに見ていまします"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "youtubeとかtwitterとかと同じですね。時間泥棒ですよね。あれって。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうそう、特にティックトックは短い動画が次々と出てくるからね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "YouTubeよりリコメンドで降ってくるので危険です笑"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはは。それだけ賑わっている感じですかね！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "賑わっているというか、自分の好みにどんどんハマっていく感じがするんだよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "自分の趣向が完全に吸い取られます"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "わかります！最初はちょっとだけのつもりが気付けばって感じですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "本当にその通りだな、気づけば1時間とか経ってることもあるし。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ついつい好きなものの見る秒数が長くなるのです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "毎日見てしまう感じですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "毎日というか、一度は必ずチェックしてる気がする。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "一回は見てると思います"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはは。夢中ですね。私も興味が出てきました。おすすめの投稿者さんとかはいますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "特定の投稿者というよりも、リコメンドされる動画が次々と面白いんだよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "何かみればすぐにリコメンドの傾向によって行きます"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "見た動画に対して、これどうよ？って感じでおすすめが表示される感じですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうそう、次々とスワイプしていくうちにどんどん引き込まれるんだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "どんどんスワイプしていくのですがその映像がリコメンド映像みたいです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "面白そうですね。主に見るのはスマホでですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうだね、やっぱりスマホが手軽だから。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい、多分スマホだけかな"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "PCでは見れないんでしたっけ？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "確かアプリはスマホ専用だったと思うけど。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "アプリがなかったような"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "なるほど。ではまず、私の場合はアプリのインストールからですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうだね、でもハマりすぎないように注意してね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ハマらないようお気をつけて"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 4239,
+    "utterances": [
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんにちわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "好きな季節はありますか"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私は秋が好きですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "まさにこれからですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "はい、涼しくなって来る感じが好きなんです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "夏は苦手でしたか"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "一番苦手な季節ですね。寒さは服を重ねれば何とかなりますけれども、夏はそうはいかないですからね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "秋になると何か行動しますか"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "そうですね。何かに挑戦してみようと言う気が大きくなる気はしますね。そちらはどうですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私は春好きですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "春も良いですよね。どんな所がお好きですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "暖かくなっていく感じと桜に惹かれます"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "桜は綺麗ですものね！今年はお花見とかには行かれましたか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "家の前の桜見物程度でした"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "来年はお花見が出来ると良いですよねー"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ちょっと出かけてみたいものですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですね。もしコロナが収束したら行ってみたい場所ってありますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "伊豆方とか行ってみたいです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "伊豆ですか！何か見たい場所とか食べたい物とかあるのですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "河津桜とやらをみに行ってみたいです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "桜が本当にお好きなんですね！ウチの近所にも植えてありますが、綺麗ですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "あの一瞬の華やかさが好きです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "わかります！綺麗なのと物悲しいのが合わさってますよね！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "気分も明るくなります"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですね！春が来た！ってのを感じますものね！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "秋の涼しさも捨て難いのですが少し寂しさが残ります"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あぁ、秋はただ散っていくだけですものね。終わりって感じがしますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "12月はイベント気分で楽しくなりますが"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "わかります！12月はイベントの宝庫ですよね！"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "初めての会話だし、まずは軽い話題から始めよう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんにちわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "季節の話題は無難で話しやすいかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "好きな季節はありますか"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私は秋が好きですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "これから秋が来るから、話が広がりそうだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "まさにこれからですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "はい、涼しくなって来る感じが好きなんです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "涼しさが好きなら、夏は苦手かもしれないな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "夏は苦手でしたか"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "一番苦手な季節ですね。寒さは服を重ねれば何とかなりますけれども、夏はそうはいかないですからね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "やっぱり夏が苦手なんだな。秋になると何か特別なことをするのかな？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "秋になると何か行動しますか"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "そうですね。何かに挑戦してみようと言う気が大きくなる気はしますね。そちらはどうですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "僕は春が好きだけど、どう説明しようかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私は春好きですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "春も良いですよね。どんな所がお好きですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "桜と暖かくなる感じが特に好きなんだよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "暖かくなっていく感じと桜に惹かれます"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "桜は綺麗ですものね！今年はお花見とかには行かれましたか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "今年は家の前だけだったなぁ。でもそれなりに楽しめた。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "家の前の桜見物程度でした"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "来年はお花見が出来ると良いですよねー"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "来年はもっと遠くに行ってみたいな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ちょっと出かけてみたいものですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですね。もしコロナが収束したら行ってみたい場所ってありますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "伊豆の河津桜は前から気になってたんだよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "伊豆方とか行ってみたいです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "伊豆ですか！何か見たい場所とか食べたい物とかあるのですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "具体的には河津桜が見たいな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "河津桜とやらをみに行ってみたいです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "桜が本当にお好きなんですね！ウチの近所にも植えてありますが、綺麗ですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "桜の一瞬の美しさに魅力を感じるんだよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "あの一瞬の華やかさが好きです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "わかります！綺麗なのと物悲しいのが合わさってますよね！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "桜を見ると気分が明るくなるんだよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "気分も明るくなります"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですね！春が来た！ってのを感じますものね！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "秋の涼しさも捨てがたいけど、少し寂しいんだよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "秋の涼しさも捨て難いのですが少し寂しさが残ります"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あぁ、秋はただ散っていくだけですものね。終わりって感じがしますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "でも、12月になるとイベントが多くて賑やかになるから楽しみだな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "12月はイベント気分で楽しくなりますが"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "わかります！12月はイベントの宝庫ですよね！"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 4836,
+    "utterances": [
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "食べ物の好き嫌いはありますか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "好き嫌いもありますし、体の拒絶というか、そういうものもあります。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "アレルギーとかですか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "そういうものではないので中々理解されないものがあります。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "よく食べるものはありますか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "こないだまでは少しジャンクフードが多かったですが最近は味噌汁が。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "味噌汁の具は何か入れますか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "インスタントなのであれなんですけど、作れたら色々入れたいですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "インスタントも美味しいですよね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "美味しいですけど、カップで売ってるやつがいいですね。袋詰めされてる方はちょっと劣るというか。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "なるほど。カップの方が少し割高ですかね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "そういう理由もあるかもしれません。味噌汁作られるんですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私は全て妻に任せっきりでして"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "奥さんは味噌汁作ってくれるんですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい、作ります"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "夏はあまり持たないらしく、僕の母は中々作ってくれなくて。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "確かに夏は日持ちがしないかもですね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "冷蔵庫に鍋ごと入れたりするといいみたいですが。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "それは大胆でいいかも"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "カレーとかも同じってなんかで聞いたような。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "冷蔵庫が鍋で一杯に笑"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "お子さんいるんですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい、孫までいます"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "それは一杯になりますねー。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "一緒に住んでいたとしたらおっきな冷蔵庫が必要ですね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "今おいくつぐらいですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私はシニアです"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "シニアっていうとどれぐらいだろう。"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "まずは挨拶から始めよう。どんな話題が盛り上がるかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "食べ物の話題は無難だし、きっと興味を持ってもらえるはず。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "食べ物の好き嫌いはありますか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "好き嫌いもありますし、体の拒絶というか、そういうものもあります。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "体の拒絶？アレルギーのことかな？それなら共感しやすい。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "アレルギーとかですか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "そういうものではないので中々理解されないものがあります。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "なるほど、一般的なアレルギーとは違うんだな。何をよく食べるのか聞いてみよう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "よく食べるものはありますか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "こないだまでは少しジャンクフードが多かったですが最近は味噌汁が。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "味噌汁か、健康的だな。どんな具を入れるのか気になる。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "味噌汁の具は何か入れますか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "インスタントなのであれなんですけど、作れたら色々入れたいですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "インスタントでも美味しいよね、手軽だし。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "インスタントも美味しいですよね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "美味しいですけど、カップで売ってるやつがいいですね。袋詰めされてる方はちょっと劣るというか。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "確かに、カップの方が手軽だけど少し高いかもね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "なるほど。カップの方が少し割高ですかね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "そういう理由もあるかもしれません。味噌汁作られるんですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "実は全部妻に任せてるんだよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私は全て妻に任せっきりでして"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "奥さんは味噌汁作ってくれるんですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうだね、妻が作ってくれるよ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい、作ります"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "夏はあまり持たないらしく、僕の母は中々作ってくれなくて。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "夏は確かに日持ちがしないな。冷蔵庫に入れる方法があるかも。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "確かに夏は日持ちがしないかもですね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "冷蔵庫に鍋ごと入れたりするといいみたいですが。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "鍋ごと冷蔵庫に入れるのは大胆な方法だな、でも効果的かも。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "それは大胆でいいかも"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "カレーとかも同じってなんかで聞いたような。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "カレーも同じか。冷蔵庫が鍋でいっぱいになりそうだな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "冷蔵庫が鍋で一杯に笑"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "お子さんいるんですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "子供どころか、もう孫までいるんだよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい、孫までいます"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "それは一杯になりますねー。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "確かに、家族が多いと冷蔵庫も大きくないとね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "一緒に住んでいたとしたらおっきな冷蔵庫が必要ですね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "今おいくつぐらいですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "具体的な年齢は言わないけど、シニアって答えよう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私はシニアです"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "シニアっていうとどれぐらいだろう。"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 4838,
+    "utterances": [
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "何か趣味はお持ちですか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "趣味はゲームとか読書とか空想とか寝るとか色々ですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "たくさんですね。ゲームはどんなものですか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "最近はスマホのものが多いですね、以前はパソコンでしたが。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "スマホは外でもやってる人いますね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "というかそのためのスマホというか。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "スマホゲームで何にハマっている感じですか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "先ほどのドラクエウォークとかはちょっと飽きてきて今はオバマスっていうのをやってます。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "オバマスってどんなものですか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "えーっとオーバーロードっていうダークファンタジー作品をゲームにした感じです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "何かと戦う感じですか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "そうですね、ちょっとしたストーリーがあってドラクエみたいな形式でバトルして。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "スマホだと一人でプレイするのでしょうか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "そうですね、ただマルチもこのゲームにはあって。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ネット上の誰かとチームを組むのですか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "あんまり組んでる感じしないんですけどそういうことですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ゴールはどうしたら終わるのでしょう"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "基本的にスマホのゲームは終わらない感じになってて、短いゴールの連続というか。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "とりこにさせるわけですね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "そうですね、というかゴールが長すぎても短すぎても合わない人が出てくると思うので。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうですね。私はいつかプレステを買いたいと思ってます"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "スイッチではなく？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい。グランツーリスモというレースゲームがしてみたくて"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "初めて聞く名前です。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "面白そうです"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "どういう感じなんでしょう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "CGが本物の車に乗っている感じです"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "なるほど。"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "どんな趣味を持っているのか興味があるな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "ゲームや読書、空想なんて多趣味だな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "何か趣味はお持ちですか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "趣味はゲームとか読書とか空想とか寝るとか色々ですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "ゲームに興味があるから、どんなゲームか詳しく聞いてみよう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "たくさんですね。ゲームはどんなものですか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "最近はスマホのものが多いですね、以前はパソコンでしたが。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "スマホゲームは手軽だし、外でもプレイできるのが便利だよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "スマホは外でもやってる人いますね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "というかそのためのスマホというか。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "どんなスマホゲームにハマっているのか気になるな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "スマホゲームで何にハマっている感じですか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "先ほどのドラクエウォークとかはちょっと飽きてきて今はオバマスっていうのをやってます。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "オバマス？初めて聞く名前だな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "オバマスってどんなものですか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "えーっとオーバーロードっていうダークファンタジー作品をゲームにした感じです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "ダークファンタジーか。どんな戦いがあるのか知りたいな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "何かと戦う感じですか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "そうですね、ちょっとしたストーリーがあってドラクエみたいな形式でバトルして。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "一人でプレイするのか、誰かと一緒にプレイするのか気になるな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "スマホだと一人でプレイするのでしょうか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "そうですね、ただマルチもこのゲームにはあって。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "ネット上でチームを組むって面白そうだな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ネット上の誰かとチームを組むのですか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "あんまり組んでる感じしないんですけどそういうことですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "スマホゲームのゴールってどうなってるんだろう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ゴールはどうしたら終わるのでしょう"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "基本的にスマホのゲームは終わらない感じになってて、短いゴールの連続というか。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "なるほど、そうやってプレイヤーを引きつけるんだな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "とりこにさせるわけですね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "そうですね、というかゴールが長すぎても短すぎても合わない人が出てくると思うので。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "自分もゲームを楽しみたいけど、どれを選ぶか悩むな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうですね。私はいつかプレステを買いたいと思ってます"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "スイッチではなく？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "グランツーリスモに興味があるんだよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい。グランツーリスモというレースゲームがしてみたくて"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "初めて聞く名前です。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "ゲームの映像がどれだけリアルか、実際に見てみたいな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "面白そうです"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "どういう感じなんでしょう。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "本物の車に乗っているような感覚が味わえるんだよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "CGが本物の車に乗っている感じです"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "なるほど。"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 9792,
+    "utterances": [
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "晴れの日は気持ちがいいです"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "わかります。早朝が特に良いですがあなたはどうですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "まだ暑くならない時の青空が良いです"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "綺麗でさわやかさがありますよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうですよね。暑くても夏の朝が明るくて好きです"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "良いですね。夏の夜はどうですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "夕焼けなんか出て少し涼しい風なんか吹くと最高"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "良いですね！９月くらいにそうなると理想ですがまだ暑そうですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "確かに8月は日が沈んでも湿気が重たいです"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "湿気わかります。除湿器も付けてるのですがあんまり変わらないんですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "なんだかんだ言っても結局クーラー効かせた屋内最高（笑）"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "そうなんですよ！クーラーは何度くらいにしてますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "27.5か28度にしています。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "偉いですね。私は26度にしていて節電を無視している感じがします。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "部屋が狭いせいかエアコンが大っきいのか家では２７度で十分でして。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "なるほど！我が家はエアコンが古いのもあって結構下げないと効かないんですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "仕事場の２８度設定も無理があると思います"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "あれ無理ですよね。暑くて仕事にならないと思ってます。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうそう、蒸し蒸ししてじっとしていられない"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "汗だくになって不快ですしね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "扇風機併用でなんとかなる感じに思えます"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "扇風機やサーキュレーターも今色々あって良いですよね。最近ハンディタイプの扇風機買いました。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "あれ便利ですよね。持っていないのですがおすすめタイプありますか？"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "どこのメーカーでも良さそうですが3段階くらい風量が変えられるのが良いみたいです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "変速つきが良いのですね"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "そうです。2段階くらいだと強でもちょっと物足りないって言われました。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "なるほど。３段階のフルパワーが必要ですね"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "一番弱い風量だともう熱風だけって感じです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "なんでそんな弱風が付いているのでしょうね"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "言われてみればそうですね。これは疑問です！お話ありがとうございました！"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "今日も天気が良くて気持ちがいいな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "晴れの日は気持ちがいいです"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "わかります。早朝が特に良いですがあなたはどうですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "早朝もいいけど、やっぱり暑くならない時間帯が最高だな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "まだ暑くならない時の青空が良いです"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "綺麗でさわやかさがありますよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "同感だな。やっぱり青空が広がっていると心が落ち着く。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうですよね。暑くても夏の朝が明るくて好きです"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "良いですね。夏の夜はどうですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "夏の夜もまた別の魅力があるよな。特に夕焼けが素晴らしい。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "夕焼けなんか出て少し涼しい風なんか吹くと最高"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "良いですね！９月くらいにそうなると理想ですがまだ暑そうですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうだな、9月に入ってもまだ暑さは続くけど、少しは過ごしやすくなるかも。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "確かに8月は日が沈んでも湿気が重たいです"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "湿気わかります。除湿器も付けてるのですがあんまり変わらないんですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "除湿器も万能じゃないからな。やっぱりクーラーに頼るしかないか。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "なんだかんだ言っても結局クーラー効かせた屋内最高（笑）"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "そうなんですよ！クーラーは何度くらいにしてますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "うちの設定温度はちょっと高めだけど、十分涼しく感じるんだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "27.5か28度にしています。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "偉いですね。私は26度にしていて節電を無視している感じがします。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "26度は確かに涼しいけど、電気代が気になるよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "部屋が狭いせいかエアコンが大っきいのか家では２７度で十分でして。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "なるほど！我が家はエアコンが古いのもあって結構下げないと効かないんですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "古いエアコンだと効きが悪いのも仕方ないな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "仕事場の２８度設定も無理があると思います"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "あれ無理ですよね。暑くて仕事にならないと思ってます。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "本当にそうだよな。特に夏場は仕事に集中できない。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうそう、蒸し蒸ししてじっとしていられない"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "汗だくになって不快ですしね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "扇風機があれば少しは楽になるかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "扇風機併用でなんとかなる感じに思えます"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "扇風機やサーキュレーターも今色々あって良いですよね。最近ハンディタイプの扇風機買いました。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "ハンディタイプの扇風機って便利そうだな。どんなのがいいんだろう？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "あれ便利ですよね。持っていないのですがおすすめタイプありますか？"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "どこのメーカーでも良さそうですが3段階くらい風量が変えられるのが良いみたいです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "なるほど、風量が調整できるのはポイント高いな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "変速つきが良いのですね"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "そうです。2段階くらいだと強でもちょっと物足りないって言われました。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "3段階で調整できるなら、いろんなシチュエーションで使えそうだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "なるほど。３段階のフルパワーが必要ですね"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "一番弱い風量だともう熱風だけって感じです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "弱風がなぜ付いているのか、確かに謎だな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "なんでそんな弱風が付いているのでしょうね"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "言われてみればそうですね。これは疑問です！お話ありがとうございました！"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 9793,
+    "utterances": [
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "おはようございます。もう朝ごはんは食べられましたか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "朝ご飯はまだ食べていません"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "そうなのですね。食べる予定はありますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "毎朝てべているのでこの後食べます"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "和食、洋食とかありますが今日はどちらの予定ですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "いつもパンと牛乳です。あなたはどちら派ですか？"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "私もパンですがお弁当のおかずの残りと、あとはコーヒーです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "コーヒーはブラックですか。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "カフェオレにして飲みます！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "なるほど。私もブラックが飲めなくてミルク砂糖入れてます"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "わかります。最近は体重が気になるので砂糖は控えるようになりました。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "あのコーヒーに入れる砂糖程度も体重に影響しますかね"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "１杯ならいいんですが私一日で結構飲むので気になっちゃいます。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "確かに何杯も飲むとちょっと気になりますね。私も気をつけよう"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "私はマグカップ１杯を１時間に１杯くらい飲んでしまうこともあるので。あなたはかなり飲みますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "それは多いですね。私は朝と午後の２回くらいです"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "大体それくらいですよね。仕事しながらつい飲んでしまいます。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "手元いつもあるって感でしょうか"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "そうです！これがまた良くないなとは思ってます。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "外でも歩きながらコーヒー片手に持っている人いますよね。ちょっとかっこいい。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "スターバックスのコーヒーとか持ってる人いますよね。そしてかっこいいでです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "アメリカ人の真似ですかね"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "そうみるとちょっと笑ってしまうかもです！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "似合う人はかっこいい"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "わかります！私がやっても残念ながら絵にならないのです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "マグカップがフィットしている感じでしょうか。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "そうかもしれません。私にはマグカップが似合ってます！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "仕事の友ですね"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "ですね！お話ありがとうございました！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ありがとうございました"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "おはようございます。もう朝ごはんは食べられましたか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "今日はまだ朝ご飯食べてないな。毎日食べてるけど、今日はちょっと遅れちゃったな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "朝ご飯はまだ食べていません"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "そうなのですね。食べる予定はありますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "もちろん食べるよ。朝ご飯抜くと力が出ないからな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "毎朝てべているのでこの後食べます"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "和食、洋食とかありますが今日はどちらの予定ですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "いつも決まったものを食べてるんだよな。でも、たまには変えてみてもいいかもな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "いつもパンと牛乳です。あなたはどちら派ですか？"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "私もパンですがお弁当のおかずの残りと、あとはコーヒーです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "コーヒーか。朝の一杯ってやっぱりいいよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "コーヒーはブラックですか。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "カフェオレにして飲みます！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "カフェオレか、ちょっと甘めだけど美味しいよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "なるほど。私もブラックが飲めなくてミルク砂糖入れてます"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "わかります。最近は体重が気になるので砂糖は控えるようになりました。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうか、砂糖の量も気にしないといけないんだな。自分も注意しないと。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "あのコーヒーに入れる砂糖程度も体重に影響しますかね"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "１杯ならいいんですが私一日で結構飲むので気になっちゃいます。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "確かに、何杯も飲むとカロリーが積もるよな。自分も気をつけないと。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "確かに何杯も飲むとちょっと気になりますね。私も気をつけよう"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "私はマグカップ１杯を１時間に１杯くらい飲んでしまうこともあるので。あなたはかなり飲みますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そんなに飲むのか。自分はそこまで多くはないけど、気をつけるに越したことはないな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "それは多いですね。私は朝と午後の２回くらいです"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "大体それくらいですよね。仕事しながらつい飲んでしまいます。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "仕事中に飲むと集中力が増す感じがするからな。つい手が伸びるのもわかる。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "手元いつもあるって感でしょうか"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "そうです！これがまた良くないなとは思ってます。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "うん、でもその気持ちはわかるな。つい手が伸びちゃうんだよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "外でも歩きながらコーヒー片手に持っている人いますよね。ちょっとかっこいい。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "スターバックスのコーヒーとか持ってる人いますよね。そしてかっこいいでです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうそう、特にスタバのカップ持ってるとオシャレに見えるよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "アメリカ人の真似ですかね"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "そうみるとちょっと笑ってしまうかもです！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "まあ、確かにそうだな。でも似合う人は本当にかっこいい。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "似合う人はかっこいい"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "わかります！私がやっても残念ながら絵にならないのです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "自分も同じだな。マグカップの方がしっくりくるかも。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "マグカップがフィットしている感じでしょうか。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "そうかもしれません。私にはマグカップが似合ってます！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "うん、やっぱりマグカップの方が落ち着くよな。仕事中の友達だし。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "仕事の友ですね"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "ですね！お話ありがとうございました！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "こちらこそ、楽しい話ができてよかった。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ありがとうございました"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 9795,
+    "utterances": [
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "おはようございます。あなたは新聞は読んでいますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "新聞はとっていません。ネットだけです"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "大体皆さんそうですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "自分の興味のあるものしか見なくなるので新聞紙（WEBでも）の方が良いとは思っているのですが。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "わかります。時々新聞を取っておけば良かったと思うこともあるのですが。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "昔みたいに広告入りませんが"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "そうなんですよ。広告も今ネットやアプリで見れますし。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "広告はWEBが有効そうです。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "検索した内容から合わせて沢山表示してくれるので新しい発見もありますよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "WEB広告はうるさい思うことが多いのですがいかがですか？"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "邪魔なときもあるんですが漫画とかそこから色々試し読みしてしまうのであると新しい出会いがあります。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "確かに知らないことを突如教えてくれるのは便利かも"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "気になってるものとかも広告で出てきて、最新の技術はすごいですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "自分のことをネットの向こう側の方がよく知っているように思えます。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "これってすごいことですよね！そのうちSFみたいにAIとかに支配されそうです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "支配される方が楽って思うようになったら人間やばそうですよね"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "確かに！私なんてだらけてばかりなので支配されたほうがしっかりしそうです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "いろんな指示が飛んできたりして（笑）"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "それに合わせずだらけてたらAIに叱られそうです！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "スマホから電気ショックが送られてくるとか。怖い。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "嫌ですね！しょっちゅう電気ショックが来そうです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "人がAIに負けないようにしないといけませんね"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "そうですね！なんだかしゃきっとしようと思いました！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "負けないというより共存の模索ってやつですかね。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "共存、なるほど。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "楽しくやれるのは人間同士もなかなか"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "人間には楽しくやれる才能というか力がありますものね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "それを信じます"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "しゃきっとしつつ、人間の力を信じます！お話ありがとうございました。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ありがとうございました"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "おはようございます。あなたは新聞は読んでいますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "最近は本当にネットで済ませてるなあ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "新聞はとっていません。ネットだけです"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "大体皆さんそうですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "でもやっぱり紙の新聞には特別な価値があると思う。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "自分の興味のあるものしか見なくなるので新聞紙（WEBでも）の方が良いとは思っているのですが。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "わかります。時々新聞を取っておけば良かったと思うこともあるのですが。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "今の時代、広告も重要な情報源だしね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "昔みたいに広告入りませんが"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "そうなんですよ。広告も今ネットやアプリで見れますし。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "確かに、ネット広告はターゲットが絞られていて便利かも。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "広告はWEBが有効そうです。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "検索した内容から合わせて沢山表示してくれるので新しい発見もありますよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "ただ、あまりにも多すぎるとちょっと煩わしい時もあるな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "WEB広告はうるさい思うことが多いのですがいかがですか？"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "邪魔なときもあるんですが漫画とかそこから色々試し読みしてしまうのであると新しい出会いがあります。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そう言われると、新しい発見も確かにあるか。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "確かに知らないことを突如教えてくれるのは便利かも"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "気になってるものとかも広告で出てきて、最新の技術はすごいですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうだよな、技術の進歩は本当に目覚ましい。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "自分のことをネットの向こう側の方がよく知っているように思えます。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "これってすごいことですよね！そのうちSFみたいにAIとかに支配されそうです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "それはちょっと怖いな。でも便利だと思う自分もいる。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "支配される方が楽って思うようになったら人間やばそうですよね"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "確かに！私なんてだらけてばかりなので支配されたほうがしっかりしそうです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "でも、だらけるのも人間らしさの一部なんだよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "いろんな指示が飛んできたりして（笑）"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "それに合わせずだらけてたらAIに叱られそうです！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "想像しただけで笑えるけど、実際はちょっと困るな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "スマホから電気ショックが送られてくるとか。怖い。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "嫌ですね！しょっちゅう電気ショックが来そうです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "それはさすがに冗談だけど、何が起こるかわからない時代だな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "人がAIに負けないようにしないといけませんね"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "そうですね！なんだかしゃきっとしようと思いました！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "でも、競争だけじゃなくて共存も考えるべきだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "負けないというより共存の模索ってやつですかね。"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "共存、なるほど。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "最終的には、人間同士のつながりも大事にしたいな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "楽しくやれるのは人間同士もなかなか"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "人間には楽しくやれる才能というか力がありますものね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そう、それを信じて前向きに進もう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "それを信じます"
+      },
+      {
+        "role": "CF",
+        "action": "(speaking)",
+        "content": "しゃきっとしつつ、人間の力を信じます！お話ありがとうございました。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "こちらこそ、いい話ができたな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ありがとうございました"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 10719,
+    "utterances": [
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "こんにちは。音楽とかは聞きますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "スマホのラジコで聴く程度ですが好きです"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "ラジコだとラジオを聴いて音楽が流れる感じですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "基本FM放送のWEB版ですので放送で流れる程度です。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "この番組が好きとかありますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "朝の番組ですね。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "朝はどういう番組がやってますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "音楽を少しと街の情報など交えて。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "なるほど。地域密着的な感じですかね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "基本FMはローカルですもんね。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "それもそうですね。テレビは見ますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "テレビは報道番組くらいです"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "そうなんですね。僕もそんな感じです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ドラマもスポーツもネットで見ています。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "今はネットがあればなんでも見れますもんね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうなんですよ。しかも場所を選ばない。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "確かに。外出先とかでも見れますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そこがいいんですよね。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "ネットで見てるドラマはどんなものが多いですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ネットフリックスで海外のものが好きです"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "ネットフリックス、やはり見られる方多い印象です。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい、内容が充実していて質も良いと思います。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "多分テレビのドラマより面白いものも多くなってるんでしょうね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい、地上波ドラマは見ていられなくなりました。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "私も以前はよく見ていましたが、最近はまったくですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "家内は好きでいろいろ見ていますけどね"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "女性向けというか、ターゲットを絞ってきてる感じがします。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "いろんな種類はあるようですよ。機会があれば見てみてください。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "ありがとうございます。地上波もネットフリックスも見てみます。"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "今日はどんな話題になるかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "こんにちは。音楽とかは聞きますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "音楽か、最近はラジオくらいだけど。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "スマホのラジコで聴く程度ですが好きです"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "ラジコだとラジオを聴いて音楽が流れる感じですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうだね、ラジオの音楽って感じだな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "基本FM放送のWEB版ですので放送で流れる程度です。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "この番組が好きとかありますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "特に好きな番組はないけど、朝の番組はよく聴くな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "朝の番組ですね。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "朝はどういう番組がやってますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "どんな番組か説明してみるか。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "音楽を少しと街の情報など交えて。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "なるほど。地域密着的な感じですかね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "まあ、FM放送はどこもローカルだね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "基本FMはローカルですもんね。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "それもそうですね。テレビは見ますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "テレビはあまり見ないな、報道番組くらいか。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "テレビは報道番組くらいです"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "そうなんですね。僕もそんな感じです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そういえば、ドラマやスポーツはネットで見ることが多いな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ドラマもスポーツもネットで見ています。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "今はネットがあればなんでも見れますもんね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "本当に便利な世の中になったものだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうなんですよ。しかも場所を選ばない。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "確かに。外出先とかでも見れますね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうそう、どこでも見られるのが本当にいい。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そこがいいんですよね。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "ネットで見てるドラマはどんなものが多いですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "最近はネットフリックスで海外ドラマが多いかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ネットフリックスで海外のものが好きです"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "ネットフリックス、やはり見られる方多い印象です。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "確かに、多くの人が利用しているよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい、内容が充実していて質も良いと思います。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "多分テレビのドラマより面白いものも多くなってるんでしょうね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうだね、地上波ドラマはちょっと物足りない感じがする。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "はい、地上波ドラマは見ていられなくなりました。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "私も以前はよく見ていましたが、最近はまったくですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "家内はまだ地上波ドラマを楽しんでいるみたいだけど。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "家内は好きでいろいろ見ていますけどね"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "女性向けというか、ターゲットを絞ってきてる感じがします。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうかもしれないね、でも色々なジャンルがあるよ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "いろんな種類はあるようですよ。機会があれば見てみてください。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "ありがとうございます。地上波もネットフリックスも見てみます。"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 10722,
+    "utterances": [
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "こんにちは、よろしくお願いします。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "着るものとかに趣味はありますか"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "以前アパレルショップで働いてて、それなりにありますよ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "おー、ファッションセンスあるのですね。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "どうでしょう、でもある程度興味はありますよ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "流行りの服とかは毎期業界的に作っているのでしょうか"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "海外ブランドとかが最初に作って、それを日本ブランドが真似する感じですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "日本は真似が多いのですかー"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "日本独自のもの以外はやっぱり海外が先になりますからね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうなのですね。私の着ていたブランドが日本から撤退してしまいました。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "そういうのありますね。海外では有名でも日本では流行らないってよくあります。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "サイズがぴったりで、カジュアルからラフな感じまであってとても便利でした。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "日本のブランドでは何を着られますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "日本では特に決めていないです。デサントとかのスポーツ着を普段きたり。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "お店に行って目についたものが気に入ればって感じですかね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうですね。でも滅多に服買いません。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "自分もコロナ禍になって外出しなくなってからあまり着なくなっちゃいました。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "確かにコロナになってアパレル界変わったでしょうね。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "部屋で着れるものが需要上がりましたね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ユニクロとか。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "自分の服最近ユニクロばっかりです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私も肌着は全てユニクロ。もの良いですよね。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "良いですね。エアリズムもヒートテックも。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうそう、両方使ってます。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "使い勝手が良くて重宝してます。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "機能性とコストと両方持ってますね。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "安いのでダメになったらすぐ買い替えられるのも良いですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "全国どこでも買えるし。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "さすがに自分の住んでる地域にもあるので助かります。"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "挨拶から始めて、まずはリラックスさせよう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "こんにちは、よろしくお願いします。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "趣味の話題で会話を広げてみよう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "着るものとかに趣味はありますか"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "以前アパレルショップで働いてて、それなりにありますよ。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "それはすごい、ファッションについていろいろ聞けそうだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "おー、ファッションセンスあるのですね。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "どうでしょう、でもある程度興味はありますよ。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "もっと具体的に業界のことを聞いてみよう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "流行りの服とかは毎期業界的に作っているのでしょうか"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "海外ブランドとかが最初に作って、それを日本ブランドが真似する感じですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "なるほど、日本は真似が多いのか。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "日本は真似が多いのですかー"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "日本独自のもの以外はやっぱり海外が先になりますからね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "私の好きなブランドも撤退しちゃったんだよなあ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうなのですね。私の着ていたブランドが日本から撤退してしまいました。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "そういうのありますね。海外では有名でも日本では流行らないってよくあります。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "あのブランド、本当に気に入ってたんだけどな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "サイズがぴったりで、カジュアルからラフな感じまであってとても便利でした。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "日本のブランドでは何を着られますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "日本のブランドにはあまりこだわりがないかも。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "日本では特に決めていないです。デサントとかのスポーツ着を普段きたり。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "お店に行って目についたものが気に入ればって感じですかね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうだな、特に決めて買ってないな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうですね。でも滅多に服買いません。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "自分もコロナ禍になって外出しなくなってからあまり着なくなっちゃいました。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "コロナでアパレル業界も大変だっただろうな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "確かにコロナになってアパレル界変わったでしょうね。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "部屋で着れるものが需要上がりましたね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "ユニクロはやっぱり便利だよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ユニクロとか。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "自分の服最近ユニクロばっかりです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "肌着は特にユニクロに頼りきりだな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私も肌着は全てユニクロ。もの良いですよね。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "良いですね。エアリズムもヒートテックも。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "確かに、あの快適さは他にない。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうそう、両方使ってます。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "使い勝手が良くて重宝してます。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "機能性とコストのバランスが絶妙だ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "機能性とコストと両方持ってますね。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "安いのでダメになったらすぐ買い替えられるのも良いですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "全国どこでも買えるのもありがたい。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "全国どこでも買えるし。"
+      },
+      {
+        "role": "CX",
+        "action": "(speaking)",
+        "content": "さすがに自分の住んでる地域にもあるので助かります。"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 11722,
+    "utterances": [
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "最近買い物されましたか？食料品以外で"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "うー、そう言われるとーー"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "急ですもんね。ネットで買い物はされますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ネットでの買い物は孫のプレゼントくらいですね"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "おもちゃとかゲームとかですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうです。lineで送られてきてアマゾンでカチッと。"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "なるほど、結構買ってあげてますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "なるべくプレゼントしています"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "素晴らしいですね。きっと好かれてるでしょうね"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ものでつるしかありません笑"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "よくやる手ですよね"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "12月にはサンタクロースに変装します"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "お孫さんはおひとりですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "４人います"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "あら、それはお金がかかりますね"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "想定以上にかかっているのですー"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "ご苦労様です。近くにお住まいですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "近いので手渡ししています"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "そうですか、結構頻繁に遊びに来てとかになりますかね"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こちらからは呼ばないのでたまーにですね。"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "そうなんですね。子供のころ祖父母は遠くに住んでてすぐには会えませんでしたね"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私も祖父母の思い出はほぼないのですよ"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "そんなもんですか。孫と子供は違いますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "微妙に違いますね。"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "微妙なんですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "孫には責任持てないので少々おっかなびっくり。"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "しつけをしないか分甘やかすという話を聞くことがあります"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうしたくないものです"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "お、今日はどんな話になるのかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "最近買い物されましたか？食料品以外で"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "うーん、最近はあまり買い物に行ってないな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "うー、そう言われるとーー"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "急ですもんね。ネットで買い物はされますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "ネットでの買い物は便利だけど、あまり頻繁には使わないんだよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ネットでの買い物は孫のプレゼントくらいですね"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "おもちゃとかゲームとかですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "孫たちが喜ぶ顔が見たいからね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうです。lineで送られてきてアマゾンでカチッと。"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "なるほど、結構買ってあげてますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "なるべく孫たちには喜んでもらいたいからね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "なるべくプレゼントしています"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "素晴らしいですね。きっと好かれてるでしょうね"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "まあ、ものでつるのも一つの手だよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "ものでつるしかありません笑"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "よくやる手ですよね"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "12月は特に忙しくなるな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "12月にはサンタクロースに変装します"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "お孫さんはおひとりですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "実は4人もいるんだよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "４人います"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "あら、それはお金がかかりますね"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうなんだよね、予想以上に費用がかかるんだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "想定以上にかかっているのですー"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "ご苦労様です。近くにお住まいですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "近くに住んでるから、手渡しできるのは助かる。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "近いので手渡ししています"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "そうですか、結構頻繁に遊びに来てとかになりますかね"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "実はあまり頻繁には来ないんだよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こちらからは呼ばないのでたまーにですね。"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "そうなんですね。子供のころ祖父母は遠くに住んでてすぐには会えませんでしたね"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "私も祖父母との思い出はほとんどないんだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私も祖父母の思い出はほぼないのですよ"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "そんなもんですか。孫と子供は違いますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "孫と子供はやっぱり少し違う感じがするな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "微妙に違いますね。"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "微妙なんですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "孫にはあまり責任を持てないから、ちょっと難しいところもある。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "孫には責任持てないので少々おっかなびっくり。"
+      },
+      {
+        "role": "CL",
+        "action": "(speaking)",
+        "content": "しつけをしないか分甘やかすという話を聞くことがあります"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうはなりたくないんだけどね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうしたくないものです"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 12526,
+    "utterances": [
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "お昼は何を食べましたか"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "今日は明太子カルボナーラうどんを食べました！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "自宅ないでですか"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "いえ、自宅です。市販のソースがあったので。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "よくスパゲッテイは作りますか"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "はい、好きでよく作りますよ！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "イタリアン好きとかですか"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "好きです。美味しいですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "カルボナーラうどんは和食ですかね"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "どっちでしょうねー？うどんだから和食なんでしょうか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "なになに食って、食材なのか味付けなのか？"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "そういえばそうですよね。定義はどっちなんでしょう？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "冷奴は和食で麻婆豆腐は中華ですね"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "ということは味付け？調味料？なんですかね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私は和風スパが好きです"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "和風もいいですね。あっさりしてて。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "明太子味とか"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "合いますよね！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "チーズを思いっきりスパにかける方いますよね"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "いますねー、私は軽くでいいかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "妻は缶全部かける勢いです"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "チーズがお好きなんですね！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "お店に悪いなーといつも思います笑"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "いえいえ、好みがあるのでいいんじゃないでしょうか。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そう言っていただけるとホッとします"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "チーズ美味しいですもんね！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "少しなら私もいけます！"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "一緒に楽しんでください。"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "今日はどんな会話ができるかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "お昼ご飯の話題は盛り上がりやすいかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "お昼は何を食べましたか"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "今日は明太子カルボナーラうどんを食べました！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "それは面白い組み合わせだな。どこで食べたんだろう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "自宅ないでですか"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "いえ、自宅です。市販のソースがあったので。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "手軽に作れるのはいいな。自分も試してみたいかも。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "よくスパゲッテイは作りますか"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "はい、好きでよく作りますよ！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "なるほど、料理が好きなんだな。共通の話題が見つかりそうだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "イタリアン好きとかですか"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "好きです。美味しいですよね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "カルボナーラうどんは和食とイタリアンの融合かな？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "カルボナーラうどんは和食ですかね"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "どっちでしょうねー？うどんだから和食なんでしょうか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "確かに、どこからが和食でどこからが洋食なのか、面白いテーマだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "なになに食って、食材なのか味付けなのか？"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "そういえばそうですよね。定義はどっちなんでしょう？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "実際、冷奴と麻婆豆腐の例は分かりやすいな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "冷奴は和食で麻婆豆腐は中華ですね"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "ということは味付け？調味料？なんですかね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "和風スパゲッティも好きだし、共感できる部分が多いかも。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私は和風スパが好きです"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "和風もいいですね。あっさりしてて。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "明太子味も好きだし、話が弾みそうだな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "明太子味とか"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "合いますよね！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "チーズをたっぷりかける人もいるけど、妻は特にそうだな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "チーズを思いっきりスパにかける方いますよね"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "いますねー、私は軽くでいいかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "妻のチーズの好みはちょっと極端だけど、面白いエピソードだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "妻は缶全部かける勢いです"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "チーズがお好きなんですね！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "お店の人に悪いかなと思うけど、楽しんでるからいいか。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "お店に悪いなーといつも思います笑"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "いえいえ、好みがあるのでいいんじゃないでしょうか。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そう言ってもらえると安心するな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そう言っていただけるとホッとします"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "チーズ美味しいですもんね！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "たまには自分も楽しみたいな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "少しなら私もいけます！"
+      },
+      {
+        "role": "FQ",
+        "action": "(speaking)",
+        "content": "一緒に楽しんでください。"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 12907,
+    "utterances": [
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "好きな季節はありますか"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "しいて言うなら冬ですね！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "寒さにはお強いですか"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "あまり強くない気もするのですが、暑いのにとにかく弱くて。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "では今年の夏もきつかったですか"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "今年はきつかったですね。異様に暑かったです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "湿気も多分苦手ですよね"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "おそらく。鈍いもので、これが湿気か！とは思ってないですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "少し秋めいてきたのでホッとしていますか"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "しています。秋は好きな季節ですね！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "秋から冬に行く涼しげな感じがいいですよね"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "はい、イベントごとも結構好きなので楽しみです。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "12月はクリスマスとか"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "はい。年末年始もありますね！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私も12月は好きです"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "いい季節ですよね。何か理由がありますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "1年の精算ができて嫌なことは水に流せる気がします"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "わかります。気持ち切り替えるのにいいですよね。4月も。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうですね。4月は桜も好きです"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "花粉は平気ですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "4月には楽になります"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "なるほど、それならいいですね！"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "２、３月は薬飲みます"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "私は4月が本番ですね。長いと6月近くまで来ます。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "それはきついですね"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "なので春が少し微妙ですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "夏が近づく感じも嫌かもですね"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "そうなんですよね。"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "今日はどんな話題で盛り上がるかな。FFはどんな季節が好きだろう？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "まずは季節の話題から始めてみようかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "好きな季節はありますか"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "しいて言うなら冬ですね！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "冬か、寒さに強いのかな？"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "寒さにはお強いですか"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "あまり強くない気もするのですが、暑いのにとにかく弱くて。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "暑さに弱いのか、今年の夏は大変だっただろうな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "では今年の夏もきつかったですか"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "今年はきつかったですね。異様に暑かったです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "同感だ。湿気も大変だっただろう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "湿気も多分苦手ですよね"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "おそらく。鈍いもので、これが湿気か！とは思ってないですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "それでも湿気が不快なのはわかるよ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "少し秋めいてきたのでホッとしていますか"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "しています。秋は好きな季節ですね！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "私も秋は好きだ。涼しくて過ごしやすいから。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "秋から冬に行く涼しげな感じがいいですよね"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "はい、イベントごとも結構好きなので楽しみです。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "確かに、12月はイベントが多くて楽しい季節だよな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "12月はクリスマスとか"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "はい。年末年始もありますね！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "そうだ、年末年始も楽しみだ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "私も12月は好きです"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "いい季節ですよね。何か理由がありますか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "1年の締めくくりとして気持ちをリセットできるからかな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "1年の精算ができて嫌なことは水に流せる気がします"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "わかります。気持ち切り替えるのにいいですよね。4月も。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "4月も新しいスタートとしていい季節だな。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "そうですね。4月は桜も好きです"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "花粉は平気ですか？"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "花粉症は辛いけど、4月になれば楽になるからね。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "4月には楽になります"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "なるほど、それならいいですね！"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "2、3月は薬でなんとかしのいでいるけど。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "２、３月は薬飲みます"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "私は4月が本番ですね。長いと6月近くまで来ます。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "それは大変だな、春が楽しめなくなるのは辛いだろう。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "それはきついですね"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "なので春が少し微妙ですね。"
+      },
+      {
+        "role": "CR",
+        "action": "(thinking)",
+        "content": "花粉症のせいで春が楽しめないのは残念だ。"
+      },
+      {
+        "role": "CR",
+        "action": "(speaking)",
+        "content": "夏が近づく感じも嫌かもですね"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "そうなんですよね。"
+      }
+    ]
+  }
+]
