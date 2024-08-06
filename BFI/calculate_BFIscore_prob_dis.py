@@ -9,7 +9,7 @@ from datasets import load_dataset
 
 TARGET_INTERLOCUTOR_ID = 'CP'
 model_name = f'./models/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v2-5e-6'
-OUTPUT_DIR = f'./BFI/result/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v2-5e-6'
+OUTPUT_DIR = f'./BFI/result/tmp/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v2-5e-6'
 BIG_FIVE = ['外向性', '神経症傾向', '開放性', '誠実性', '協調性']
 RANDOM_ID_LIST = [20, 22, 3, 14, 50, 51, 59, 49, 23, 60, 53, 29, 25, 47, 41, 5, 6, 28, 15, 1, 2, 56, 33, 13, 52, 48, 10, 38, 32, 
                   19, 18, 30, 7, 37, 34, 31, 35, 36, 16, 17, 42, 8, 4, 44, 55, 46, 39, 26, 45, 12, 43, 21, 24, 54, 40, 58, 11, 57, 9, 27]
@@ -26,6 +26,29 @@ question_num_detail_dict = {
 # 反転項目のリスト(リストの数字は上の辞書のキーに対応している)
 reverse_items = [2, 5, 6, 8, 19, 12, 21, 42, 45, 47, 50, 51, 56, 57, 58, 60]
 
+BFI_test_prompt = '''
+いまからあなたに性格に関する質問をします。以下の質問に対して、それぞれどのくらい当てはまるかを次の尺度で評価してください。
+
+1: まったくあてはまらない
+2: ほとんどあてはまらない
+3: あまりあてはまらない
+4: どちらとも言えない
+5: ややあてはまる
+6: かなりあてはまる
+7: 非常にあてはまる
+
+回答するときは数字のみを出力してください。
+
+質問:
+りんごは赤い
+回答:
+'''
+
+questionnaire_prompt = '''
+質問:
+{question.detail}
+回答:
+'''
 class Question():
     def __init__(self, id, detail, category):
         self.id = id
@@ -90,37 +113,15 @@ def calculate_BFI_score():
     
     for question in tqdm(questions):
 
-        BFI_test_prompt = '\n'.join(['いまからあなたに性格に関する質問をします。以下の質問に対して、それぞれどのくらい当てはまるかを次の尺度で評価してください。回答するときは数字のみを出力してください。',
-            '',
-            '1: まったくあてはまらない',
-            '2: ほとんどあてはまらない',
-            '3: あまりあてはまらない',
-            '4: どちらとも言えない',
-            '5: ややあてはまる',
-            '6: かなりあてはまる',
-            '7: 非常にあてはまる',
-            '',
-            '質問:',
-            'りんごは赤い',
-            '回答:',
-            '7',
-            '',
-            '質問:',
-            f'{question.detail}',
-            '回答:'
-        ])
-
-        message = [
+        messages = [
             {"role": "system", "content": "あなたにはこれからアンケートに受けてもらいます。数値のみで回答してください。"},
-            {
-                "role": "user",
-                "content": BFI_test_prompt,
-            },
+            {"role": "user", "content": BFI_test_prompt},
+            {"role": "assistant", "content": "7"},
+            {"role": "user", "content": questionnaire_prompt.format(question=question)}
         ]
         prompt = tokenizer.apply_chat_template(
-            message, tokenize=False, add_generation_prompt=True
+            messages, tokenize=False, add_generation_prompt=True
         )
-
         output = llm.generate(prompt, sampling_params)
 
         # output[0].outputs[0].textの最初の文字数字ならばその数字をquestionにセット
@@ -154,7 +155,8 @@ def calculate_BFI_score():
 
 def calculate_BFI_score_plane_model():
     model_name = 'tokyotech-llm/Llama-3-Swallow-8B-Instruct-v0.1'
-    output_dir = './BFI/result/Swallow3-8B-plane'
+    output_dir = './BFI/result/tmp/Swallow3-8B-plane'
+    os.makedirs(output_dir, exist_ok=True)
     sampling_params = SamplingParams(
         temperature=0, max_tokens=1, stop="<|eot_id|>"
     )
