@@ -1,0 +1,3122 @@
+[
+  {
+    "dialogue_id": 3762,
+    "utterances": [
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "こんばんは、よろしくお願いします。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんばんは。よろしくお願いしますね。"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "最近ハマっていることはありますか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "拙いですが、お菓子を作るのにハマっています。"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "お菓子作りですか！すごいですね！最近だと何を作られましたか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "最近だと、オレオ入りのチョコケーキですね。簡単でおいしいんですよ！"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "チョコケーキって難しそうな印象ですが、そうでもないんですか！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "意外かと思われるかもしれませんが、そうなんですよ！1時間もかかりません。焼いた後の冷ますまでが長く感じますけれども。"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "そうなんですね！レシピってどうやって調べてるんでしょうか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私の場合、Twitterで流れてくるレシピが多いですね。色々な方がレシピを公開しているので、見ているだけでも楽しいです。"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "なるほど、Twitterですか！いいですね。初心者におすすめとなるかなにかありますか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "やはり、先程のチョコケーキですね。山本ゆりさんと言う方が公開されている、ザクザク濃厚ショコラケーキが簡単で凄くおすすめです。"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "チョコケーキ食べてみたいので、調べてみようと思います！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "是非是非！一度作ると、今度はコレも作ってみたいって思うようになって来るんですよ！そして気付くと製菓器具が不思議と増えて行くんですよ。"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "そうなんですね！製菓器具って、たしかに今は家に全然ないかもです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "今だと100均とかで結構揃えられますよ。セリアとかですと色々可愛い物が揃ってます。"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "100均で揃うんですね！知らなかったです。あったら便利な器具ってあります？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "泡立て器とボールがあれば、後は色々代用出来るかなって思います。後は知らない間にどんどん増えて行くんですよ。怖い怖い。"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "そうなんですね。泡立て器とボールはうちにあるので、作れそうですね。でも増えていくのも楽しいですよね？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "はい！次は何作ろうかと考えるのも楽しいです。ちなみに、料理とかはされるのですか？"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "料理は結婚するまでは全然してなかったのですが、最近ちょっとするようになってます！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "素晴らしいですね！何か得意な料理はありますか？"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "そうですね、妻に教わったオムライスは、ちゃんとトロトロで作れるようになりました！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "トロトロのオムライスですか！？結構難しそうなイメージがありますね。何かコツってありますか？"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "火加減だと思います。とはいえ、日によって失敗する日もありますけどね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "それもまた味だとは思いますよ。私も結構失敗しますし。むしろ良い思い出になるかと思います。失敗した直後はそれどころでは無いでしょうけれども。"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "味ですよね！あとはいろいろレシピを増やしたいんですけど、なかなか増えないので困ってます。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "作ろうと言う気持ちだけで、奥様も凄く喜んでいると思いますよ！その考え方は素敵ですよ！今、何か作ってみたい料理名とか、ジャンルとかはありますか？"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "料理は下手だと思うので、手軽であまり失敗しにくい料理が作りたいですね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "そうですね。色々数をこなしていくと良いと思います。では。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 3763,
+    "utterances": [
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんばんは。よろしくお願いしますね。"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "こんばんは、よろしくお願いします。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "突然ですが、漫画とかって読まれますか？"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "マンガはよく読みます！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "お好きな作品とかはありますか？"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "最近読んだやつだと、ブルージャイアントっていうジャズマンガが面白かったです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "聞いたことあります！現在連載作品ですか？"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "はい、連載してます。単行本派なので、なんの雑誌で連載されてるかはわからないですが。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ビッグコミックみたいですね。映画にもなっているようで。ちょっと気になってきました。"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "本当に面白いです。マンガなのに、音が聴こえてくるような迫力があります。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "この後、調べて読んでみます！今は興味があったら1話とか手軽に読めるのでありがたいですね。"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "たしかに、今は読めたりするのがあってありがたいですよね。そちらはなにか面白かったのありますか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私は、3月のライオンとか、らいかデイズとか、はたらかないふたりとか、マイナー？な作品ですけれども"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "はたらかないふたりは昔読んでました！ニートの兄妹のやつですよね！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "そうですそうです！何か嬉しいです！毎週更新されているので、毎週楽しみに読んでいます。"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "平和でいいですよね。3月のライオンもちょっと読んでました。将棋のやつですよね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "結構読まれてますね。何だか仲間が出来たみたいで凄く嬉しいです！そちらは他にもおすすめの漫画ってありますか？"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "マンガの好みが似てるかもですね。あと好きなのだと、ブルーピリオドとか好きですがご存知ですか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "アフタヌーンのやつですか！"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "たしかそうですね！美術マンガのやつです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "熱い展開の漫画がお好きなんですね！"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "そうですねー！熱い展開好きかもです。ただマンガも、昔に比べて読まなくなってしまいました。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あら、お仕事とかでお忙しくなってしまったとか、他にハマった物が出来たとかですか？"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "ダラダラYoutubeをみるようになってしまったのが多いですかね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あれは時間泥棒ですよね。どんなジャンルの映像を見ますか？"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "そうなんです、時間泥棒です。ゲーム実況をダラダラ見てしまうことが多くて。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あぁ！納得です。面白い人は本当に面白いですもんね。しかも1本辺りの再生時間が長い長い。気付けばもうこんな時間！なーんて。"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "本当にそうで、気づいたら寝る時間になってます。Youtubeは見たりしますか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "よく見ますと言いますか、ラジオ代わりに家事をしながら聞いている感じですね。結構無心になれます。"
+      },
+      {
+        "role": "DY",
+        "action": "(speaking)",
+        "content": "たしかに、見なくて聞くだけとか自分もあります！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 3959,
+    "utterances": [
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんばんわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "こんばんは、よろしくおねがししますー。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "よく本や漫画とかって読まれたりしますか？"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "読みます！あんまり頻繁ではないですけど。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "最近読まれた本や漫画で、何か面白かった作品はありますか？"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "そうですねー、そうだ。今日家の掃除をしてたんですけどね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "はいはい。何が、何が起こりました！？"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "子供達が小さい頃に読んでた絵本が出てきたんです。掃除そっちのけで読んでしまいましたね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あははは。何かとんでもないことが起きたのかと！ありますよね！昔の子供の絵本が出て来るのって。"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "ふふふ、心配させてしまいましたね。カラスのパンやさん、って知ってますか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "知ってます知ってます！あれ、ページいっぱいのパンが凄くおいしそうなやつですよね！？"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "そうです！見入っちゃいますねー。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "色々な種類のパンがあって、子供の頃、このパンって何処に売ってるの？って親に聞いて困らせた思い出がありますよ。"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "あー、それは困るかも。でも子供らしくてかわいいですね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですね。今子供に聞かれても困る自信がありますよ。でも、あれは本当に名作ですよね！"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "そうですね！世代を超えて愛されてますよね。あなたは本はお好きですか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "はい。絵本関係だと、ヨシタケシンスケさんと言う作者さんの描かれている物が好きですね。"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "ヨシタケシンスケさんも好きです！面白いですねー！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "いいですよね！大人でもついつい見入っちゃいますよ！何かお好きな作品はありますか？"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "「りゆうがあります」が一番好きです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あれも面白いですよね！よくあんな理由考え着くなって思いながら読んでいました！私は「このあとどうしちゃおう」が好きですね。"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "ヨシタケさんの本って、大人も子供もワクワクさせてくれますよね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですね！一部、大人向けも描かれてるのでありがたいです。"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "私、大人向けのまだ読んだことがなくて。持ってらっしゃいます？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "図書館で借りたくらいですが、「欲が出ました」とか「あるかしら書店」とかですかね。どちらも面白いです。"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "あるかしら書店、読みたいなって思ってるんですけどまだ読めてません。読みたくなってきますね！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "是非読んでみて下さい。子供でも読めると思いますので、お子さんとご一緒にどうでしょう？"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "そうですね！そうします。子供も好きなんです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "何だかそう言っている私自身が書店員みたいに<DW>さんに営業しているみたいな構図になってしまいました！"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "あはは！でも書店員さんのおすすめならぜひ読もうって思いましたよ！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 3960,
+    "utterances": [
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "こんばんはー！よろしくお願いします。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんばんわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "夏も終わってしまいますけど、夏の思い出作れました？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "この夏は旅行に行こうと思っていたのですが、コロナの件で延期になったしょっぱい思い出が残りました。"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "コロナ、すごく増えましたよね！旅行、駄目になってしまったんですか。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "はい、子供達と初めてのディズニーランドを予定していたのですが、残念です。そちらはどうですか？何か夏の思い出は作れましたか？"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "私は先週子供達とお台場に行ってきました。それが夏の思い出かな？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "お台場ですか！良いですね。何かイベントとかやっていましたか？"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "台場一丁目商店街っていう場所があって、そこのレトロゲームで遊んできました。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "そんな場所があるのですか！？レトロゲームとは、どのような物がありましたか？"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "昔、10円を入れて遊ぶようなゲームありましたよね？そういうのがたくさん置いてあるんです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ありましたね！うわ、思ってた以上にレトロでした！懐かしい！やってみたいです！！"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "行ける距離でしたら、ぜひ行ってみて下さいー。お化け屋敷とかもありましたよ。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "千葉の最南端なので、泊りがけになりそうですね。コロナ終息まで気長に待ちます！"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "そうですね、期間的なものじゃなくて常設施設みたいなのでいつでも行けると思います。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "常設施設と言うのはありがたいですよね！期間限定とかだと、行けないとかなり悔しいですから。"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "そうですね。逃すともう後がないのでかなり悔しいです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "来年の今頃はもっと旅行に行けたりしていると良いのですが。どこかコロナが終息したら行ってみたい場所とかはありますか？"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "そうですねぇ、でもやっぱり旅行に行きたいです。北海道とか！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "北海道！良いですね。新婚旅行で行きました！"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "えー！そうなんですか？私、一度も行ったことないんです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "何処か北海道で行ってみたい！って場所はあるのですか？"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "美味しい物のあるところを片っ端から？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはははは！その気持ちわかります！何を食べてもおいしいってイメージありますよね！"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "あります！北海道イコール海鮮とか、ラーメンとか！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですね！<DW>さん、の片っ端から発言は凄く良かったです。面白いです！！"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "ふふふ、家に引きこもり気味なので食に飢えてるのかも。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私もです！今はお取り寄せとか結構充実していますけれども、やはり現地に行ってみたいですもんね！"
+      },
+      {
+        "role": "DW",
+        "action": "(speaking)",
+        "content": "そうですねー、その場で提供されるものが食べたいです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "いつか旅行に気兼ねなく行けるようになって欲しいですよね。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 5032,
+    "utterances": [
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "こんばんわ。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんばんわ。よろしくお願いします。"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "この夏どこか行きましたか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "子供達とプールに行ったくらいですね。近場で済ませた感じです。そちらは何処かに行かれましたか？"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "いえ、家族でのお出かけぐらいですかね。プール楽しかったですか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "楽しかったですね。2年ぶりのプールでしたので。今年は規制が緩くなったので助かってます。"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "水着って種類いっぱいありますけどどんなのにしました？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "普通の競泳用のですかね。新たに買うのも何でしたので。2年ぶりですが、何とか入りました。"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "そうなんですね、男はどれも一緒って感じですけど女性のは種類多くないですか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですね。色々種類がありますよね。あれって何が違うのか疑問に思うことが多々ありますね。"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "なんか上下が分かれてるのとかありますよね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "泳ぎやすいかどうかとかよりも、腰のくびれを見せたい方が着るみたいですね。あれは。"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "なるほど。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あくまでも私の考えですけれども。着る分には体型管理が大変そうです。"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "若い人がよく着てるイメージありますね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですね。結構努力されているんだなと思いますね。そちらは体型管理とかは気にされますか？"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "僕は何食っても太らなくて、BMIが逆に悲惨です。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "それは羨ましいですね。普段から結構食べられているんですか？"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "ガリガリは魅力的ではないですよね。食べる量が中々増えなくて。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "いえいえ、体重が減らない私からすれば羨ましいですよ。運動とかはされてますか？"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "いえ、運動はしてないですね。運動で体重を減らそうと考えているんですか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "筋肉は脂肪よりも重いので、運動では難しいと思いますね。やはり食べる量を減らさないと駄目ですかね。"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "炭水化物と砂糖ですよね。雑穀混ぜたり他のものでお腹いっぱいにしたり。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですね。色々工夫が必要そうです。炭水化物が好きなので、ついつい食べてしまうんですよ。"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "どういったものが好きなんですか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ご飯系が大好きですね。毎食おかわりをしてしまいます。"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "あー分かります。どうしたらいいんでしょうね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはは。私は諦めて筋肉つけて引き締めて誤魔化そうとしてますね。"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "なるほど。スパゲッティがそういえばダイエットにいいって聞いたような。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "そうなんですか！後で調べてみますね！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 5037,
+    "utterances": [
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんばんわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "DT",
+        "action": "(speaking)",
+        "content": "こんばんは。お願いします。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "昔何か習い事とかはされていましたか？"
+      },
+      {
+        "role": "DT",
+        "action": "(speaking)",
+        "content": "習字を習ってました。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "習字ですか！結構長くやられていたのですか？"
+      },
+      {
+        "role": "DT",
+        "action": "(speaking)",
+        "content": "はい、小学校一年から高校一年まで。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "かなり長期間やられていたのですね！字を書くのが好きなんですか？"
+      },
+      {
+        "role": "DT",
+        "action": "(speaking)",
+        "content": "いえ、すごい辞めたいと思ったことがなかったのでなんとなく通ってました。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはは。何となくですか。と言うことは、そこの塾は本当に可も無く不可も無くって感じだったんですかね？"
+      },
+      {
+        "role": "DT",
+        "action": "(speaking)",
+        "content": "そうです。親に連れられて行って友達もやってるから流れでそのまま習ってた感じです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "でも、10年以上やられていたってことは、かなり字は綺麗に書けるんじゃないですか？"
+      },
+      {
+        "role": "DT",
+        "action": "(speaking)",
+        "content": "うーん、それがそうでもなくて。普通ですね。筆と普段使うペンと全く違うからなのか。。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "そうなんですか？ペンと筆って結構変わるものなのですか？"
+      },
+      {
+        "role": "DT",
+        "action": "(speaking)",
+        "content": "そうですね。筆は太いですし。でも習字やってたおかげで集中力はあると思います。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "おぉ！効果はありましたね！結構自分でも集中力あるな！って感じた時ってありますか？"
+      },
+      {
+        "role": "DT",
+        "action": "(speaking)",
+        "content": "ありますね。そういえば辞めたいとは思わなかったけど、行きたくない日は結構ありました。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あら？やっぱりそう言う日ってあったんですね。そう言う時はどうしてました？"
+      },
+      {
+        "role": "DT",
+        "action": "(speaking)",
+        "content": "行きませんでした。親には申し訳なかったですが。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "いえ、それが正解だと思います。無理しても続かないと思いますよ。休ませてくれた親御さんも有難いですね。"
+      },
+      {
+        "role": "DT",
+        "action": "(speaking)",
+        "content": "そうですね。次の週にはちゃんと行ってたので、ずっとではないから休ませてくれたのかもです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "だからこそ、長期間に渡って続けられたのかもしれませんね。凄いです。"
+      },
+      {
+        "role": "DT",
+        "action": "(speaking)",
+        "content": "それはあるかもしれません。全然すごくないですよ。本当はピアノ習いたかったですー。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "いえいえ、10年以上やっていれば尊敬しますって。ピアノは親御さんにやりたいって言わなかったんですか？"
+      },
+      {
+        "role": "DT",
+        "action": "(speaking)",
+        "content": "言ったかなどうだったかな。でも周りは小学校前から習ってて自分が習いたいと思った時はもう遅かったかも。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あー。ありますよね。自分が習いたい時に同級生はもっと先のことをやっていて始め辛くなってるって。"
+      },
+      {
+        "role": "DT",
+        "action": "(speaking)",
+        "content": "はい、そうなんです。自分がなんだか惨めになっちゃいますよね。小さいながらに分かってたんだと思います。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "わかります！ピアノとかってそう言うの本当に出ますもんね。でも、逆に今から始めてみるとかどうです？"
+      },
+      {
+        "role": "DT",
+        "action": "(speaking)",
+        "content": "いいですね。やってみたいです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "始めるのに遅すぎることはないみたいですので、今からやってみると逆に面白いかもしれませんよね。"
+      },
+      {
+        "role": "DT",
+        "action": "(speaking)",
+        "content": "そうですね。いい経験になりそうです！！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 5057,
+    "utterances": [
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんにちわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "GM",
+        "action": "(speaking)",
+        "content": "こんにちわ。お願いします。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "何かお好きな食べ物とかはありますか？"
+      },
+      {
+        "role": "GM",
+        "action": "(speaking)",
+        "content": "食べることは大好きです。今は韓国料理にハマってます。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "韓国料理ですか！チーズ系の料理とかですか？それとも激辛系とかですか？"
+      },
+      {
+        "role": "GM",
+        "action": "(speaking)",
+        "content": "チーズ系ですかね。辛いのは苦手で。トッポギとかヤンニョムチキンとかは好きです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私も辛いのは少し苦手なんです。ちなみに、最近食べた中で一番おいしかった物は何ですか？"
+      },
+      {
+        "role": "GM",
+        "action": "(speaking)",
+        "content": "まだいろいろ試しているところですが、やはりトッポギが好きで食べちゃいます。韓国料理はお好きですか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "そうですね。美味しければ何でも好きです！以前、チーズハットグを作りましたね。"
+      },
+      {
+        "role": "GM",
+        "action": "(speaking)",
+        "content": "お家で作ったんですか？すごいです！買うものだと思ってたので。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "料理動画が好きで見たりするのですが、あのチーズが伸びる描写に魅了されて、作ってみたんですよ。"
+      },
+      {
+        "role": "GM",
+        "action": "(speaking)",
+        "content": "いいですねー！私も料理動画よく見ます。楽しいですよね。りゅうじのバズレシピをよく見ます。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あぁ！私もたまに見ますね！無駄にお酒を絡めてくるのが面白いですよね！"
+      },
+      {
+        "role": "GM",
+        "action": "(speaking)",
+        "content": "べろべろで、味わかるのかなぁ？とたまに心配になります。氷をいつもぶちまけるのが笑えます。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはは！ですよね。でも、レシピ通りに作ってみるとおいしいんですよね！何か作られたりはしましたか？"
+      },
+      {
+        "role": "GM",
+        "action": "(speaking)",
+        "content": "簡単で美味しいですよね。テレビでやってたのですが、しその壺付けとか作りました。ご飯に合うのでリピートしてます。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "それはまだ作ったことなかったですね！結構おすすめですか？"
+      },
+      {
+        "role": "GM",
+        "action": "(speaking)",
+        "content": "おすすめです！ほんとに簡単で。しその醤油漬けで、火も使わないですし。今度試してみてください！なにか作られましたか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私はチャーハンでしたね。生姜と味の素を使ったやつです。簡単で、結構おいしく出来てびっくりしました。"
+      },
+      {
+        "role": "GM",
+        "action": "(speaking)",
+        "content": "美味しそうですね！今度試してみます！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "是非是非！結構料理されるのはお好きなんですか？"
+      },
+      {
+        "role": "GM",
+        "action": "(speaking)",
+        "content": "好きなんですがレパートリーがなくて、クックパッドやクラシルをみて毎日夕飯づくりをしています。よく作りますか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私は仕事の無い休みの日だけになってしまいますね。毎日作らないから面白く感じるのかなって思います。"
+      },
+      {
+        "role": "GM",
+        "action": "(speaking)",
+        "content": "毎日だとなにを作ったらいいかわからなくなってしまって。いつもは適当に済ませちゃいます。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "それで良いと思いますよ！毎日アレコレこだわってたら干からびちゃいますよ！"
+      },
+      {
+        "role": "GM",
+        "action": "(speaking)",
+        "content": "そうですよねー。たまに気合を入れる感じでゆるくやりくりしてます。得意な料理とかありますか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "最近はドライカレーを作るのが得意と言うか好きですね。少ないルーで出来ておいしいんです！"
+      },
+      {
+        "role": "GM",
+        "action": "(speaking)",
+        "content": "いいですねー！ドライカレーは大好きです。チーズをのせるのが好きです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私もです！カレーって結構色々アレンジ出来るのが良いですよね！"
+      },
+      {
+        "role": "GM",
+        "action": "(speaking)",
+        "content": "自分好みにできるので手作りはいいですよね！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 5346,
+    "utterances": [
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんばんわ。"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "好きな食べ物とかありますか"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "トンカツが好きですね。"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "いいですね。よくたべますか。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "昨日の夜と昼に食べました。そちらは何が好きですか？"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "多いですね。寿司が好きです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "いいですね！好きなネタとかはありますか？"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "特にサーモンですかね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "サーモン！いいですね。私も好きです！"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "よく食べに行きます。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "回転ですか？それともカウンターとかですか？"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "スシローが多いです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "結構沢山召し上がられるんですか？"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "10皿くらいですね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私も同じくらいですね。色々目移りしてしまいますよね。"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "そうなんですよ。食べに行ったりしますか"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こちらは月１くらいですね。家族で行くことが多いです。"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "いいですね。何がおおいですか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "マグロですね。下の子が結構食べるんですよ。"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "マグロは不動の人気ですね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですね。でも、奥さんと上の子が生が駄目なんですよ。"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "じゃあサラダ系とかですか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "後肉系ですね。魚を食べませんね。"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "なるほど。肉の寿司ってあまり食べたことなくて。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "もっぱら魚ばかりですか。"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "そうですね。刺身大好きで。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "お肉も中々イケますので、結構おすすめですよ！"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "今度試してみます。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "是非是非！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 5347,
+    "utterances": [
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんばんわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "お願いいたします。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "何か趣味はありますか？"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "カフェめぐりとかですね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "カフェですか！いいですね。落ち着いた雰囲気とかの喫茶店ですか？それともコンカフェとかですか？"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "コンカフェってなんですか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "コンセプトカフェの略で、テーマに沿ったカフェですね。主にキャラクターものとかですね。"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "初めて聞きました。あまり行ったことないです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "となりますと、お洒落なカフェとかによく行かれるんですかね？"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "甘いもの好きなので、スイーツ食べれるようなとこです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "いいですね！どんな物を召し上がられますか？"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "パフェとかケーキとかなんでもです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "パフェ！いいですね！私も大好きです！"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "甘いもの得意ですか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "大得意です！自分で作ったりもしますね。"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "例えば何を作りますか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "そうですね。タルトとか、チョコケーキとか、先程のパフェとかですかね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "すごいですね、タルト生地からですか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "です！手作りの生地の方が絶対おいしいんですよ！あのサクサク感がたまりません！"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "よく作るんですか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "気分が乗った時だけですね。趣味ですので。"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "いいですね。一番得意はなんですか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "やはりタルトですかね。学生の頃から作ってますので。"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "難しそうなのにすごいです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "作ってみると結構出来るもんですよ。自分で作れば食べ放題ですし！"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "それいいですね、中々買う機会ないですもんね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "１ピースとかでも結構しますもんね。なので作ってみよう！って思ったんです。"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "結構安く作れそうですよね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ところがどっこい、材料費だけでも結構するので、油断ならないんですよ。"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "あれ、それは知りませんでした。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 5370,
+    "utterances": [
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんにちわ"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "何か好きな食べ物ありますか"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "チョコレートですね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "さいこうですねあれは"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あの甘さが良いですよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ホワイトもいいです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私はブラックも好きですね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ブラックもいいですよね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "結構頻繁に食べますか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たべますよ銘柄何が好きですか"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "メイジが好きですね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "わかります、、、"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "そちらも明治派ですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "割と味変わりますよね、あれいっしょです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですね！メーカーで微妙に違いますよね！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ぜんぜんちがいます"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "どんな商品が好きですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "板チョコが。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私もです。お手軽に食べられますもんね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "お手軽ですよね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "かさばらないのがまた良いですよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "手軽ですし"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "いつも通勤カバンに忍ばせてます。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いっしょです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはは、嬉しいですね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "太るの注意ですね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "何気にカロリーありますものね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "結構脂質も。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "要注意ですね。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 5424,
+    "utterances": [
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんばんわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "FZ",
+        "action": "(speaking)",
+        "content": "こんばんは、こちらこそよろしくお願いします"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "お好きな食べ物とかはありますか？"
+      },
+      {
+        "role": "FZ",
+        "action": "(speaking)",
+        "content": "好きな食べ物は甘いものとかが好きですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "甘い物いいですねぇ！ケーキとかパフェとかですかね？"
+      },
+      {
+        "role": "FZ",
+        "action": "(speaking)",
+        "content": "そうですね、チーズケーキとか甘いの好きですね、何か好きな食べ物はありますか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私も甘い物には目が無いです。ケーキ系が好きですね。フワフワの食感が大好きです。"
+      },
+      {
+        "role": "FZ",
+        "action": "(speaking)",
+        "content": "そうなんですね、美味しいですよねー、いくらでも食べれちゃいます"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "そうなんですよね！体重を考えなければもっと食べたい所です。"
+      },
+      {
+        "role": "FZ",
+        "action": "(speaking)",
+        "content": "ちゃんと筋トレなさってるので、大丈夫ですよ、私はダイエットと思いつつ実現できてません"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはは。ちなみに、海外とかは行かれたことはありますか？"
+      },
+      {
+        "role": "FZ",
+        "action": "(speaking)",
+        "content": "ありますよ、海外旅行が好きなので"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ちょっと聞きたいのですが、海外のデザート系って、やはり日本とは味付けとか全然違うんですか？"
+      },
+      {
+        "role": "FZ",
+        "action": "(speaking)",
+        "content": "違いますね、ヨーロッパとかだと砂糖の塊みたいなケーキも多いです、私は甘いの好きなので平気ですが"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "砂糖の塊ですか！マジパンが多いとかではなく、単純に使われている砂糖の量が多い！って感じですか？"
+      },
+      {
+        "role": "FZ",
+        "action": "(speaking)",
+        "content": "そうです、砂糖の量が多いのもあるので、こりゃ太るなって感じです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "となると、味付けが濃い！って言うか、甘さの暴力！ってイメージですか？"
+      },
+      {
+        "role": "FZ",
+        "action": "(speaking)",
+        "content": "そうです、そうです。もちろんものにもよりますが、ヨーロッパは甘いのが多いですよ"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ちなみに、そちらは日本とヨーロッパのケーキ、どちらが好みですか？"
+      },
+      {
+        "role": "FZ",
+        "action": "(speaking)",
+        "content": "どっちも好きですが、やはり日本のケーキの方が食べやすさはありますね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "なるほど。一度そう言った海外のケーキとか食べてみたいんですよね。"
+      },
+      {
+        "role": "FZ",
+        "action": "(speaking)",
+        "content": "そうなんですねー、なんかその国々でアレンジがあったりしますもんね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "海外とかで、これは信じられない！とか思ったデザートなんてありました？"
+      },
+      {
+        "role": "FZ",
+        "action": "(speaking)",
+        "content": "えー、なんでしょう。デザートではないですが、タイのフェスに行ったときにバケツみたいのに入ったビールは飲みました"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "バケツですか！え？子供用とかの小さいバケツ。ですよね？"
+      },
+      {
+        "role": "FZ",
+        "action": "(speaking)",
+        "content": "そうですね、もちろん綺麗な清潔なやつですが、バケツみたいのにストロー刺して飲みました"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "おぉ、最初は抵抗とかありませんでした？"
+      },
+      {
+        "role": "FZ",
+        "action": "(speaking)",
+        "content": "全然、もちろん普通のビールもありますが、そこではバケツビールが売りだったので！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "画像検索しました！思ってた以上にバケツでびっくりしました。インディフェスですね。"
+      },
+      {
+        "role": "FZ",
+        "action": "(speaking)",
+        "content": "そうです、フルムーンパーティってのに行ったんですが、楽しかったですよー"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 12309,
+    "utterances": [
+      {
+        "role": "FL",
+        "action": "(speaking)",
+        "content": "こんばんは！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんばんわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "FL",
+        "action": "(speaking)",
+        "content": "漫画は読まれますか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "はい。最近は3月のライオンとか、ヒロアカとかゴールデンカムイとかを読んでます。"
+      },
+      {
+        "role": "FL",
+        "action": "(speaking)",
+        "content": "おー。三月のライオンってどんな漫画でしたっけ？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "将棋漫画ですね。ハチミツとクローバーと言う漫画を描かれている方の作品ですね。"
+      },
+      {
+        "role": "FL",
+        "action": "(speaking)",
+        "content": "あーそうだった。将棋漫画珍しいですよね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私自身将棋はやらないですが、結構楽しめますよ。"
+      },
+      {
+        "role": "FL",
+        "action": "(speaking)",
+        "content": "わかります。ヒカルの碁も私見てましたが、ルール最後までわかりませんでした。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはは。私の知人もおなじことを言ってました！<FL>さんは何か読まれてますか？"
+      },
+      {
+        "role": "FL",
+        "action": "(speaking)",
+        "content": "私はワンピースが好きなんですよ！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私も今読んでます！今ようやく70巻まで行きました。"
+      },
+      {
+        "role": "FL",
+        "action": "(speaking)",
+        "content": "おお！今どのへんでしょうか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ドフラミンゴと戦うかな？と言う感じですね。"
+      },
+      {
+        "role": "FL",
+        "action": "(speaking)",
+        "content": "あー。鳥かごのところですね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "以前、100巻くらいまで読んだのですが、すっかり内容を忘れていたので読み直しています。"
+      },
+      {
+        "role": "FL",
+        "action": "(speaking)",
+        "content": "気持ちわかります。私も二周しました。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "今103巻まで出ていますが、新しい巻が出るまでに内容を忘れてしまいません？"
+      },
+      {
+        "role": "FL",
+        "action": "(speaking)",
+        "content": "今のところは覚えています。頑張って毎週追ってるんですよ。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "お、ジャンプで毎週追う派ですか？"
+      },
+      {
+        "role": "FL",
+        "action": "(speaking)",
+        "content": "そうです！今面白いですよ。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私はコミック派なのですが、週刊で追うってのも楽しそうですね！"
+      },
+      {
+        "role": "FL",
+        "action": "(speaking)",
+        "content": "楽しいですよ。私も週刊で追ってるのはこれくらいかな。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ちなみに、ジャンプでワンピース以外でおすすめとかってありますか？"
+      },
+      {
+        "role": "FL",
+        "action": "(speaking)",
+        "content": "んー。他はあまり興味ないんですよね。呪術廻戦とか人気ですよね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "一度読んだのですが、中々ストーリーが複雑すぎて、挫折してしまいました。"
+      },
+      {
+        "role": "FL",
+        "action": "(speaking)",
+        "content": "私もアニメで見ていました。アニメ面白いですよ。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "アニメだと結構わかり易い感じですかね？"
+      },
+      {
+        "role": "FL",
+        "action": "(speaking)",
+        "content": "漫画よりかはわかりやすいと思います。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "良いことを聞きました！ちょっと見てみます。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 12462,
+    "utterances": [
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "こんばんは！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんばんわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "キャンプはしたことありますか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "キャンプは無いですね。やってはみたいですが。そちらはよくやられるのですか？"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "明日初キャンプ行ってきます！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "おぉ！お気をつけて！ご友人とですか？"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "会社の人ですね！キャンプ好きの方がいるんです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "その方に誘われたのですか。ちなみにどちらまで行かれるのですか？"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "小田原の方ですね！キャンプメンバーがいるみたいでその方達と"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "良いですね！初キャンプはやはり緊張しますか？"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "全然緊張はしないです！元からあまり緊張はしないんです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "羨ましいです。結構緊張しやすいので。"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "そうなんですね！緊張するしないはどう決まるんでしょうね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "プレッシャーですかね？上手く行かなかったらどうしよう？って私は考えちゃうので。"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "なるほどですね！僕はわりかし何とかなるだろう精神なですよね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "その精神には憧れます。その方が絶対仕事でも何でも上手く行くと思いますよ。"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "そうですかねー個人的にはもっとしっかりした方がいいなじゃないかとか思っちゃいますけど"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはは、お互い、無い物ねだりなんですかね。"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "やっぱ人間ないものねだりしちゃいますね！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "わかります！話は戻りますが、キャンプには何か道具は持って行かれるのですか？"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "僕は何も持っていかなくていいとのことです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "お手軽に初キャンプですね！後は楽しむだけじゃないですか！"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "そうなんです！行きの運転だけ頑張ります！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "運転も大変そうですね。でも、楽しそうですね。"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "僕的には運転してる方が楽なのでちょうどいいです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "車の運転が得意なんですか？"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "得意というわけではないですが好きですね！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "良いですね！運転は不得手なので羨ましいです！"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "そうなんですね！運転も慣れですね！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "勉強になります。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 12465,
+    "utterances": [
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんばんわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "よろしくお願いします！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "何か苦手な食べ物とかってありますか？"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "グリーンカレーが苦手ですね！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私もです！ココナッツミルクの味が苦手って感じですか？"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "そうなんですよ！なんでカレーに合わせるのって思ってます！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あれってご飯にも合いませんよね！"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "合いません！最悪です！気持ち悪くなります！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "初めて同士に会えました！感激です！ちなみに、初めては何処で食べられたのですか？"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "僕も初めてです！僕は中学生の頃レトルトで食べたのが初めてでしたね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私も大学の頃、レトルトですね！"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "そこも同じなんですね！家で一人の時に見つけて美味しそうと思って食べたんですけどねー"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "結構境遇似てますね。それって家族の方が買われたのですか？"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "おそらくそうだと思います！初めて食べ物で嗚咽しました！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "わかります！私も最初ルーだけで食べて気持ち悪くなりました。"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "ご飯と合わせると余計に最悪なんですよねー"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "でも、家にあったと言うことは、ご家族の誰かはそれを好きだってことですかね？"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "いやそれ以来家で見かけないです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "誰かの気の迷いでの買い物だったのですかね？"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "多分親も試しで買ってみたんでしょうね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あれって普通に売られていると言うことは、好きな方がいるってことですかね？"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "いるんでしょうね。カレーブームみたいなのでグリーンカレーとかも紹介されますし"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "どうなんですかね？お互い食べたグリーンカーレーがたまたま不味かったって説はどうでしょう？"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "それはあるかもしれませんね！レトルトですし"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "再チャレンジする勇気はありそうですか？"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "ココナッツ自体は嫌いじゃないんで今ならいけるかもですね！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "おぉ！私も20年ぶりに挑戦してみようかな？"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "しますか？それでも挑戦する勇気はないです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あっ！ズルい！一緒にやりましょうよ。"
+      },
+      {
+        "role": "DS",
+        "action": "(speaking)",
+        "content": "ではお店ので挑戦しましょう！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 12602,
+    "utterances": [
+      {
+        "role": "FM",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんにちわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "FM",
+        "action": "(speaking)",
+        "content": "もう９月中盤になりそうですけどそちらは涼しいですかね？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "まだまだ暑いですね。室内ではエアコン必須です。そちらはどうですか？"
+      },
+      {
+        "role": "FM",
+        "action": "(speaking)",
+        "content": "こっちは少し冬に近づいてきた感じがしますね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あら？では、結構涼しくなるを通り越して、寒くなってきた感じですかね？"
+      },
+      {
+        "role": "FM",
+        "action": "(speaking)",
+        "content": "そんな感じですねここ最近は涼しくなって秋後半って感じが早いですけど"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "羨ましいです！ウチは職場では長袖必須なので、まだまだ暑いと地獄なんですよ！"
+      },
+      {
+        "role": "FM",
+        "action": "(speaking)",
+        "content": "長袖必須ということはかなりクーラーが強いんですね大変そうです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "いえ、クーラーも無く、作業的に長袖で無いと危ないんです。"
+      },
+      {
+        "role": "FM",
+        "action": "(speaking)",
+        "content": "それは何とも凄く熱いでしょうし熱中症には気を付けてくださいね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "今年は何人かが体調を崩したみたいです。幸い私は大丈夫でしたが。そちらは熱中症とかは大丈夫でしたか？"
+      },
+      {
+        "role": "FM",
+        "action": "(speaking)",
+        "content": "自分は熱中症は平気でしたねただここ数か月で一気に体重が落ちました"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "一気にですか。5キロくらいですか？"
+      },
+      {
+        "role": "FM",
+        "action": "(speaking)",
+        "content": "7キロぐらいですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "多いですね！何かあったんですか？"
+      },
+      {
+        "role": "FM",
+        "action": "(speaking)",
+        "content": "シンプルに食欲が落ちたのと余分な水分が体から出たからですかね？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "そこまで体重を減らされて、体調的には何ともなかったのですか？"
+      },
+      {
+        "role": "FM",
+        "action": "(speaking)",
+        "content": "それが意外となかったんです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "いやはや、驚きました。7キロってのは凄いですね。周りからも驚かれませんでした？"
+      },
+      {
+        "role": "FM",
+        "action": "(speaking)",
+        "content": "意外と表面には現れないもので特に反応なかったですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "そうなんですね。私だったら7キロ痩せたって言われたら本当にびっくりしちゃいますよ！"
+      },
+      {
+        "role": "FM",
+        "action": "(speaking)",
+        "content": "そうですかね？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですよー。私は1キロ痩せるのも大変だなーって感じますから。"
+      },
+      {
+        "role": "FM",
+        "action": "(speaking)",
+        "content": "痩せようと思って痩せようとすると本当に痩せませんよね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですね。体質的に太りにくい体質とかなんですか？"
+      },
+      {
+        "role": "FM",
+        "action": "(speaking)",
+        "content": "太りにくいわけでは無いんですけど代謝が良いのか痩せやすいんですよね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "羨ましい！運動とかはされていたのですか？"
+      },
+      {
+        "role": "FM",
+        "action": "(speaking)",
+        "content": "そこまで運動はしてないですねしいて言えば色々なところに行ったぐらいです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "運動していなくても代謝が良いって最高じゃないですか！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 12892,
+    "utterances": [
+      {
+        "role": "DV",
+        "action": "(speaking)",
+        "content": "こんばんは、よろしくおねがいします"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんばんわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "DV",
+        "action": "(speaking)",
+        "content": "学生時代、部活は何かやってましたか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "陸上と水泳をやっていましたね。"
+      },
+      {
+        "role": "DV",
+        "action": "(speaking)",
+        "content": "運動系ですね！足早いんですか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "長距離をやっていましたが、残念なことにそれ程早くはなりませんでしたね。"
+      },
+      {
+        "role": "DV",
+        "action": "(speaking)",
+        "content": "もしかしてマラソンの経験ありますか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "はい。昔は家族で大会に参加したりしていましたね。"
+      },
+      {
+        "role": "DV",
+        "action": "(speaking)",
+        "content": "家族で大会に参加はすごいですね！私は最長１０キロの経験しかありません"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私は5キロの経験で終わっています。中学でギブアップでしたので。るこさんもマラソンとかされるのですか？"
+      },
+      {
+        "role": "DV",
+        "action": "(speaking)",
+        "content": "マラソンはありません、最近では運動不足を感じてます"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "日頃運動する機会とかはありませんか？"
+      },
+      {
+        "role": "DV",
+        "action": "(speaking)",
+        "content": "犬を飼っているので犬の散歩くらいです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "犬のお散歩ってどのくらい歩きますか？"
+      },
+      {
+        "role": "DV",
+        "action": "(speaking)",
+        "content": "１５分くらいですね、大した運動にはなってないです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "犬のお散歩って結構歩くものだと思っていました。30分以上とか1時間とか。"
+      },
+      {
+        "role": "DV",
+        "action": "(speaking)",
+        "content": "３０分くらい散歩したほうがいいのかもしれませんが暑くて犬も人間もすぐばてちゃって"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あ、なるほど。まだまだ暑いですものね。では、室内で筋トレとかはどうでしょう？"
+      },
+      {
+        "role": "DV",
+        "action": "(speaking)",
+        "content": "一応ウォーキングマシーンはあるんですが、置物となっています"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ウチの親戚の家もまったく同じ風景が広がっていました。"
+      },
+      {
+        "role": "DV",
+        "action": "(speaking)",
+        "content": "あと足を広げたり閉じたりして太ももをシェイプアップみたいなものあります"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "結構設備は揃ってるんですね。後はやる気だけ！ですか？"
+      },
+      {
+        "role": "DV",
+        "action": "(speaking)",
+        "content": "主人がそういうの好きで買ってすぐは使うんですけど三日坊主でして"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ご主人と一緒にやってみる！とかはどうでしょう？"
+      },
+      {
+        "role": "DV",
+        "action": "(speaking)",
+        "content": "そうですね、少しやれば引き締められるかもしれません"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "引き締めたい部位はありますか？"
+      },
+      {
+        "role": "DV",
+        "action": "(speaking)",
+        "content": "やっぱりおなか周りと太ももあたりですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "お腹は一番最後に引き締まる部位らしいです。足回りならスクワットとかですかね。"
+      },
+      {
+        "role": "DV",
+        "action": "(speaking)",
+        "content": "スクワット！まずは数回から始めてみようと思います"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "頑張ってみて下さい！徐々に回数が増えるときっと楽しくなってきますよ！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 12961,
+    "utterances": [
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんばんわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "GD",
+        "action": "(speaking)",
+        "content": "こんばんわ。よろしくお願いします。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "今日はもう夕飯は食べられましたか？"
+      },
+      {
+        "role": "GD",
+        "action": "(speaking)",
+        "content": "はい、さっき食べ終わりました。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ちなみに、何を召し上がりましたか？"
+      },
+      {
+        "role": "GD",
+        "action": "(speaking)",
+        "content": "簡単なご飯です。目玉焼きと明太子でご飯を食べました。朝ごはんみたいですが。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "確かに朝食みたいな感じですね。ご自分で作られた感じですか？"
+      },
+      {
+        "role": "GD",
+        "action": "(speaking)",
+        "content": "はい。今日は主人の帰りが遅いのでちゃっちゃと作って食べました。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "1人だと、どうしてもこれでいいやってなっちゃいますよね。"
+      },
+      {
+        "role": "GD",
+        "action": "(speaking)",
+        "content": "そうですね。手抜きで自分がおなか一杯になればいいやって思います。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはは。私も奥さんによく言われます。1人の時とアナタがいる時は違うのよって。"
+      },
+      {
+        "role": "GD",
+        "action": "(speaking)",
+        "content": "奥様もそうなんですね。私は独身の頃の食事に戻ってしまいます。コンビニ食が懐かしくなったりして。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "コンビニ食ですか。何かお好きな物とかはありますか？"
+      },
+      {
+        "role": "GD",
+        "action": "(speaking)",
+        "content": "玉子焼きと明太子を一緒に巻いたおにぎりが好きです。甘い玉子焼きと辛みが合うんです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "おいしそうですね！何処のコンビニのおにぎりですか？"
+      },
+      {
+        "role": "GD",
+        "action": "(speaking)",
+        "content": "ミニストップです。お店で作っているようで、夕方にはなくなっていることが多いです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "羨ましいです！自宅からミニストップって1時間以上かかるんですよ！食べてみたいです。"
+      },
+      {
+        "role": "GD",
+        "action": "(speaking)",
+        "content": "それは遠いですね。うちからは徒歩数分なので、ついつい行ってしまいます。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "いいですね。ハロハロとかも食べたいんですけれども。家から数分なら私なら通っちゃいますね！"
+      },
+      {
+        "role": "GD",
+        "action": "(speaking)",
+        "content": "ご自宅から一番近いコンビニはどこですか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "セブンイレブンですね。車で10分程です。"
+      },
+      {
+        "role": "GD",
+        "action": "(speaking)",
+        "content": "セブンイレブンですか。冷凍食品が豊富ですよね。TVで特集してました。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "セブンイレブンにもよく行かれますか？"
+      },
+      {
+        "role": "GD",
+        "action": "(speaking)",
+        "content": "徒歩圏内にあるのですが、ミニストップの方が安い気がしてなかなか行かないですね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "わかります！何だか事務的と言うか、味気ない感じがしますよね。"
+      },
+      {
+        "role": "GD",
+        "action": "(speaking)",
+        "content": "高級志向なイメージもあります。サラダとかデザートも豊富で。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "セブンで何かお気に入りの商品はありますか？"
+      },
+      {
+        "role": "GD",
+        "action": "(speaking)",
+        "content": "アボカドとタコのサラダは好きです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "そのサラダもおいしそうですね。今度行った時に見てみます。"
+      },
+      {
+        "role": "GD",
+        "action": "(speaking)",
+        "content": "おすすめです！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 13123,
+    "utterances": [
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんにちわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "5億あったら何がしたい、買いたいですか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "そうですね。一戸建てと、本棚が沢山欲しいですね。"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "家は間違いないですね。私も次の引っ越しの時には家欲しいですね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "お金があったら、<FF>さんは一戸建て派ですか？それともマンションとか派ですか？"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "一戸建てかな？と思うのですが、立地とかで真剣に考えるとマンションの方がいいかもしれなくて悩みますね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "立地とかはありますね！良い場所でも周囲の環境が悪かったりしますものね！"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "そうなんですよね。駅まで徒歩圏にしか住んだことがなくて、バスとか挟むのに少し抵抗があります。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "通勤ラッシュとかあったら嫌ですもんね。"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "そうなんですよ。今テレワークで満員電車もないのでもう戻りたくないです。真剣に。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "テレワーク前までは満員電車での通勤でしたか？"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "はい。新宿を使うので日本一だったと思います。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "うわ、結構凄そうなイメージです。毎日がおしくら饅頭な感じだったので？"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "そうです。本当にきついですね。乗るのに苦労し、降りるのに苦労します。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あれってもう、気合で乗るしかないって感じなんですか？"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "私はそう思ってました。早朝に出るような形をとってる時期もありましたが寝たいですね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あ、早朝でしたら幾分空いてはいるんですね。でも、睡眠時間を取るか、快適さを取るか、難しい選択ですね。"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "はい。テレワークはさすがに終わってしまうと思うのですが、時差出勤だけは続けてほしいです。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "終わって欲しいとは、テレワークよりも職場の方が良いんですか？"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "いえ、テレワーク最高です。テレワーク終わらせようとする動きがありますので時差出勤維持でお願いしたい。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "なるほど。<FF>さん的にはもうテレワークだけでいんじゃねって感じなんですね。"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "その通りです、というか上の人以外はみんなそう思ってる気がします。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "やはり上の人達はテレワークに馴染めてない感じなんですか？"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "そうなのかもしれません、しかしなんでなんですかね？絶対こっちの方がいいのに。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "やっぱり、昔からの働き方が染みついちゃってるんですかね？"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "新しい事を始めるのって年取ると大変ですから全くわからないとは言いませんけど。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "それでも、私も自宅で仕事出来た方が快適だとは思うんですけれどね。"
+      },
+      {
+        "role": "FF",
+        "action": "(speaking)",
+        "content": "ですよね。家、最高です！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "やっぱり<FF>さんが羨ましい！きーっ！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 13276,
+    "utterances": [
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんにちわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "お昼ご飯なにたべましたか"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "私は菓子パンで済ませました。あなたはどうですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、シチュー食べました！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "この季節にシチューですか！結構お好きなんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "はい、自炊しました！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "おぉ、凄いですね。結構沢山作られたのですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "3人前くらいです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ご家族の分もご一緒にとかですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ひとりだけです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "1人分って作るの難しいですものね！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "むずいです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "結構余らせてしまいますよね。自炊歴は長いんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "かなりながいかもです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "かなり！ですか。年単位とかですかね？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "6年とかですかね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "お、結構長いですね！外食よりも自炊派なんですかね？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "その傾向あります！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "外食とかはあまりされないのですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たまにします、ラーメンとか！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "どんなラーメンがお好きですか？とんこつとかこってりとか。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "鶏白湯すきです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "アッサリ系ですか？毎回同じ感じのラーメンとかですかね？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こってりの鳥系です！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはは、失礼しました。あっさりよりもこっててり派でしたか。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そのとおりです、どっちもすきですが！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "外食の頻度は結構低い方ですか？月１とか。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "週1とかです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "後は自炊ですか。凄いですね。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 13545,
+    "utterances": [
+      {
+        "role": "GJ",
+        "action": "(speaking)",
+        "content": "こんにちは！よろしくお願いします！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんにちわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "GJ",
+        "action": "(speaking)",
+        "content": "あなたは音楽は聴きますか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "流行りの音楽には疎いですね。最近は米津玄師さんが好きです。"
+      },
+      {
+        "role": "GJ",
+        "action": "(speaking)",
+        "content": "米津玄師かっこいいですよね！自分も好きです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "おぉ！何だか嬉しいです。私はM87から知って、ハマり出しました。そちらは何が好きですか？"
+      },
+      {
+        "role": "GJ",
+        "action": "(speaking)",
+        "content": "私はベタですがレモンからです！感電やゆめうつつも好きです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "感電も良いですよね！ドラマの主題歌だったので、同じ人だったのか！って驚いた覚えがあります。"
+      },
+      {
+        "role": "GJ",
+        "action": "(speaking)",
+        "content": "MIU404でしょうか？私もそこで感電が好きになりました！ドラマは見られてましたか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "見てました！続編を期待しているんですが、何故か作製されず、ヤキモキしていますね。"
+      },
+      {
+        "role": "GJ",
+        "action": "(speaking)",
+        "content": "たしかに続編やってほしいです！久々に見た面白いドラマでした！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですよね！主人公2人のデコボコっぷりだけじゃなくて、正義とは何か？って展開もあったりで面白いです！"
+      },
+      {
+        "role": "GJ",
+        "action": "(speaking)",
+        "content": "そうですね！構成がしっかりしてるドラマでしたね！ドラマで最近面白いのありましたか？"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "MIU404くらいで、ドラマって見なかったりします。逆に何かおすすめってありますか？"
+      },
+      {
+        "role": "GJ",
+        "action": "(speaking)",
+        "content": "オリバーな犬というドラマが面白いです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "確か、去年のドラマでしたっけ？"
+      },
+      {
+        "role": "GJ",
+        "action": "(speaking)",
+        "content": "はい、去年3話だけやっていて、先週からまた始まりました！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "wikipedia見ながらですが、これオダギリジョーが犬役やってるんですか！"
+      },
+      {
+        "role": "GJ",
+        "action": "(speaking)",
+        "content": "そうなんです！他の出演者も豪華すぎるんです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "何だか説明文だけで面白そうな匂いがしますよコレ。内容はギャグ寄りなんですか？"
+      },
+      {
+        "role": "GJ",
+        "action": "(speaking)",
+        "content": "ギャグ要素がかなり多めです！でも伏線回収とかもしっかりされていて、完成されたドラマかと！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "これ本当に面白そうですね！どこかで配信とかしてたら見てみたいです！"
+      },
+      {
+        "role": "GJ",
+        "action": "(speaking)",
+        "content": "NHKなのでなかなかサブスクとかには上がらなそうですよね。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "今2期やられているようですが、これ途中から見てもわかる感じですか？"
+      },
+      {
+        "role": "GJ",
+        "action": "(speaking)",
+        "content": "途中からだと少しついていけないかもですね。でもギャグに関してはあまり関係なく笑えるかと！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "説明文だけで見たくなるってのも珍しいです。次の火曜には見てみたいです！いいドラマ情報を聞きました。"
+      },
+      {
+        "role": "GJ",
+        "action": "(speaking)",
+        "content": "そう言っていただけてなんだか嬉しいです！ぜひ見てみてください！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "気になったのですが、かなり沢山のドラマとかを毎週見られているんですか？"
+      },
+      {
+        "role": "GJ",
+        "action": "(speaking)",
+        "content": "いえ、今はドラマはこれだけです！あとは寝る前に晩酌しながらアニメを見る程度です！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "晩酌しながら！凄く楽しそうな光景ですね。いいなぁ。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  }
+]

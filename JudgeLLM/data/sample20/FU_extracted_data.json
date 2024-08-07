@@ -1,0 +1,3122 @@
+[
+  {
+    "dialogue_id": 4440,
+    "utterances": [
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "よろしくお願いします"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "晩ごはんたべましたか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "まだ食べてないです"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "自分はうどんをたべました"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "何うどんですか？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "ざるうどんです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "おかずはなしですか？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "なしでした。とりあえずおなかに入ればいいやとおもって"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そういう日ありますよね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "わかります？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "お腹すいてるけど食べたいものないから適当におなかに入れる、みたいな"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "そうそう、そんな感じです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "僕は割と毎日そんな感じです"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "これが食べたい！ってなる日ないんですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "あんまりないですね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "へー食費安く済みそうでいいですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "食費は割と安いです。実家だし。"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "いくらくらいですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "5000円いかないくらいです"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "安いですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "食べない日とかもあるので、これくらいですね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "食べない日あるんですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "めんどくさい日はウィダーとかで済ませますね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "お腹すきません？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ずっと食べないとおなかすかないですよ"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "へー、自分はおなか鳴っちゃうから昼抜きは無理です"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうなんですね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "はい"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 4443,
+    "utterances": [
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "おすすめのユーチューバーはいますか？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "ヒヨごんが好きです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "知らないです。どんなユーチューバーですか？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "女性のYouTuberなんですけど、おしゃべり系ですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "おしゃべり系っていうジャンルがあるんですね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "雑談系っていうのかな、ずっと一人でしゃべってます"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "一人でずっと喋れるのすごくないですか？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "しかもちゃんと面白いんですよ"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "話上手い人っていいですよね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "面白い話ができるくらい刺激のある日々を送ってて羨ましいです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "たしかに。僕は毎日同じような感じです。"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "自分もです。刺激がないです。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "同じ話をしようとしても、自分が話すと暗い話になりそうです"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "そんなことあります？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "愚痴を面白く話せる人っているじゃないですか"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "あー、いますね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "僕が話すと陰湿な愚痴になっちゃいます"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "話のトーンが落ち着いてるんですかね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうかもしれないです"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "テンション高めだと面白い感じになる気がします"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "テンションかー、難しい"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "<FU>さんのおすすめはありますか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "コレコレが好きです"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "配信者ですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "コレコレも一応おしゃべり系かもしれないです。"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "ずっと喋ってるんですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "一人でしゃべってるわけではないですけどね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "そうなんですね"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 4447,
+    "utterances": [
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "よろしくお願いします"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "よろしくお願いします"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "最近視力がかなり下がってきて悩んでます"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "どれくらい下がったんですか？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "今裸眼で0.1くらいだと思います"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうなんですか、ずっと眼鏡ですか？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "外にいるときはコンタクトです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうなんですね、僕も目は悪いです"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "<FU>さんはずっと眼鏡ですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ずっと眼鏡です。コンタクトつけるの時間かかるのでめんどくさくて"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "ワンデー以外は管理も必要ですしね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうなんですよね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "視力を戻す手術があるみたいで気になってます"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "レーシックですか？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "いえ、ICLってやつでした"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "目の手術って怖そうですね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "意識ある状態みたいなので拷問ですよねもはや"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "意識あるんですか？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "そうみたいです。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "怖そう"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "自分はやるなら全身麻酔じゃないとできないです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "でも視力戻るなら興味あります"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "レンズを埋め込むみたいです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "へー、それ大丈夫なんですか？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "数十年後どうなるかはわからないですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "んー、ちょっと不安ですね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "そうなんですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "値段はどれくらいですか？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "50万くらいかな"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "思ったよりは安いですね"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 4452,
+    "utterances": [
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "よろしくお願いします"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "よろしくお願いします"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "普段ゲームはしますか？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "まあまあやりますよ。<FU>さんは？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "最近はポケモンやってました"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "ポケモン、もうすぐ新作出ますよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "出ますね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "買いますか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "買います。予約しました"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "どっちを予約しました？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "バイオレットにしました"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "自分もバイオレットにしました。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "出るポケモンがいろいろ違うみたいですね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "そうみたいですねー"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "何が出て何が出ないか見ました？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "まだ見てないです。伝説のポケモンで選びました"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうなんですか"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "タイヤがめりこんでて割と衝撃的なデザインですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "人工的に作られたポケモンって感じしますよね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "そうですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "昔からいたとは思えないです"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "突然変異とかですかね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "それもあるかもしれないですね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "ポケモンのデザイン、年々海外チックになってません？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ポケモンぽくないやつ増えてきましたね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "ロックマンみたいな新ポケみました？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "見ました。あれはロックマンですね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "ですよね、ポケモン感がない"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "いいんだか悪いんだか"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "うーん"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 4495,
+    "utterances": [
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "よろしくお願いします"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "お願いします"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "嫌いな食べ物はありますか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "創作料理がだめかもしれないです"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "アレンジレシピとかですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうですね。エビチリに鶏肉が混ざってたりしたら嫌です。"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "味はおいしそうですけどね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "おいしいとは思うんですけど、もうエビチリじゃないなって思ってだめですね"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "なるほど。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "<CS>さんは嫌いなものありますか？"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "私はジャンルで言うと懐石料理がだめですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "あー、あんまり食べたことないです"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "昔銀座の有名店につれていってもらったんですけど、ほとんどたべられなかったです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "どんな料理だったんですか？"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "なんか、何の食材使ってるのかもわからないねちょねちょした塊とか…"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そんな料理あるんですか？"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "あとはとにかく味がなかったです。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "有名店なのにそんなことあるんですね"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "そうですね、有名店でそんな感じなんでちょっとトラウマでした"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "おせちみたいな感じですかね"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "おせちはまだ食べられますね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "煮豆とか栗きんとんはおいしいですよね"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "そうですね。私はおせちだとかまぼこが一番好きです。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "あんまりおせち感ないですね"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "そうですね、だからこそだと思います"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "おせちかぁ、一人暮らしだったら絶対用意しないですね"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "そうですね。実家で出されてもあんまり嬉しくはないですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "お雑煮のほうがまだ嬉しいかもしれないです"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "わかります！"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "お雑煮おいしいですもんね"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 4501,
+    "utterances": [
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "恋人はいますか？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "彼氏がいますよ"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "<AW>さん、女性ですか？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "そうですよー"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "男性だと思ってました"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "名前が男っぽいですもんね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "彼氏さんはどんな人ですか？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "小うるさいお母さんって感じです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "へー、面倒見よさそうですね"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "うーん、反抗期迎えそうです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "嫌なんですか？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "大人になったのにガミガミ言われるのきつくないですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "まあ、たしかに"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "せっかくガミガミ言う人から離れたのにまたガミガミ言われてます"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そういう人と縁があるんですかね"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "私がしっかりしてないせいもあるんですけどね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "最近何でガミガミ言われました？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "勝手にクローゼット開けて文句言いながら片付けられたときは怒りました"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "片づけてくれるならいいんじゃないですか？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "彼氏に見られたくないじゃないですか"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "あー、なるほど。"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "それを全部ひっくり返されて見られるの無理でした"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そこまでオープンにできないですよね"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "これが数十年連れ添った夫婦なら別なのかもしれないですけどね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうですね、それくらい一緒にいたら別ですね"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "あれはすごい嫌だったなぁ"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "良かれと思ってやってるんでしょうけどね"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "それが嫌なんですよね"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 4504,
+    "utterances": [
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "よろしくお願いします"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "よろしくお願いします"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "整理整頓は得意ですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "うちはあんまり物がないです"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "ミニマリストですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "割とそれに近いかもしれないです。"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "あれ、一人暮らしですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "実家です。両親が結構質素なタイプなんですよ"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "無駄なものは持たないんですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "はい。その影響で僕もあんまり物を持ってないです"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "うちはごちゃごちゃです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "何があるんですか？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "なんだろうな、コードがあるせいでごちゃごちゃしてるんですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "コードか、隠すの難しいですよね"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "もうむき出しです。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "それはしかたないですね"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "あと猫のおもちゃとか散らかってます"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "猫のおもちゃもやむを得ないですよ"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "おもちゃ散らかっててもおしゃれな家の人いません？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうですか？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "YouTube見てるとペットいるのにきれいでおしゃれな部屋に住んでる人よく見かけます"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "それはたぶん普段の姿じゃないですよ"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "ですかねー"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "家政婦がいるか、掃除頑張ってるかどっちかです"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "家政婦いいなぁ"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "<AW>さんも猫系ユーチューバーになればいいのでは？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "いやーめんどくさくてできないです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "残念・・・"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "編集が面倒ですね"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 6425,
+    "utterances": [
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "次の休みにしたいことはありますか？"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "特に予定はないんですよね。こたつ買ったのでそろそろ組み立てようかと思ってます"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "こたつ買ったんですか。いいですね。"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "こたつ持ってますか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "持ってます。冬動けなくなります。"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "一生こたつでみかん食べながらゲームしてたいです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "なんのゲームですか？"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "どうぶつの森ですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "どうぶつの森やってるんですね"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "ずっと借金返してます"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "僕は最終段階の借金踏み倒してます"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "なんかみんなそうするみたいですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "高いしもういいかなって思って"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "家は広くなってますもんね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "返済しなくてもペナルティないのがホワイトですよね"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "たしかに利息ないですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "良心的だなぁ"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "現実もそうだったらいいんですけどね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "現実は厳しさしかないですからね"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "ハス太さんはゲームしますか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "僕はもうすぐ発売のポケモンが楽しみです"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "あー、来月でしたっけ？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "はい、来月中旬です"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "楽しみですね。どっち買うんですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "バイオレット買います"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "バイオレットの伝説ポケモンのほうがおしゃれな気がします"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうですね"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "楽しんでください"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 6467,
+    "utterances": [
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "三連休はどう過ごしてますか？"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "家でダラダラしてます。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "僕もです。今日は買い物に行きましたけどそれくらいです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "何を買ったんですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "犬のごはんです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "犬飼ってるんですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "シベリアンハスキーを飼ってます"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "ずいぶん大きい犬飼ってるんですね。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "はい、かわいいです。"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "羨ましいです。私もペット飼いたいな"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "何も飼ってないんですか？"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "はい。家を留守にしがちなのでかわいそうかなと思って"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "なるほど。ペット飼うとなかなか旅行にも行けなくなります"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "そうですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "僕は実家なのであんまり気にしなくていいんですが、一人暮らしだと大変そうですね"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "やっぱ誰かと住まないとペットは厳しそうですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうですね。猫はともかく犬は置き去りにすると大変なことになりそうです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "トイレ問題がありますよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうですね。猫だったら砂に埋めるからいいですけど犬がむき出しだし"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "飼うなら猫かなぁ"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうですね"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "でも留守中に高いところから落ちて怪我したらやばいですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ペットホテルに預けるのが一番いいんだと思います"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "いくらくらいするんでしょう"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "一泊一万円くらいでしょうか"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "人間より高いですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ピンキリだとは思いますがそれくらいな気がします"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "お金かかりますねぇ"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 6469,
+    "utterances": [
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "<HQ>さんはご結婚されてますか？"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "いえ、まだ独身ですよ"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "結婚相手の最低条件ってありますか？"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "最低条件かぁ。結婚ですよね。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "料理が上手とか、ちゃんと働いてるとか"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "なんかあったとき二人で乗り越えられていけるかどうか、ですかね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "なるほどー"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "今働いてても働けなくなるかもしれないし、料理は今できなくてもできるようになればいいので"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "なんかあったときっていうのは例えばどんな感じですか？"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "うつ病になったとか不倫しちゃったとか"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "不倫は別れないんですか？"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "本気じゃないなら別れないです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "へー、どうしてですか？"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "例えば今30歳だとして、死ぬまであと50年あるとするじゃないですか"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "はい"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "50年の間よそ見をしないっていうのは無理だと思うんですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "でも行動に移しちゃうのは違くないですか？"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "もしタイプの相手からアプローチされたら踏みとどまれないのが人間だと思うんですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "自分からはアプローチしないんですか？"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "私はもともとあんまり異性に興味がないので不倫はしないと思います"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "あ、じゃあ相手がしたらって話ですね"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "そうですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "達観してますね。ショック受けません？"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "ショックは受けるでしょうけど、人間だししかたないよねとも思います"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "僕は耐えられないかもしれないです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "そこは人それぞれですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうですね"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "でも相手には不倫ＯＫとは言わないようにしてます"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 6470,
+    "utterances": [
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "こんばんはー"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "最近食べたおいしいものは何かありますか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "タージーパイを食べたんですけど、めちゃくちゃおいしかったです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "薄い唐揚げですよね？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうです。韓国チキンとか日本の唐揚げよりも好きです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "どんな味なんですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "うーん、難しいですね、あまじょっぱいに近いですけどもっと複雑な味でした"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "お店で食べたんですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "浅草で食べました。辛い味があったんですけどそっちがおいしかったです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "そういうの家で再現できるといいですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "再現したいなぁ。レシピあさってみようかと思ってます"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "そんなにおいしいなら私も食べてみたいです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "台湾の食べ物ってはずれがない気がします"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "タピオカも台湾出生でしたよねたしか"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうですね。小籠包とか台湾かき氷とかもおいしいです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "台湾行ってみたいかも"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "本場の味が果たして口に合うのかって心配はありますけどね"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "そこは心配ですねー。昔中国で本場の中華料理食べたんですけどだめでした。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうなんですか"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "その料理にも八角が入ってるんですよ"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "八角ってなんですか？"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "中国の癖のある香辛料みたいなものです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "全部同じ味になりそうですね"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "ほんと全部同じ味です。同じ味というか八角の味というか。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "やっぱ本場の味とは違うんですね"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "日本の料理のほうがおいしいです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "日本に生まれてよかったですよね"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "ご飯に関しては最高ですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ですね"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 6479,
+    "utterances": [
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "クリスマスが二か月後に迫ってますね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "今年も彼女はできなさそうです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "私も一人で過ごすことになりそうです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "クリスマスの理想のデートプランはありますか？"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "夜景見ながらディナーは憧れですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "プロポーズのイメージあります"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "そうですね、プロポーズのイメージはたしかに"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "青山にいい感じのお店ありますよ"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "ご存じということは夜景ディナーの経験あるんですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "男同士であります、、"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "たまたま入った店がそんな感じだったんですかね？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうですね。周りカップルだらけで場違い感すごかったです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "ちょっと気まずいですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "でもカップルで行くには絶好の店だと思いましたよ"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "気になります。<FU>さんの理想のデートプランも教えてください。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "僕はイルミネーションと買い物くらいにして、ご飯は家がいいです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "店には行かないんですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "混んでて落ち着けなさそうだし、クリスマス限定メニューが食べたければずらしていきますね"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "24日、25日はカップルで埋め尽くされますよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "都心部はえげつないですね"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "どこに隠れてたんだって思います"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "羨ましいです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "二カ月で恋人つくるしかないですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "二カ月じゃきついです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "マッチングアプリでなんとか頑張ればいけるはずです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "すぐ付き合ってすぐ別れそうじゃないですか？"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "まぁその可能性はなくはないかもしれないです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ですよね"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 12677,
+    "utterances": [
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "こんにちは"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "なんかさっきから飼い猫がすごい暴れてます"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "猫飼ってるんですね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "飼ってます。最近暴れるようになっちゃいました"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "部屋中走り回るとかですか？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "そうですね、あととびかかってくるようになりました"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "それは怖いですね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "顔にとびかかってくるのでめちゃめちゃ怖いです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "猫パンチはしないんですか？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "猫パンチはしないんですが嚙みますね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "犬みたいですね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "そうですよね。歯がかゆいのかなぁ"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "おもちゃとかあげてますか？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "あげてますが、噛むタイプは一日で壊されますね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "エネルギーが有り余ってるのかなぁ"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "運動させすぎると口開けてはあはあしてるので、難しいんですよ"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ほんと犬みたいですね。猫は口呼吸よくないんですか？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "あんまりよくないみたいですよ。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうなんですか、じゃあ遊ばせすぎも微妙ですね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "困ったらケージに入れてるんですけど、もう少し落ち着いてほしいです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "まだ若い猫なんですか？"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "半年くらいなのでまだ子猫ですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "じゃあ暴れるのも仕方ないかもしれないですね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "そうですね。早く大人になってほしいです。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "自然と直るといいんですけどね。"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "大人になって嚙み癖直らなかったらまずいですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "噛まれた場所流血しそうですね"
+      },
+      {
+        "role": "FT",
+        "action": "(speaking)",
+        "content": "ですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "噛む猫は聞いたことないので、そのうちなおるとおもいますよ"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 12717,
+    "utterances": [
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "よろしくお願いします。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "よろしくお願いします。"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "好きな食べ物は何ですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "焼き肉が好きです"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "いいですね。部位でいうとどれが好きですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "タンが好きです"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "タンは安定ですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "いくらでも食べられる気がしますね"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "友達と焼き肉行ったりしますか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "月一回は絶対行ってますね"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "楽しそうでいいなぁ"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "焼き肉あんま行かないですか？"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "居酒屋のほうが多いですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "食べるより飲むようになるんですか？"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "そうですね、飲む量のほうが多いかも。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "<CS>さんは結構お酒飲みますか？"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "まあまあくらいですね。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "何のお酒が好きですか？"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "梅酒とかのみやすいお酒が好きですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "焼酎とかは飲まないんですか？"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "焼酎どころかビールもおいしさがわからないです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "苦いからですか？"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "そうですね、焼酎は消毒液みたいなにおいがきついです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "なるほど。梅酒だったら比較的健康によさそうですね"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "実際どうなんでしょうね。お酒だから健康には悪いのかな"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ほどほどならまぁいいとおもいますよ"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "引き続きほどほどにしておきます"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "おねがいします"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "では、そろそろ失礼します"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "お疲れ様でした"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 12722,
+    "utterances": [
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "よろしくお願いします。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "<CS>さんはどのあたりに住んでるんですか？"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "私は関東です"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "あ、じゃあ同じですね。"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "そうなんですね。台風が明日明後日あたり直撃しそうですけど大丈夫ですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "たぶん大丈夫だと思います。そちらはどうですか？"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "うちも窓が割れない限りは大丈夫だと思います。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "今回の台風は結構怖いみたいですね"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "関東にくるまでに弱まってくれるといいですが"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "どうなりますかねー"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "食料は買い込んだので、明後日は引きこもるつもりです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "明日は出かけるんですか？"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "明日はスカイツリーに行くので、天気荒れないでほしいです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "いいですね。天気予報だと雨になっちゃってますが、小雨だといいですね"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "雨かぁ、しかたないですね。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "僕は明日明後日は家にいようと思います"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "それがいいですよ"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "<CS>さん気を付けてくださいね"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "気を付けます。家では何をするんですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "大学の課題やってYouTube見ようかなと思ってます"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "バイトとかはないんですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "たまたま休みでした"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "ラッキーですね！"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "心置きなく家でダラダラできます"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "思う存分ダラダラしてください"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "じゃあこれで終わりますね"
+      },
+      {
+        "role": "CS",
+        "action": "(speaking)",
+        "content": "ありがとうございました。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ありがとうございました。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 12732,
+    "utterances": [
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "夜ご飯何を食べましたか"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "今日はパスタでした"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "どんなパスタですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ミートソースパスタです、茄子入りの"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "美味しそうですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ソースは市販のものだったのでおいしかったです"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "市販のものに具を足したんですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうです。栄養取れるし楽でよくやります"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "私も今度やろうかな。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "あなたは何を食べたんですか？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "カレーを食べました"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "何カレーですか？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "普通のカレーですよ"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "何かこだわりはありますか？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "カレーは辛口が絶対いいです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "辛いものが好きなんですか？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "はい、甘いのがあんまり得意じゃないんです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうなんだー"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "あと辛いものはちゃんと辛くして欲しいです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "じゃあ甘辛とかあんまり好きじゃないですか？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "物によりますけど、そんなに好きじゃないかもしれないですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ヤンニョムチキンとかどうですか？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "あれはまだいいですけど、好きかと言われると普通ですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうなんですね"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "辛いもの食べれますか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ピリ辛ぐらいがちょうどいいです"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "辛すぎても体に悪いですからね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "はい。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 12733,
+    "utterances": [
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "よろしくお願いします"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "よろしくお願いします"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "どういう人と友達になりたいですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "うーん、どうだろう"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "私はオネエと友達になってみたいです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "どうしてですか？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "明るくて楽しそうだなぁと思って"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "確かに、 でも毒舌だからちょっと傷つきそうです"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "結構ズバッというイメージありますよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "みんながそうってわけじゃないと思いますけどね"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "<FU>さんは思いつきました？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "僕は全肯定してくれる友達が欲しいです"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "そういう人も必要ですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "自己肯定感低めなので、そういう人がいてくれるとありがたいです"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "私も彼氏が割と叱ってくるタイプなので、友達に甘やかされたいです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "叱る人も甘やかしてくれる人も両方必要ですよね"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "そうですね、叱る人がそばにいないとダメ人間になりそうです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "叱られてばかりだと嫌になっちゃいそうですけどね"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "バランスが大事ですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "友達は多い方ですか"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "年々減っていってます"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうなんですか"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "結婚したり地方に移り住んだり、価値観変わって行ったりして徐々に減ってます"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "大人になってから出来た友達はいないですか？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "社会人になるとなかなか難しいですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "社会人になってから友達ってどうやって作るんですかね"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "会社なんでしょうけど、個人的に会社の人と仲良くなりすぎるのもちょっと"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "どうしてです？"
+      },
+      {
+        "role": "AW",
+        "action": "(speaking)",
+        "content": "弱みを見せることになるので、知らない間に話が広まってたりしたら嫌だなと思って"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そこを気にしてしまうとなかなか友達作るの難しいですね"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 13947,
+    "utterances": [
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "晩ごはんは何を食べましたか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "今日はカレーうどんでした"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "家で作ったんですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "はい。カップ麵なので作ったとは言えないですが。"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "普段カップ麺食べること多いんですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "結構久しぶりに食べました"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "私も普段あんまり食べないです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "麵の感じがあんまり好きじゃないんですよね"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "コシがないですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうですね。ふにゃふにゃというか"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "カップ麺じゃしょうがないですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "昔生のうどんが入ってるカップ麵があった気がするんですけど、気づいたらなくなってました"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "そんなのあったんですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "思い出した、ごんぶとです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "んー、ピンとこないです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "あれはおいしかったですよ"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "私はすうどんでっせっていうカップうどんが好きでした"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "僕はそっちを知らないです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "具はないんですけどやたらおいしいんですよ"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "まだ売ってますかね？"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "どうなんでしょう。見かけたことないです。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "もう販売終了になったのかもしれないですね"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "うーん、残念ですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "うどんはどん兵衛とか赤いきつねばっかりですね"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "その二つはどこでも見かけますね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "僕は緑のたぬきのほうが好きです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "私は赤いきつねかなー"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "あげがおいしいですよね"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 13950,
+    "utterances": [
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "よろしくお願いします"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "よろしくお願いします"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "冬に向けて買いたいものはありますか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "布団を新調したいです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "今の布団は結構長く使ってるんですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "割と長いです。もうヘロヘロで。"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "どういう布団にしたいんですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ふかふかの布団に変えたいです。今せんべい布団なので。"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "もう目途はつけてるんですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ニトリで買おうかなって思ってるんですが、掛け布団が微妙なんですよね"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "掛け布団かぁ、寝具屋さんに行ったほうがいいものありそうです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ちょっと高いんですよね"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "ニトリに比べるとそうですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "学生にはニトリでじゅうぶんです。"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "私はこたつが欲しいです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "こたついいですね"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "こたつも布団が必要なんですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうですね。トータル3から5万くらいあれば全部そろいそうです"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "それくらいだったら買っちゃおうかなぁ"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "うちはこたつあるんですけど、出られなくなりますよ"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "そうですよねーでも結局こたつなくても布団から出られないし変わらないです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "あー、たしかにそうですね。"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "こたつのほうが起き上がったままでいられるのでまだましですね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうですね。布団よりはましかも"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "こたつでアイスとかミカンとか食べられますし"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "鍋とかもいいですよ"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "いいですよね。やりたいなぁ"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "こたつ買うしかないですね"
+      },
+      {
+        "role": "HQ",
+        "action": "(speaking)",
+        "content": "検討します"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "そうですね"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 13988,
+    "utterances": [
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "こんばんは"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "もう秋ですね"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "そうですね、だいぶ涼しくなりましたね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "でも今日こっちは30度超えました"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "今日は暑かったですね。明後日からまた寒くなるようです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "寒暖差がすごいですよね"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "具合悪くなりそうです"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "風邪ひきそうですよね"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "体強いほうですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "結構虚弱体質です"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "私もです。今の会社は寛容なのでよかったです。"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "厳しい会社はほんとに厳しいですよね"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "体調管理で気を付けてることとかあります？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "特に何もないですね。野菜食べるくらいかな。"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "ビタミンとるの大事ですからね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "あとヨーグルトを食べるようにしてます"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "何か効果あります？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "便通はよくなりました。"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "美肌効果とかあります？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "肌荒れはしなくなったかも"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "いいですね。何ヨーグルトですか？"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "無糖のギリシャヨーグルトが好きでよく食べてます"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "ギリシャヨーグルトはおいしいですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ちょっと固いというかもっちりしてておいしいですね"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "ちょっとチーズっぽいですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "たしかにああいうチーズありそうですね"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "そうですよね"
+      },
+      {
+        "role": "FU",
+        "action": "(speaking)",
+        "content": "ではそろそろ失礼しますね"
+      },
+      {
+        "role": "GR",
+        "action": "(speaking)",
+        "content": "ありがとうございました。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  }
+]

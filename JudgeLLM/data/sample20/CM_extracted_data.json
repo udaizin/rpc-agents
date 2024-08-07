@@ -1,0 +1,3122 @@
+[
+  {
+    "dialogue_id": 901,
+    "utterances": [
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "暑いですね、そちらはどうですか？"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "こちらも曇っているのに、蒸しっとして暑いです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こちらも曇りです、湿度が高くて過ごしづらいですね。"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "台風の影響ですかね？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "台風迫ってきてるんですか？"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "みたいですよ！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "普段テレビ見ないので全然知りませんでした。気をつけないと。"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "そうなんですね！関東直撃？らしいですよ。私は関西に住んでますが。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私は甲信越なので、あまり台風の影響を受ける事がないのですが、豪雨は怖いです。"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "です。普段テレビ見ないと、ニュースとかはネットですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうなんです、普段はネット上で色々見てます！"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "そうなんですね。私も、ほとんどネットですが、朝はテレビ見てますね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "朝が遅いので、起きると大抵情報番組は終わってるんです。"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "何時にいつも起きるんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "早くて１０時頃に目が覚めます！"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "それはゆっくりですね！寝るのが遅い？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "ロングスリーパーなんです。１０時間くらい寝ないと満足出来なくて。"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "10時間くらい私も寝たいです！だいたい、7時間くらいで目が覚めちゃいます。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私も８時間くらいで起きたいんですけど、なかなか難しいです。"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "私は、子供の頃睡眠不足で高熱出してました。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "それは危ない！睡眠不足で熱が出る事があるんですね。"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "病院へ連れて行ってもらって、お医者さんにこの子は寝ないとダメです、って言われたの覚えてます。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "それから寝るようになって良くなりましたか？"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "そうですね。遊び過ぎの睡眠不足で、40度です。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そんなに高熱が出たら、子供だと余計辛いですね。"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "ですね。それから、睡眠は7時間は取るようにしてます。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "子供だと楽しい事たくさんありますし、遊びたい気持ちは分かりますが危ないですね。"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "ですよね。学びました。今日もゆっくり寝ます！では、またお話ししましょう。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 904,
+    "utterances": [
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "この夏、夏らしいことは何かしましたか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "外に出たりとかはしていませんが、ゲームの中で夏祭りに出かけました！"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "どんなゲームをしてるんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "MMORPGです、FINAL FANTASY XIVっていうタイトルで。"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "ほぉー。そこで夏祭りがあったんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "はい、有志の方が集まってお祭りエリアを作られていて、そこに遊びに行きました！"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "なんか楽しそうですね。何か食べたり、遊んだりするんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "アイテムとしてご飯が売られていて、それを買うロールプレイが出来るんです。"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "そうなんですね！私はマリオカートやパーティ、マリオテニスとかしか持ってません。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "パーティーゲームいいですね！どなたかと一緒に遊んだりしますか？"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "家族や友人が来た時に一緒にしたりします。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "ご家族と一緒に遊べるのいいですね！私も少し憧れます。"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "一人暮らしですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "いえ、家族と実家で過ごしているのですが、皆ゲームの趣味が全く合わなくて。"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "それは一人でやるしかないですねー。でも、今ってオンラインで一緒に出来るんですよね？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうなんです、なのでオンラインで知り合った方と仲良くなって、一緒に遊んでます！"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "気が合う人と遊べるから、その方がいいですね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "でも、一緒に並んで同じゲームをやってるご夫婦の方とか見ると、羨ましいなーと思ってしまいます。"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "なるほど。なかなかゲームの趣味って合わせるの難しそうです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私がソニー派で、妹が任天堂派なので、もうそこから相容れないんです。"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "もう、それぞれでやるしかないですね。ちなみに、私は今、毎日、リングフィットしてます。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "リングフィット！毎日の運動になってよさそうですね！"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "かなり運動できますよ！家に居ながら出来るので、1年ぶりに開封しました。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "今なかなか外に出て運動って難しいですもんね。"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "暑いから、家の中でも汗かきます。運動不足解消に！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私も何か運動しないと、ゲーム漬けで体に悪そう！"
+      },
+      {
+        "role": "AB",
+        "action": "(speaking)",
+        "content": "ぜひ、何か運動を！無理がないように。ではまた、お話ししましょう。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "はい、ありがとうございました！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 1665,
+    "utterances": [
+      {
+        "role": "AY",
+        "action": "(speaking)",
+        "content": "どうもです！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "AY",
+        "action": "(speaking)",
+        "content": "フルーツって好きですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "大好きです！"
+      },
+      {
+        "role": "AY",
+        "action": "(speaking)",
+        "content": "例えばどんなのが好きなんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "今の時期はやっぱりスイカが美味しいです！"
+      },
+      {
+        "role": "AY",
+        "action": "(speaking)",
+        "content": "甘くてシャキシャキ、たまんないですよね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "最近はカットされたのをスーパーで家族が買ってきてくれるのでありがたいです！"
+      },
+      {
+        "role": "AY",
+        "action": "(speaking)",
+        "content": "ああ！あれは上品でいいですよね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "手も汚れないですし、食べやすくていい！"
+      },
+      {
+        "role": "AY",
+        "action": "(speaking)",
+        "content": "しかも、糖度とかシール貼ってあるのありませんか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そんなのあるんですか！美味しいのどれか見分けやすそうでいいなあ。"
+      },
+      {
+        "role": "AY",
+        "action": "(speaking)",
+        "content": "そうそう！失敗なしです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "極力甘くておいしいのがいいですもんね！"
+      },
+      {
+        "role": "AY",
+        "action": "(speaking)",
+        "content": "そうなんですよ！でも見極め難しい。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "あなたは何か好きなフルーツありますか？"
+      },
+      {
+        "role": "AY",
+        "action": "(speaking)",
+        "content": "メロンとか、柿とかですかね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "柿！もうすぐですね！"
+      },
+      {
+        "role": "AY",
+        "action": "(speaking)",
+        "content": "そうなんですー！もう楽しみで。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "秋も美味しいものたくさんありますもんね！"
+      },
+      {
+        "role": "AY",
+        "action": "(speaking)",
+        "content": "そうそう。梨とかもおいしいです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "梨もみずみずしいの食べるとさっぱりして美味しいですよね！"
+      },
+      {
+        "role": "AY",
+        "action": "(speaking)",
+        "content": "ねー、あと果物じゃないけど、栗も大好き！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "いいですね！私ここ数年でモンブラン美味しく食べられるようになったんです。"
+      },
+      {
+        "role": "AY",
+        "action": "(speaking)",
+        "content": "昔はダメだったんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "嫌いではなかったのですが、特別美味しいなとも思えなくて。舌が大人になりました！"
+      },
+      {
+        "role": "AY",
+        "action": "(speaking)",
+        "content": "おお！それはいいことです！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "ザラザラした感じが得意ではなかったのですが、それを美味しいと思えるようになりました！"
+      },
+      {
+        "role": "AY",
+        "action": "(speaking)",
+        "content": "モンブランは最高ですよ！私一番好きかも。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "これからのケーキが楽しみになってきましたね！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 3295,
+    "utterances": [
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "旅行はお好きですか？"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "旅行好きです"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "最近はなかなか思うように出歩けないですが、好きな場所とかありますか？"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "伊豆が好きで、ちなみに今も伊豆にきてます！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "今もですか！出先でチャットされてる感じですか？"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "祖母の家があって、お家みたいなもんです"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "なるほど、親戚の家があると通う理由が出来ていいなあ。"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "最高です"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私は伊豆に詳しくないのですが、どんな観光スポットがありますか？"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "大室山、小室山が私の中ではおすすめのスポットです"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "山ですか！これからの季節よさそうですね！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "見晴らしが良いんです！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "景色のいいところでのんびりするのは最高ですよねー！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "はい！旅行でどこに行かれることが多いですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私は東京ばかり通ってます！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "何しにですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "友人が皆関東在住なので、一緒にご飯を食べに！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "どこか美味しいお店ありましたか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "チェーン店ですが、北海道シントク農場っていう居酒屋さんのご飯が美味しかったです！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "行ったことないです、なんのメニューがよかったですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私マヨネーズが駄目なのですが、シーザーサラダが凄く美味しくてびっくりしました！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "居酒屋さんの一品てたまにびっくりするくらい美味しいですよね"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうなんです、サービス精神も旺盛で凄く楽しかったです！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "サービス精神もあったんですか"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "地鶏を焼いた後の脂で小さなハートの炒飯を作ってくれたんですよー！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "すごい！楽しいですねそれは"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "凄くおすすめなので、機会があれば是非！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "はい行ってみます"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 3666,
+    "utterances": [
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "何か気に入って集めたものはありますか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "気に入って集めたものですか、何だろうなあ。若い頃は色んなものを集めてた記憶があります！"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "私もたくさん集めましたが、ボールペンを集めました。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "文房具！色々な種類をですか？"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "はい。インクを取り換えられる5色のものとか4色のものとかです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "ああーちょっと憧れた事あります！おしゃれなペン！"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "いろんな種類があって、それを制覇しようとしたことがあるんです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "文房具はハマるとなかなか抜け出せない沼と聞いた事があります！"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "そうなんです。キャラクターのものとか集めているうちに２００本以上になっていました。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "それはどうやって収納したり、見分けたりしてましたか？"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "収納しきれなくなってしまって。大体大きなポーチにまとめていれてます。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "ポーチや小さめのバッグがあると色々詰め込みやすいですよね！"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "はい。縦型のものを用意して、キャラクターごとに分けています。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "キャラものだと、新作が出たらまた買いに行ってしまいそう。"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "そうなんです。今日は赤はミッフィー、青はドナルドと5色のペンを別々につかっているんです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "その日によって使い分けてるんですか？"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "はい。大体1色全て使い切ったら別のものという感じなんです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "定期的に持ち物を変えるの、気分も上がってよさそうですね！"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "はい。特に仕事の時は、これでテンションをあげて頑張っています！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "何か大変な事がある日に、モチベーションの上がるものがあるといいですね！"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "そうですね。でも私の場合はちょっと集めすぎて、毎朝どれをつかうか困ってしまいます。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "悩む時間もまた楽しそう！"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "ありがとうございます。文房具はお好きですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私はマスキングテープとかシールとか、好きだった事があります！"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "マスキングテープは便利ですよね。かわいいものも多いし。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "Loftとかのシールコーナーを見ると、もういい大人なのにワクワクしてしまいます！"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "そうなんですね！昔はマスキングテープなかったので、私も今ドキドキします"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "たまには童心に帰って、買ってみようかなあ。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 3781,
+    "utterances": [
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こちらは少し曇っていて涼しいです、そちらはどうですか？"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "こちらは雨です。ずっと降ってますよ。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "最近雨も台風も多いですよねー。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "ですね。日本列島ぐるっと台風ですね。秋雨前線も停滞しているようです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "昨日寝ようとしたら突然土砂降りになってびっくりしました！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "こちらもです。いつ土砂降りになるのか分からないからドキドキします。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "崩れそうな斜面なんかがあると気が気でないですよね。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "ほんとですね。災害が無いことを祈りたいです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "どのあたりにお住まいか伺ってもいいですか？"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "東京にすんでいます。こちらも気温は下がりましたが湿度が凄いです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "東京！しばらく行けてないんです。湿度が高いと過ごしづらいですよね。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "どのあたりにお住まいですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私は長野県内に住んでます！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "長野、いいところですよね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "あまり湿度が上がらないので東京よりは過ごしやすいかもしれません！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "山に囲まれていて涼しそうです。冬はどうですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "冬はやっぱり寒いです、去年はかなり雪が降りました！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "ですよね。雪かきは日常ですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうですね、雪かきは必須です！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "体力使いますよね。日本海側に住んでいたので雪かきの大変さ理解できます。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こちらは家庭用の除雪機を使うのでシャベルほどではないですが、朝早くからやるので疲れそうです。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "除雪機があるんですか。さすがです。原動は電気ですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "電動かな？エンジンみたいな音がしますよ！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "そうなんですね。除雪機があるなんて、本格的な雪国ですね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "今年は４月にも雪が降ってたので凄く心配してましたが、すぐ夏になりました！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "今年の夏は長く感じました。長野の最高気温はどれくらい行きましたか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "３５度は越えたのかな？結構高かったと思います！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "猛暑ですね。きつかったですね。ではまた！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 3946,
+    "utterances": [
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "こんににちは！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "少し哲学的な質問をしてもいいですか？"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "ドキドキ。どんなことですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "もし永遠に生きられるとしたら、何をして過ごしますか？"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "永遠に生きられるとしたら、一から色々学びなおしたいかもです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "例えばどんなことに興味がありますか？"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "数学とかかな？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "生き急ぐ必要もなくなりますし、いっそ小学生の勉強からし直すのもよさそうですね！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "ですね。数学苦手だったので、勉強しなおして暮らしに役立ててみたいです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "全員が不老不死になったら凄く大変な世の中になりそうですが、一人だけならやっていけなくもなさそう。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "一人だったら寂しくて生きていかれなさそうです。あなたはどうですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私はずーっと遊びながら暮らして、最先端のゲームや乗り物に乗ってみたいなと！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "なるほど。遊びまくりたいんですね！飽きちゃわないかな？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "次から次へと新しいものが出てきてくれたら大丈夫かも？でも確かにどこかで飽きそうですね。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "誰かと面白いことを常に開拓してくならずっと楽しく遊べそうですね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "確かに、ある程度時が過ぎたら新しいコミュニティに入って過ごしそうです！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "不老不死なら可能かもですね。それって歳をとらない設定ですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうです、加齢したら永遠に生きてても動けなくなっちゃいそう。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "ですよね。永遠に生きられるのならもう少し若返りたいです。ははは。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "確かに、健康な体で永遠に元気でいたいです！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "ほんとです。お肌とかつやっつやにして日焼けにも気を使わないと。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "持病があればそれもきれいさっぱり無くしてほしいです！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "健康体でいられればずっと生きていたいかもですね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私は死ぬのが一番怖いので、もし不老不死ならってよく考えてしまいます。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "不滅のあなたへってアニメ知ってますか？フシという絶対死なない子が出てくるんです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "聞いた事ないアニメです、面白いですか？"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "面白くてまた第二期がやるようです。楽しみです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "今度調べてみますね！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "はい！ぜひ。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 3953,
+    "utterances": [
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "ここんにちは！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "将来なにか夢とかありますか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "夢は大きく宝くじ一等前後賞ですね！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "宝くじ毎年買うんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "毎回３０枚ずつ買ってますよ！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "必ず300円当たるやつですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうです、連番！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "たまに買うんですが、当たったためしがないので夢がないですね。当たった時の夢だけ見てます。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "夢を見るだけならタダですからね！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "当たったら何がしたいですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "バリアフリーの綺麗なマンションを買って、老後まで過ごしたいです！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "最高ですね！私は母が一人暮らしの実家を新築に建て替えたいです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "リフォームいいですね！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "土地はあるのでそれこそバリアフリーにして、老後は今の住まいと行ったり来たりしたいです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "実家のリフォームにお金使うなんて素敵だなあ。私は一人で引っ越しちゃいたいです。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "住むならどこに住みたいですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "今住んでる実家から車で一時間くらいのところにおしゃれな街があって、そこに住みたいです！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "オシャレな街の近くに住む、それもいいですね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうなんです、近くにモールがあって何でも揃うようなマンションが憧れです！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "出たらすぐに何でも手に入る、ですね！飲食店も欲しいですね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私料理が苦手なので、飲食店がたくさんあるのもいいなって！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "食のテーマパークとかできたら最高かも。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "確かに、何でも選び放題な場所いいですね！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "フィットネスジムも完備です。ははは。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そういえば昨日YouTubeで、クリニックやスーパーの中にあるマンションを見ましたよ！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "すごい、外に出なくていいじゃないですか！お年寄りにはべんりですね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうなんです、通路一本通ったらもうオートロックの扉！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "最高。家にお医者さんも訪問診療してくれそう。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "確かに、家から出なくなってしまいそうですね！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 3954,
+    "utterances": [
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "あなたにとって一番大切な子供の頃の記憶って何ですか？"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "家族全員でキャンプに行った時の記憶です。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "キャンプ楽しそう！どんなことをしましたか？"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "何をしたかな？川で泳いだり、丘を登ったり、満天の星を観たり。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "街灯がない場所での星空ってたまらないですよねー！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "もうそれは、零れ落ちるほどの星がまたたいてるんですよ！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "普段灯りの多いところにいると、なかなか見られないですもんね。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "そうなんです。あと、露が下りると同時に月の光もそれに反射して下りてくる風景が鮮明に記憶に残ってます。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "想像するだけで綺麗だー、キャンプやグランピング行ってみたくなります！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "実は来月キャンプに行く予定を立てるんです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "いいですね！どのあたりのキャンプ場へ行かれるんですか？"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "来月は山梨の本栖湖という湖のほとりに行こうと思ってます。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "山梨！富士急ハイランドも山梨でしたっけ？"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "行ったことないけど、確か山梨だったような。行ったことありますか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "高校生の時に授業で行った事がありますよ！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "授業で何を学んだんですか！ははは。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "高校は修学旅行が無かったので、代わりに毎年日帰り旅行してよかったんです。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "なるほど！どうでしたか？富士急"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "絶叫マシンがだめなのでほとんど乗り物に乗れなくて。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "富士急イコール絶叫マシーンのイメージですよね。他に何があるんですか逆に。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "アトラクションではないのですが、ガンダムのプラモデルがずらっと並んだショップがあって、ずっとそこにいました！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "そんなのあるんですね。プラモデルをずっと見てたんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうなんです、後はフードコートでゆっくりご飯食べて終わりました。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "静かに心穏やかに過ごしたんですね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "嬉々として絶叫マシンの列に並ぶ友人を見送って平和に過ごしてました！"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "ははは。昔は絶叫系好きだったんですが、後楽園の50メートル落下のに乗ってから無理になりました。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "トラウマになる出来事ってある日突然訪れますからね。"
+      },
+      {
+        "role": "DE",
+        "action": "(speaking)",
+        "content": "そうなんですよね。穏やかが一番です。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 4068,
+    "utterances": [
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "欲しいものありますか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "たくさんあります！一番はやっぱり宝くじ一等前後賞かな。"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "わー私も欲しい！宝くじよく買うんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "毎回３０枚だけ買うようにしてます！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "見るたびに買いたいな〜とか思いながら買ったことありません"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "買わないと当たらないからと思って買い始めたのですが、なかなか大きな額は当たらないです。"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "一歩踏み出す勇気が必要ですね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうなんです、でも夢を買えるのでそれはありがたいかなと！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "確かにそうですね！夢があります"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "もし５億円くらいポンと当たったら何かしたい事はありますか？"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "旅行したいです！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "いいですね！世界一周何度でも出来ちゃいそう！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "世界一周いいですね。5億なんて想像できないな"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "あっという間に使い切っちゃいそうな人と、使い道に困りそうな人と両極端なのかも。"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "あーでも半分くらいは貯金して半分は一気に使っちゃいそうです"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "将来のためのお金にするのはいいですよね！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "困りたくないですね。宝くじ当たったらどうしますか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私はマンションを一部屋買って、一人で暮らして家政婦さんを雇いたいです！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "なるほど〜優雅な暮らしですね"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "健康的なご飯を作ってもらって、毎日ゆっくり過ごしたいです！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "毎日ゆっくり過ごしたいです"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "仕事したくないなってどうしても思ってしまって。"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "私もです。仕事は趣味程度にしたいんです"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "たまに少しやる程度がいいなって思います！"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "そうですよね。どのくらいお金があればできるんだろうって考えちゃいます"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "一人で生きていくなら2000万くらいって聞いた事がありますが、それでも大きい額だなって。"
+      },
+      {
+        "role": "EW",
+        "action": "(speaking)",
+        "content": "あー頑張ればいけるかな？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私は難しそうなので、次のハロウィンジャンボも３０枚買います！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 4376,
+    "utterances": [
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "FR",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "お昼ご飯食べられましたか？"
+      },
+      {
+        "role": "FR",
+        "action": "(speaking)",
+        "content": "食べましたよ。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "何を食べられましたか？"
+      },
+      {
+        "role": "FR",
+        "action": "(speaking)",
+        "content": "焼きそばです！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "いいですね！作るのも楽！"
+      },
+      {
+        "role": "FR",
+        "action": "(speaking)",
+        "content": "もみのりとキムチをトッピングしました。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "キムチトッピングは初めて聞きました！美味しいですか？"
+      },
+      {
+        "role": "FR",
+        "action": "(speaking)",
+        "content": "おいしいですよ。というか一緒に焼きました。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "火を通したキムチの方が私は好きです！"
+      },
+      {
+        "role": "FR",
+        "action": "(speaking)",
+        "content": "入れる野菜がなかったので、ついでにいい感じになります。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "確かに野菜の代わりにしても良さそう！"
+      },
+      {
+        "role": "FR",
+        "action": "(speaking)",
+        "content": "はい。あなたは何を食べました？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私は肉まんをレンジでチンして食べました！"
+      },
+      {
+        "role": "FR",
+        "action": "(speaking)",
+        "content": "551のですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "いえ、スーパーで売ってる安いのです。"
+      },
+      {
+        "role": "FR",
+        "action": "(speaking)",
+        "content": "なるほど。551の肉まんは食べます？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "食べた事一度だけありますがおいしかったです！"
+      },
+      {
+        "role": "FR",
+        "action": "(speaking)",
+        "content": "私も大好きです。一時期冷凍のやつをネットで頼んでいました。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "近くにあればよく食べられたんだと思いますが、どこにもなくて。"
+      },
+      {
+        "role": "FR",
+        "action": "(speaking)",
+        "content": "ネットで頼んでも、同じくらいおいしいですよ。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "ふかすの大変ですか？"
+      },
+      {
+        "role": "FR",
+        "action": "(speaking)",
+        "content": "いえいえ、水を付けてチンするだけです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "レンジで出来るならいいなあ、今度チェックしてみます！"
+      },
+      {
+        "role": "FR",
+        "action": "(speaking)",
+        "content": "ぜひぜひ！お昼は肉まんだけですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "はい、それに青汁を一緒に飲んだくらいです。"
+      },
+      {
+        "role": "FR",
+        "action": "(speaking)",
+        "content": "青汁ですか！健康的ですね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "安いものですが、お腹の調子がよくなっていいです！"
+      },
+      {
+        "role": "FR",
+        "action": "(speaking)",
+        "content": "最近調子悪いので、飲んでみようかな。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 8877,
+    "utterances": [
+      {
+        "role": "BV",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "BV",
+        "action": "(speaking)",
+        "content": "今日は何されてますか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "先程までずっとゲームをしていたんです。"
+      },
+      {
+        "role": "BV",
+        "action": "(speaking)",
+        "content": "ゲーム好きなんですね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "はい、パソコンでやるゲームがとても好きです！"
+      },
+      {
+        "role": "BV",
+        "action": "(speaking)",
+        "content": "目疲れたりしませんか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "目は疲れないんです、代わりに肩が凝りますが。"
+      },
+      {
+        "role": "BV",
+        "action": "(speaking)",
+        "content": "あー肩凝りそうです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "夢中になってると、気付いたら肩や背中が痛くなっているんです。"
+      },
+      {
+        "role": "BV",
+        "action": "(speaking)",
+        "content": "とても夢中になってますね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "楽しい事なので苦にならないのですが、後々揉み解すのが大変です！"
+      },
+      {
+        "role": "BV",
+        "action": "(speaking)",
+        "content": "私も肩凝り持ちなのでわかります。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "肩が重いと体中がだるいような気がして辛いですよね。"
+      },
+      {
+        "role": "BV",
+        "action": "(speaking)",
+        "content": "そうなんですよね。昔からなのでしんどいです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私も何年も悩んでいて、毎週理学療法士さんに揉んでもらってるんです。"
+      },
+      {
+        "role": "BV",
+        "action": "(speaking)",
+        "content": "マシになりますか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "少し良くなります！でも数日で元に戻ってしまいます。"
+      },
+      {
+        "role": "BV",
+        "action": "(speaking)",
+        "content": "そうなんですか。私整体とか行ったことなくて。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私は家に来てもらってるんです。病院の方にお願いしてます！"
+      },
+      {
+        "role": "BV",
+        "action": "(speaking)",
+        "content": "えー！いいですね。家に来てもらえるんですか！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうなんです、全身凝りやすいので訪問で４０分くらいお願いしてます！"
+      },
+      {
+        "role": "BV",
+        "action": "(speaking)",
+        "content": "それはいいですね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "本当はマッサージに行って徹底的に肩を揉んでほしいんですけど、整体は当たり外れがありそうで怖くて。"
+      },
+      {
+        "role": "BV",
+        "action": "(speaking)",
+        "content": "先生の腕によりますもんねー。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうなんです、だから時々地元の口コミサイトなんかを見ながら悩んでます。"
+      },
+      {
+        "role": "BV",
+        "action": "(speaking)",
+        "content": "でも行ってみないとわからないから難しいですね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "相性って、個人個人によりますもんね。"
+      },
+      {
+        "role": "BV",
+        "action": "(speaking)",
+        "content": "私も探して行ってみようかなぁ。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "時々揉んでもらうのは凄くおすすめですよ！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 9464,
+    "utterances": [
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "こんにちはー！お元気ですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！今凄く元気です！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "それはなによりです。今日はどんなことして過ごしてますか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私は少し前までゲームで遊んでいました！夜もきっとそうすると思います！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "ゲーム三昧！良い一日ですね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "楽しい事がある日は色々な事を頑張れます！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "わかります！私の場合は、頑張りすぎた翌日にばったり倒れたりします。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "それは大変！きちんと睡眠取れていますか？"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "とるように気をつけてます。でも暑いせいか寝苦しくて。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "分かります、私も普段より夏は早起きしてしまうんです。"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "お日様が昇るのも早いですからね。明るくて起こされちゃいますよね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "遮光カーテンを買うべきかなとか、マットレスを買い替えるべきかとか、色々考えちゃいます。"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "遮光カーテンは大事ですよ！絶対遮光にするべきです！モニターへの映り込みにも関わります！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私、子供の頃からずっと同じカーテンなんです。そろそろ買い換えようかな。"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "物持ち良いんですね。でもそれだと愛着湧いてますよね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "きっと安いものなので、ところどころほつれてきてるのですが、買い換え大変そうで躊躇っていて。"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "窓のサイズが一般的なものなら、安いのがニトリやカインズあたりにありそうな気がします。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "身近なお店ですね！後は長さをきちんと調べられれば買えそう！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "おねだんいじょう、にとり！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "ニトリ本当に安いけどいいですよね、いつもベッドのページとか見に行ってしまいます。"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "マットレスも買い替え希望ですよね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "マットレス！自室に敷きたいんです。"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "もしや、自室の床一面にですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうなんです。今は椅子の下にだけゲーミングチェア用のマットを敷いてるのですが、重くて動かせないんです。"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "ほぉ。それだともういっそ、パソコンも床置きタイプにして、寝転がってパソコンいじったりとか。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "寝たままパソコン、楽しそうですね！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "モニターは天井からぶら下げて、寝たまま見られるようにしてみたり。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "ああー、憧れの生活です！テレビもそうしてみたい！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "寝ながら、いいですよね。座りっぱなしだと腰が痛くなりますし。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "部屋も少し広々しそうですね！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 9469,
+    "utterances": [
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "もうすぐお盆ですね。なにかご予定はありますか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "外出する予定とかはないんです。でも好きなゲームの中で友人達と夏祭りするんです！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "ゲームの中で夏祭り！どんなことができそうですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "住宅街みたいなところがあって、そこを有志の方達がお祭り会場に作ってるんです！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "お家をデコったりできるんですね。自由度は結構高いんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうなんです、ロールプレイとしてかき氷やたこ焼きの屋台を出したり、工夫次第で色々出来ます！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "そこまでできるんですか？かき氷とかたこ焼きのグラフィックって、どうするんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "モデルとしては無いんですけど、その代わり人に配れる料理として実装されているので、それを配布したりとか！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "なるほど！そのお料理の準備も楽しそうですね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "目的を持って色々準備するのは凄く楽しいです！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "花火とかはできそうですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "花火も、使うと打ち上げられるアイテムがあったり、明日からゲーム内でも打ち上げが始まります！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "なるほど、運営さんたちもお祭りモードなんですね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうなんです、限定のおしゃれな洋服も配られたりして、今から楽しみなんです！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "なんか、楽しすぎて気づいたらすごい課金しちゃってたりして。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "それが、そのゲームは月額料金以外ほぼ課金しなくていいんです！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "なんと健全な！運営会社さんは良い会社ですね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうなんです、プロデューサーさんの方針で、ゲーム内通貨で大半のものが買えるんです！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "すごく良いことだと思います。課金絡みではときどき辛い話も聞くので。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "お金に糸目をつけずに凄い課金される方もいらっしゃいますよね。"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "ですよね。ほんと、月収みたいな金額を課金しちゃってたりして。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "生活費を削ってまで課金してる方の話とか少し聞いた事があります。"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "それ、やっちゃダメなやつー！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "自分の体程大事なものはないですから、ちゃんと身の回りにお金使ってほしいですねー！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "ホントです！ゲーム内のお金はゲーム内で稼がなくては！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "親切なゲームだと、課金そんなにしなくて済むので長続きしてありがたいです！"
+      },
+      {
+        "role": "BK",
+        "action": "(speaking)",
+        "content": "プロデューサーさんに敬礼！ですね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "いつもありがとうっていう気持ちでいっぱいです！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 10731,
+    "utterances": [
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "音楽はよく聞きますか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "はい、よく聞きます。"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "どんなジャンルですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "ハロプロが好きで、新曲は毎回チェックしています！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "ハワプロってモー娘。とかですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうです、モー娘。とかアンジュルムとか、全グループ見てます！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "そうなんですね！ライブとかも行かれたりするんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "ライブには行った事がないんです。興味はあります！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "ライブは楽しいですよー！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "他のジャンルのライブは経験済みなのですが、楽しかったです！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "誰のライブですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "ゲーム音楽のライブが１時間くらいあった事があって。"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "ゲーム音楽のライブって歌あるんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私が見たのは歌もありましたよ！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "そうゆうライブもあるんですね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "皆言わなくても曲に合わせてペンライトの色を変えてて、楽しかったです！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "楽しそうです！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "あなたは好きな音楽がありますか？"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "私は洋楽ばっかり聴いてます。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "格好いい！どんなアーティストがお好きですか？"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "基本何でも聞きますが、有名なアーティストだとアリアナとかテイラーです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "その二人は名前を聞いた事があります！どちらも女性でしたっけ。"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "そうです！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "あまり洋楽聞かないので、今度調べてみますね！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "はい。ぜひ！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "たまに知らないジャンルを開拓するのも楽しいですね！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "そうですね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "今日はこの辺で失礼します、お話ありがとうございました！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 10732,
+    "utterances": [
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "あなたはストレスがたまった時どう解消していますか？"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "お菓子やけぐいしちゃいます。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "分かります！イライラしてる時のおやつって何であんなに止められないんでしょう。"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "イケないと分かってはいるんですけどね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "分かっているのについつい食べてしまうんですよね。"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "はい。あなたのストレス発散方法なんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私もおやつを食べてしまうんです。どうしてもストレス溜め込みがちで。"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "同じなんですね。溜め込みがちなんですか。それは良くないですね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "他の方法で発散できればいいんですけど、難しいですね。"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "どんなことでストレス感じますか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "主に対人関係です、この人の振る舞いどうなんだろうなって思うとずっと考えてしまいます。"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "なるほど。友人とかに話すと気が楽になる時もあります。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "確かに、聞いてくれる人がいるとありがたいなと思う事があります！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "共感してくれることで、ちょっと落ち着きますよね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "はい、うんうんそうだよねって聞いてもらえるだけで、一人じゃないなって思えます。"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "お菓子やけ食いは避けたいですね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "体に悪いですもんね！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "そうですね！あまり考えすぎないほうがいいですよ！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "何か他の事をして気を逸らすのもいいですね！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "あとは、ペットとかも癒しになるのでいいかもです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "ペット！犬を飼ってるんです、寝顔で癒されます！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "お！何犬ですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "柴犬です！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "あー可愛い。私も犬大好きなんです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "犬って結構顔に感情が出ますよね、見てて面白いです！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "怒られたときとかも反応が可愛いいんですよね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "シュンってなりますよね！後で愛犬をもみくちゃにして癒されてこようかな。"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "そうしてください！ワンちゃんも喜びますよ。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 10734,
+    "utterances": [
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そろそろおやつ時ですね！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "そうですね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "この後何かおやつ食べられますか？"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "多分ゼリーとか食べるかな。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "さっぱりしてていいですね！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "はい。あなたは？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私はアイスを食べようかなと思っているんです。"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "何味ですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "レモンのアイスバーです！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "それもさっぱり！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "この季節はさっぱりしたものが美味しいですね！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "はい。アイスはいつも冷蔵庫にあります？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "ほぼいつも常備されています！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "他はどんなアイスがあるんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "毎週家族が生協で注文するので、色々なアイスが週替わりで届くんです。"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "お気に入りのアイスとかってありますか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私は割とチョコミントとか好きです！あとはアイスボックスとか！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "どっちもさっぱり系ですね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "クリーム系は秋冬に食べたいです！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "たしかにそうですね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "あなたは好きなアイスありますか？"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "私は抹茶が好きです！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "濃厚系ですね、私も好きです！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "視覚過敏なので食べるの遅いんですけどね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "歯にしみるのはストレスですね。"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "はい。治したいです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "歯医者さんに行くと話聞いてもらえるのでおすすめです！治りますように！"
+      },
+      {
+        "role": "CD",
+        "action": "(speaking)",
+        "content": "ありがとうございます！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 10924,
+    "utterances": [
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "ED",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "暗くなりがちなご時世ですが、今後叶えたい事や夢なんかはありますか？"
+      },
+      {
+        "role": "ED",
+        "action": "(speaking)",
+        "content": "そうですねー、ベタですが、たくさん旅行したいです！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "いいですね！コロナが落ち着いたらあちこち行きたい！"
+      },
+      {
+        "role": "ED",
+        "action": "(speaking)",
+        "content": "ここ数年我慢していたうっぷんを晴らしたいですね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "どこに出かけたいですか？"
+      },
+      {
+        "role": "ED",
+        "action": "(speaking)",
+        "content": "国内だと、九州、北海道に行ってみたいです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "北と南ですね！北海道はおいしいものたくさんありそう！"
+      },
+      {
+        "role": "ED",
+        "action": "(speaking)",
+        "content": "そうですよね！海の幸とか美味しそうで。九州は、霧島の方に行ってみたいんです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "霧島、名前は聞いた事があるのですがパッと出てこないんです。どんな場所ですか？"
+      },
+      {
+        "role": "ED",
+        "action": "(speaking)",
+        "content": "鹿児島と宮崎の間らへんです。芋焼酎を作っている所なんです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "お酒お好きですか？"
+      },
+      {
+        "role": "ED",
+        "action": "(speaking)",
+        "content": "強くないんですが、好きですね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私アレルギーなので飲めないんです。でも焼酎もいいところのは美味しいって聞きます！"
+      },
+      {
+        "role": "ED",
+        "action": "(speaking)",
+        "content": "アレルギーなんですね！それはそれは。はい、香りが豊かで美味しいです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "友人がよく酒ガチャというものをしていて、楽しそうだなーと思いながら見てます！"
+      },
+      {
+        "role": "ED",
+        "action": "(speaking)",
+        "content": "酒ガチャって何ですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "自分の好みのお酒のタイプを複数入力すると、ランダムに５本くらいお酒が届くんです。"
+      },
+      {
+        "role": "ED",
+        "action": "(speaking)",
+        "content": "えーそんなんあるんですね！知らなかった、楽しそうですね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうなんです、焼酎駄目な方にはフルーティーなワインとかにしてくれたりするみたいです！"
+      },
+      {
+        "role": "ED",
+        "action": "(speaking)",
+        "content": "それはすごく興味があります！酒ガチャ、調べてみます！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "ぜひぜひ！そんな感じでジュースのガチャもあったら嬉しいのになと思います！"
+      },
+      {
+        "role": "ED",
+        "action": "(speaking)",
+        "content": "そうゆうのあれば、楽しいですよねー！自分で選ばないワクワク感というか。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "届いて、これ苦手かもしれないと思っても、いざ飲んでみると意外といけるなんて事もあるみたいです！"
+      },
+      {
+        "role": "ED",
+        "action": "(speaking)",
+        "content": "知らない商品を知るきっかけになりますね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そこからちゃんと取り寄せるようになるとか、いい出会いがありそうですよね！"
+      },
+      {
+        "role": "ED",
+        "action": "(speaking)",
+        "content": "確かに！企業にとっても、いい宣伝になりますよね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "日本中のお酒を取り寄せたら、ちょっとした旅行気分になれるかもしれないですね！"
+      },
+      {
+        "role": "ED",
+        "action": "(speaking)",
+        "content": "わー、それはこのご時世にぴったりの楽しみ方ですね！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 11124,
+    "utterances": [
+      {
+        "role": "BJ",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "BJ",
+        "action": "(speaking)",
+        "content": "休日は何をして過ごしていますか"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私はゲームが好きで、一日中遊んでしまいます！"
+      },
+      {
+        "role": "BJ",
+        "action": "(speaking)",
+        "content": "おー、スマホですか？テレビゲームですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "パソコンでやってます！時々スマホでも！"
+      },
+      {
+        "role": "BJ",
+        "action": "(speaking)",
+        "content": "へー！なにかおすすめゲームあったら教えてほしいです"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私がやっているのはFINAL FANTASY XIVっていうオンラインゲームです！"
+      },
+      {
+        "role": "BJ",
+        "action": "(speaking)",
+        "content": "ファイナルファンタジー！大好きです！パソコンではやったことないですが"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "今凄く人気で、体験版も充実してるんですよ！"
+      },
+      {
+        "role": "BJ",
+        "action": "(speaking)",
+        "content": "体験版なんかあるんですね！割と進めるんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "体験版だけでメインストーリーを８０時間分くらい遊べるって言われてます！"
+      },
+      {
+        "role": "BJ",
+        "action": "(speaking)",
+        "content": "えー！それは相当ですね。普通に購入するといくらくらいになるんでしょうか"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "パッケージを一度購入したら、あとは月額料金だけになるので、月々1500円かからないくらいです！"
+      },
+      {
+        "role": "BJ",
+        "action": "(speaking)",
+        "content": "結構お手軽に遊べるんですね。いいですねえ"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうなんです、麻雀がお好きな方には無料麻雀ゲームとしても使えます！"
+      },
+      {
+        "role": "BJ",
+        "action": "(speaking)",
+        "content": "え、不思議なシステムですね"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "お金を使わないカジノみたいなのがあって。FF7にあったゴールドソーサーって言うのなのですが！"
+      },
+      {
+        "role": "BJ",
+        "action": "(speaking)",
+        "content": "あー！そういうことか！FF7懐かしいです。PSでやってました"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "FF14の中のゴールドソーサーにはプレイ開始して５時間くらいすれば入れるので、体験版で遊べるんです！"
+      },
+      {
+        "role": "BJ",
+        "action": "(speaking)",
+        "content": "それはだいぶ太っ腹ですね。RPGお好きなんですか"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "RPG大好きです！でも、オンラインにハマってからは人と一緒が楽しいなって。"
+      },
+      {
+        "role": "BJ",
+        "action": "(speaking)",
+        "content": "オンラインでRPGやったことないです。協力するんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "協力してダンジョンをクリアしたりするのですが、FF14は少しずつソロでも遊べるようになってきてます！"
+      },
+      {
+        "role": "BJ",
+        "action": "(speaking)",
+        "content": "へー！戦ったりもします？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "もちろん戦いますよ！召喚獣が敵として出てきます！"
+      },
+      {
+        "role": "BJ",
+        "action": "(speaking)",
+        "content": "うわーあついですねえ。イフリートとかシヴァとか懐かしいです"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "イフリートもシヴァもオリジナルデザインで実装されてて、シヴァは凄く濃くストーリーに絡みます！"
+      },
+      {
+        "role": "BJ",
+        "action": "(speaking)",
+        "content": "そうなんですね！進化してますね！"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "色々な方に勧めたいゲームのひとつです！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 11139,
+    "utterances": [
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "BW",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "気分が沈みがちなご時世ですが、これから叶えたい夢や願望なんかはありますか？"
+      },
+      {
+        "role": "BW",
+        "action": "(speaking)",
+        "content": "夢ですか、音楽活動をまた再開したいことでしょうかね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "音楽お好きなんですね、曲作りとかされますか？"
+      },
+      {
+        "role": "BW",
+        "action": "(speaking)",
+        "content": "はい、バンドをずっとやってたので、また音楽がやりたいんですよね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "バンド、私も憧れます！ドラムとかやってみたかったなと。"
+      },
+      {
+        "role": "BW",
+        "action": "(speaking)",
+        "content": "ドラムいいですよね、私もやりたいです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "なかなか目立ちにくいポジションかもしれないけど、裏でリズムを支えるって凄く格好いいなって。"
+      },
+      {
+        "role": "BW",
+        "action": "(speaking)",
+        "content": "ドラムとベースはうまい人しかできないですね、一番かっこいいポジションだと思ってます。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "ベース！私低音が凄く好きなんです。"
+      },
+      {
+        "role": "BW",
+        "action": "(speaking)",
+        "content": "私もです、音楽聞くときは低音が響かないと、満足できませんね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "そうなんです、聞いてる曲の低音が凄く格好いいメロディーだとつい聞き入ってしまって。"
+      },
+      {
+        "role": "BW",
+        "action": "(speaking)",
+        "content": "そうですね、やはり曲の良さやグルーブが大切ですよね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "曲のインストとかも、見かけたらつい聞いてしまいます！"
+      },
+      {
+        "role": "BW",
+        "action": "(speaking)",
+        "content": "確かに、でもその続きも待ち望んでしまいますね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "最近本当に何でもいつでも聴けてしまうので、色々なジャンルが開拓出来てありがたいです！"
+      },
+      {
+        "role": "BW",
+        "action": "(speaking)",
+        "content": "そうですよね、シャッフルとかにして、聞いたことない曲も聞けますからね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "登録はしてないですが、音楽のサブスクとかも便利みたいですね！"
+      },
+      {
+        "role": "BW",
+        "action": "(speaking)",
+        "content": "私も無料で利用してますが、サブスクはいいですね、近々入るかもです。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "私は寝る時聞く音楽が決まってるので、それ以外はYouTubeで済ませてしまってて。"
+      },
+      {
+        "role": "BW",
+        "action": "(speaking)",
+        "content": "寝る時間にどういう音楽を聴かれるんですか？"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "一時間のヒーリングミュージックを流すんです。その間に眠れたらラッキーだなくらいに。"
+      },
+      {
+        "role": "BW",
+        "action": "(speaking)",
+        "content": "ヒーリングミュージックもいいですね、よくサロンやマッサージとかで流れてて気分良くなります。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "心が浄化される気がします！水中の音とかも好きです！"
+      },
+      {
+        "role": "BW",
+        "action": "(speaking)",
+        "content": "私も水の音好きで、作業時のBGMで波の音聞いてます。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "いいですね！水辺の音は本当に癒されます。"
+      },
+      {
+        "role": "BW",
+        "action": "(speaking)",
+        "content": "その場に行った気持ちにもなるので、いいですね。"
+      },
+      {
+        "role": "CM",
+        "action": "(speaking)",
+        "content": "降られるのは嫌ですが、雨音なんかも心地いいです。"
+      },
+      {
+        "role": "BW",
+        "action": "(speaking)",
+        "content": "雨音も気持ちが落ち着きます、たまに降ってほしいですね。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  }
+]

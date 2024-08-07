@@ -1,0 +1,3127 @@
+[
+  {
+    "dialogue_id": 1262,
+    "utterances": [
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "こんにちは、よろしくお願いします！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "こんにちは。よろしくお願いします！"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "おひるごはんもう食べましたか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "食べましたよ。さば寿司食べました。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "鯖寿司！すごそうなもの食べてますね！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "昨日のスーパーで半額で売ってたので買いました。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "最高ですね、それは買っちゃいます"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "半額のシールに弱いのです。お昼ご飯はまだですか？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "まだです泣朝ごはんもまだです"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "お腹空いてないですか？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "ピーク過ぎました笑"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "胃酸が出過ぎて胃が荒れますよ。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "そうなんですか！考えたことなかったですそれ！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "胃が痛くなりません？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "なったことないかも、それでいうと胃もたれとかもしたことないです！笑"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "若いですね。お腹が空き過ぎると胃が痛くなってしまいます。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "それはちゃんと食べなきゃ危ないですね。お昼何食べるか迷います"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "小食なんですね？一日３食は食べてます。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "たまたまです！いつもは3食食べてます食いしん坊ですー！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "休日ですからね。たまにはだらだらとすることもありますよ。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "休日は寝坊してしまいますよね"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "朝食と昼食が同じになったりしますよね？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "あります！今日がそれですね！kenanさんはちゃんと起きたんですね！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "休日でもなるべく早く起きるようにしています。今日は７時くらいでした。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "素敵！一日めっちゃ有意義になりますね"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "それからお盆の買い物いったり、部屋片付けたりしてました。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "午前中でもうそんなにタスクを！すごい。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "何時頃に起きたのですか？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "10時ごろです、それから布団にいましたけど笑"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "夜更かしには注意ですよー"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 1263,
+    "utterances": [
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "よろしくお願いします！"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "お願いします！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "夏休み中ですか？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "そうです！まさに！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "いいですねー。夏休みはお盆の期間だけですね。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "大人になったらそうなるんですね、辛そうです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "直ぐになれるのですよ。この夏にやってみたいこととかありますか？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "映画見に行きたいです！４ＤＸとかで！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "最近だと何の映画を観たいですか？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "ワンピースとかですね、おととい一回見たのですけど"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "もう一回見たいってことですか？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "そうです、この前は普通のやつで見たので"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "それを今度は４ＤＸで観たいのですね。結構面白かったのですね？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "面白かったです！ワンピース知ってますか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ワンピース知ってますよ。単行本かなり出てるんですよね？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "そうです103巻あります、読んだこととかあります？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "うわっ、そんなに出てるのですね。読んだことないのです、、"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "えー!そうなんですね、確かにここまであると読みづらい、、"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "キャラクターとかは分かりますよ。コンビニとかでいつも良く見ますものね。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "コラボとかもありますね！漫画はあまり読まれないのですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "漫画はね。あまり読まないのですよ。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "そうなんですね、ドラマ派とかですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "なんと、ラジオ派なんです。意外でしょ？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "私もです！めっちゃうれしい！！！！ラジオ好きです！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "えっ、そうなのですね。いつもradikoでかけっぱなしにしています。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "どんなの聴くんですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "かけっぱなしでランダムに番組を選んでる感じです。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "すごい、根っからのラジオリスナーですね！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "よく聴く番組あるのですか？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "オールナイトニッポンは大好きですー！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 1265,
+    "utterances": [
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "こんにちは。よろしくお願いしますー"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "お願いします"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "最近何か買われましたか？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "最近は、ワイヤレスイヤホン買いました！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "便利ですか？バッテリー結構持ちますか？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "4時間とかですかね"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "もう少し長いといいですね。大事な所で切れそうな感じです。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "そうなんです、でもノイズキャンセリングなんですよ！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "いろんな機能があるのですね。音楽とか聴いてるのですか？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "ラジオばかり聞いてます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "おっ、ラジオから流れる音楽がいいなーって思う事ないですか？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "あります！ラジオのいいところってそれもあると思うんですよね"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "知らない人の知らない曲が素敵だなって思ってあきませんよね。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "DJが選んだっていうのも、いいポイントですよねー"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "センスのいい曲を選んでかけてますよね。話も面白いしね。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "そうですよね、一人でも退屈しない感じが！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "聴いてワクワクする感じが好きなのです。最近ゲームチェア買いました。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "座っても疲れない、みたいなやつですか！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "背もたれが高くてひじ掛けがついてるやつです。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "ゲーム用ですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "部屋で過ごす時間が増えたので、パソコンとかそのままテレビ見たりしてます。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "そうなんですね！ずっと座るのつかれますからね"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "安いやつなのですけど、意外と座り心地がよくてずっと座ってるのですよ。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "ソファとかにはいかないんですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "あるのですけど、その椅子の方が断然座り心地が良くて。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "そこまで！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "後ろにも倒れるのでリラックスしてスマホ眺めたりしてます。"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "そこから動けなくなりそう笑第二のこたつ感ありますね"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "そんな感じです。ゲームするのですか？"
+      },
+      {
+        "role": "DA",
+        "action": "(speaking)",
+        "content": "あまりやらないです！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 1541,
+    "utterances": [
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "おはようございます。よろしくお願いします！"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "おはようございます。よろしくお願いします。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "今日の天気はどうですか？"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "こちらは晴れています。そちらはどうですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "曇り模様ですね。"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "昨日少し雨が降りましたが、ほとんど晴れでした。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "朝起きたらこちらも雨が少し降っていました。"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "テレビでは台風の被害が言われていますがいかがですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "今回の台風は全然大丈夫でしたよ。どうでしたか？"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "こちらも、周辺の県では被害がありましたが私の市は全然でした。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "関東の方では大変な被害になっているようですね。"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "そうですね。静岡県から関東に向かう所では心配なことがありますね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "見るのも無残な光景でびっくりしました。"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "こちらは関西から帰省する子供が大雨で1日遅れで到着しました。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "大変でしたね。せっかくのお盆休みなのに予定が狂いますね。"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "そうですね。どちらかお出かけのご予定はありますか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "お盆休みは帰省してお墓参りして、家族やきょうだいと過ごしましたよ。"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "それは楽しいお盆休みですね。家族が元気なのが一番いいですよね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "コロナの影響でオンラインで飲んだ人もいますけどね。"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "そうなんですか。それはちょっと寂しいですね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "意外と目の前にいる感じで違和感ないですよ。"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "そうですね。食事をしながらだといい感じになるのかもしれませんね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "全国どこへでもオンラインで行けますからね。便利になりました。"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "ほんとですよね。日本中だけでなく、海外とも通信が可能になっちゃいましたよね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "一瞬でリアルタイムで海外の風景が見れるようになりましたよね。"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "はい。ですので、最近は海外に行きたいと思わなくなりました。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "どうしてですか？コロナの影響ですか？"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "いいえ。家でテレビやネットで海外の風景が見れてしまいますから。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "宇宙から地球の姿も見れるみたいですよ。"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "そういえば、そうですね。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 1542,
+    "utterances": [
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "よろしくお願いいたします。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "よろしくお願いします！"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "ご旅行にはよくお出かけになられますか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "昔は行ってましたけどね。今は全くですね。"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "私もです。それはなぜですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "一旦行かなくなるとそれでもいいかな～って思うようになりました。"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "本当にそうですよね。私は海外に行かなくなりました。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "海外だとどこに行ってましたか？"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "若いころなんですがやはりヨーロッパ中心です。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "中心ということは、フランスやドイツあたりですかね？"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "はい。フランスメインで周辺に足をのばしていました。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "フランスでの食べ物ってやっぱり美味しいでしたか？"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "はい。とても。特にレストランよりも家庭料理が素晴らしいです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "家庭料理か。確かにレストランよりも普段の食べ物の方が美味しそうです。"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "はい。家の中だけでなく、広い庭で食べたりすると本当に楽しいです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "観光旅行ですか？ホームステイ的な感じだったのですか？"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "ホームステイもしました。食事はちゃんとオードブルから出てくるんです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "フランス人の食文化に対する意識はかなり高いものがあるって聞いたことがあります。"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "はい。ランチでも前菜、魚か肉、チーズ、の順番でいただいていました。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "えっ、普段の料理でもですか？"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "はい。そうなんです。朝食は簡単でしたが。毎回必ずなんです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "それは勉強になる。でも時間かかりそうですね？"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "そうですよね。前菜の間にオーブンで肉を焼いたりしていましたね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ワインも毎回出てくる感じですかね？"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "夕食の時は普通に飲んでいた様子です。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "パリの中心地にはファストフード店を入れないくらい、自国の食文化を大切にするお国柄ですものね。"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "最近は食事も時短になったと聞いていますが、家庭内での食事の時間はやはり長いと思います。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "食べながらの会話を家族で楽しむのですね！"
+      },
+      {
+        "role": "DN",
+        "action": "(speaking)",
+        "content": "はい。それがとても楽しかったです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "一度はフランス行ってみたいです。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 1697,
+    "utterances": [
+      {
+        "role": "DK",
+        "action": "(speaking)",
+        "content": "こんばんは　よろしくお願いします"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "こんばんは、よろしくお願いします！"
+      },
+      {
+        "role": "DK",
+        "action": "(speaking)",
+        "content": "いつも何時くらいに寝てますか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "休日は１２時くらいですね。何時ですか？"
+      },
+      {
+        "role": "DK",
+        "action": "(speaking)",
+        "content": "私は夜型で、3時とか4時まで起きてたりです"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "遅いですね。朝は何時に起きるのですか？"
+      },
+      {
+        "role": "DK",
+        "action": "(speaking)",
+        "content": "11時とか12時くらいですね"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "遅いですね。僕は朝方なので休日だと７～８時くらいに起きます。"
+      },
+      {
+        "role": "DK",
+        "action": "(speaking)",
+        "content": "休日でも早いのですね！平日と同じくらいですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "平日は５時半くらいに起きてます。"
+      },
+      {
+        "role": "DK",
+        "action": "(speaking)",
+        "content": "それは早い！ずっとその時間に起きる生活を続けてます？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "平日は仕事なんでそれくらいに起きて出勤してますよ。"
+      },
+      {
+        "role": "DK",
+        "action": "(speaking)",
+        "content": "大変ですね　私も一度5時半に起きて1時間半くらいかけて通勤したことありましたが、つらかったです"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "長い通勤時間ですね。近くで働くのが一番いいですよね。"
+      },
+      {
+        "role": "DK",
+        "action": "(speaking)",
+        "content": "そうですよね　その通勤は研修時の短期間だったので我慢しました　それ以降は車通勤が多いです"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "僕は車で３０分くらいですね。平日も夜型なのですか？"
+      },
+      {
+        "role": "DK",
+        "action": "(speaking)",
+        "content": "以前は昼型の時期もありましたが、ここ数年は夜型でやってます"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "夜は何をして過ごしていますか？"
+      },
+      {
+        "role": "DK",
+        "action": "(speaking)",
+        "content": "仕事をする時もありますが、ビデオみたりゲームしたりすることが多いです"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "録画のテレビのことですか？スマホで動画見たりもしませんか？"
+      },
+      {
+        "role": "DK",
+        "action": "(speaking)",
+        "content": "動画観るのはスマホよりもPCとかタブレットとか使いますね"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "スマホは画面が小さいですけど、寝転んで見れるのでたまに見てます。"
+      },
+      {
+        "role": "DK",
+        "action": "(speaking)",
+        "content": "それがいい点ですよね　寝ようと布団に入ってから観ることがあります"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ついつい見てしまうのですよね。スマホ持ったまま寝てることもありますよ。"
+      },
+      {
+        "role": "DK",
+        "action": "(speaking)",
+        "content": "本当は寝付きが悪くなるとわかっていながら、ついスマホいじっちゃいますね"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "寝つき悪くなるみたいですけど、睡魔の限界まで見てると寝つきいい時もあります笑"
+      },
+      {
+        "role": "DK",
+        "action": "(speaking)",
+        "content": "多少の音があった方が眠れる場合もありますよね"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "その音楽が心地よくて子守歌みたいになって寝てますね。"
+      },
+      {
+        "role": "DK",
+        "action": "(speaking)",
+        "content": "はい　音とか声によりますけど、いい感じになりますね"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "見過ぎには注意ですけどね！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 1793,
+    "utterances": [
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "よろしくお願いいたします！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "よろしくお願いいたします！"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "何か動物は飼われていますか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "最近金魚飼ってみました。"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "金魚！最初は水槽とかの設備がけっこうたいへんじゃなかったですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "水槽とブクブクのセットで１８００円だったので思わず買いました。"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "あら、安い！私もちょっと興味あったのですが、設備と水換えとか大変そうと思って諦めちゃいました"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "水かえはそんなに頻繁でもないですよ。汚れたら替えるくらいですよ。"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "そうなんですね。小さいのでもちょっと検討しようかなー。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "会社の人に勧められて飼ってみたら、楽しくなりました。"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "どういう感じの種類をかわれてるんですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "夏祭りの金魚すくいであるやつです。"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "赤とか白とかのですね。金魚もいっぱい種類いますよね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "結構高いのですよ。僕が飼ってるのは１匹３０円で買えます。"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "そうそう、高いんですよね。30円、まさに縁日的な。親近感わきます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "何か飼われているのですか？"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "コロナ禍になって自宅勤務になってから、インコを二羽かいはじめました"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "インコを飼い始めたきっかけは何だったのですか？"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "子供のころ実家で飼っていたのと、今の家が犬猫はNGなので。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "インコは鳴いたりしませんか？"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "鳴きます鳴きます。まあまあうるさいです"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "夜中とかにも鳴きますか？"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "暗くすると寝るので、夜中はぜんぜん鳴きませんね"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "そうなのですね。睡眠のじゃまにはならなくて安心です。"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "今は、キュルキュルいってます。かわいいですよ"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ペット可愛いですよね。癒されますよね。"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "金魚もインコも小さいですけど、生き物の存在感て大きいですよね、、！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "眺めてるだけでほっとするのですよね。"
+      },
+      {
+        "role": "CV",
+        "action": "(speaking)",
+        "content": "ほんとに。何かしてくれるわけじゃないですけど、ちょっと安心します。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "憩いの場所になりますよね。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 2290,
+    "utterances": [
+      {
+        "role": "EM",
+        "action": "(speaking)",
+        "content": "おはようございます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "よろしくお願いいたします！"
+      },
+      {
+        "role": "EM",
+        "action": "(speaking)",
+        "content": "どのような種類のお仕事をされていますか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "某工場内の屋内でたまに外に出たりしてるよな、、感じですね。"
+      },
+      {
+        "role": "EM",
+        "action": "(speaking)",
+        "content": "そうでしたか。肉体労働は気持ちいいので嫌いではないです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "なにか特殊なお仕事されてそうですね？"
+      },
+      {
+        "role": "EM",
+        "action": "(speaking)",
+        "content": "英語の翻訳などを中心に個人事業主です。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "いつどうやって英語を覚えたのですか？"
+      },
+      {
+        "role": "EM",
+        "action": "(speaking)",
+        "content": "うーん難しいですね。元々はご近所さんにハーフの友人がいたのがでかそうですね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "子どものころに話しして自然に覚えた感じですか？"
+      },
+      {
+        "role": "EM",
+        "action": "(speaking)",
+        "content": "いえいえ、中学までは赤点取ってました。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "けど今は英語を理解している。３．４年くらい英語を本気で勉強しましたが全く話せません。"
+      },
+      {
+        "role": "EM",
+        "action": "(speaking)",
+        "content": "話すのと出来るのはやや差がありますね。恋人を作ると早いですよ。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "外国人の恋人ですよね。それを作るほうが難しです。"
+      },
+      {
+        "role": "EM",
+        "action": "(speaking)",
+        "content": "特に今はコロナで出会いがなさそうですね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "オンラインでなら可能かもしれませんね。"
+      },
+      {
+        "role": "EM",
+        "action": "(speaking)",
+        "content": "日本で出会う外国人は日本人が好きなので友人になるのが簡単ですよ。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "やはり普段から日常会話をしてないとダメですね。"
+      },
+      {
+        "role": "EM",
+        "action": "(speaking)",
+        "content": "高校生の時に勉強を初めて最初にナンパめいたことを始めた時はほぼできませんでしたね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "けどなんかすごですね。小説とかも英語のやつを読むのですか？"
+      },
+      {
+        "role": "EM",
+        "action": "(speaking)",
+        "content": "ハーフの友人に道案内でも申し出ろ、と言われました。今はもうめんどくさくて読まないですね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ふ～んそんなものなのかな。今は英語の勉強はすっかり離れてしまいました。"
+      },
+      {
+        "role": "EM",
+        "action": "(speaking)",
+        "content": "正直今は翻訳も優秀ですし、あえて勉強しなくてもいい気がします。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "何の翻訳をされているのですか？"
+      },
+      {
+        "role": "EM",
+        "action": "(speaking)",
+        "content": "その時によりますね。クライアントにしてくれと言われたものをって感じです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "翻訳と言ってもいろいろな情報があるのですね。"
+      },
+      {
+        "role": "EM",
+        "action": "(speaking)",
+        "content": "レストランのメニュー、会社の資料、ゲームのメッセージなどですかね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "へー大変感心しています。また勉強しようかな。"
+      },
+      {
+        "role": "EM",
+        "action": "(speaking)",
+        "content": "夢がないのばかりですね。すごいのだと＊＊に通訳として行った事がありますよ。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "あなた凄いですね！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 2414,
+    "utterances": [
+      {
+        "role": "EH",
+        "action": "(speaking)",
+        "content": "こんにちは。よろしくお願いします。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "こんにちは。よろしくお願いします！"
+      },
+      {
+        "role": "EH",
+        "action": "(speaking)",
+        "content": "最近みた映画やドラマでお好きなのはありましたか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "最近は見れてないのですが、トップガンは気になりますね。"
+      },
+      {
+        "role": "EH",
+        "action": "(speaking)",
+        "content": "最新作ですね。私もまだ見ていないですが、トムクルーズは本当にかっこいいです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "トムクルーズはカッコいいですよね。ハンサムで。"
+      },
+      {
+        "role": "EH",
+        "action": "(speaking)",
+        "content": "若いころもかっこよかったですけど、今の方が私は更にかっこいいと思います。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "渋さが出てる感じがありますよね。映画よく観るのですか？"
+      },
+      {
+        "role": "EH",
+        "action": "(speaking)",
+        "content": "若いころは映画館で見てたのですが、今はサブスクで色々見ることができて、暇なとき見てます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "今はサブスクを利用する人多いみたいですね。最近は何を観ましたか？"
+      },
+      {
+        "role": "EH",
+        "action": "(speaking)",
+        "content": "最近は娘と一緒に「ニセコイ」というラブコメを見ました。かわいかったですよ。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ニセコイって何かの略称ですか？"
+      },
+      {
+        "role": "EH",
+        "action": "(speaking)",
+        "content": "偽物の恋の略だと思うのですが、どうなんでしょうね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "おお、そうですね。偽の恋ですね。誰が出ていましたか？"
+      },
+      {
+        "role": "EH",
+        "action": "(speaking)",
+        "content": "セクシーゾーンの中島健人君と中条あやみさんが出てました。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "若い人が出てたんですね。あまり若すぎると誰か分からなくて、、"
+      },
+      {
+        "role": "EH",
+        "action": "(speaking)",
+        "content": "私も娘の影響で若い子にだんだん詳しくなってきたんですよ。前は誰が誰だかさっぱりでした。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "そうなのですよ。みなさん同じくらいカッコよかったり可愛かったりするからでしょうね。"
+      },
+      {
+        "role": "EH",
+        "action": "(speaking)",
+        "content": "そうです。あと髪型なんかもみんな似てて。名前も最近やっと覚えてきて。そしたらファンにもなりました。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "若い人でなら誰が好きですか？"
+      },
+      {
+        "role": "EH",
+        "action": "(speaking)",
+        "content": "king&princeのメンバーが大好きなんです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "すみません。グループ名は分かりますけど、メンバーが分かりません。"
+      },
+      {
+        "role": "EH",
+        "action": "(speaking)",
+        "content": "ふふふ。だいたいそうですよね。平野紫耀君はわりと有名かな？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "平野君もちょっとよく分からないですね。年上のお姉さんで原田知世さんの雰囲気が好きですね。"
+      },
+      {
+        "role": "EH",
+        "action": "(speaking)",
+        "content": "おおおお。前のドラマで「あなたの番です」に出てましたね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ええ、出てたのですか。CMで美味しそうにカフェオレ飲んでるところが好きでした。"
+      },
+      {
+        "role": "EH",
+        "action": "(speaking)",
+        "content": "確かに！あのＣＭずっと原田さんだからきっと人気があるんだろうなって思います。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "なんか雰囲気が素敵だなーって思って見てました。"
+      },
+      {
+        "role": "EH",
+        "action": "(speaking)",
+        "content": "ほんわかした雰囲気で、実年齢よりとても若く見えてほんとにうらやましいです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "若く見るのも魅力ですよね！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 2629,
+    "utterances": [
+      {
+        "role": "BF",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "よろしくお願いいたします！"
+      },
+      {
+        "role": "BF",
+        "action": "(speaking)",
+        "content": "もうすぐ子どもの夏休みが終わります。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "それは嬉しく感じますか？"
+      },
+      {
+        "role": "BF",
+        "action": "(speaking)",
+        "content": "はい、ようやく解放されるー！って感じです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "夏休み中は大変ですね。けど楽しくなかったですか？"
+      },
+      {
+        "role": "BF",
+        "action": "(speaking)",
+        "content": "そうですね。こんなに長く子どもと過ごすことってあまりないですからね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "夏休みの思い出ですよね。どこかに行きましたか？"
+      },
+      {
+        "role": "BF",
+        "action": "(speaking)",
+        "content": "長野県に旅行に行きました。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "長野県のどのあたりに行きましたか？"
+      },
+      {
+        "role": "BF",
+        "action": "(speaking)",
+        "content": "八ヶ岳とか諏訪とかのあたりに行きました。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "やっぱり少し涼しいですか？"
+      },
+      {
+        "role": "BF",
+        "action": "(speaking)",
+        "content": "泊まったところの標高が高かったので、朝晩は涼しかったですよ。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "少し寒そうな感じですね。標高の高いホテルだったのですね？"
+      },
+      {
+        "role": "BF",
+        "action": "(speaking)",
+        "content": "ホテルというかペンションに泊まりました。知り合いが経営していて。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "へー登山用とかそんな感じなのかな？"
+      },
+      {
+        "role": "BF",
+        "action": "(speaking)",
+        "content": "登山の方や、冬はスキーに来る方も多いみたいですね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "景色が美しそうで水が青そうですね。"
+      },
+      {
+        "role": "BF",
+        "action": "(speaking)",
+        "content": "はい、とても綺麗でした。あなたはこの夏、どこか出かけましたか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "遠方には行ってないですね。近場で登山とかですね。"
+      },
+      {
+        "role": "BF",
+        "action": "(speaking)",
+        "content": "おー！登山をされるんですね！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "標高の低い軽登山ですよ。"
+      },
+      {
+        "role": "BF",
+        "action": "(speaking)",
+        "content": "登るときは1人で？それともお友達とかと？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "だいたい行きたい時に一人でフラッと登っています。"
+      },
+      {
+        "role": "BF",
+        "action": "(speaking)",
+        "content": "なんかかっこいいですね！長くやってるんですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "いえ、コロナ禍になってからなので短いですよ。"
+      },
+      {
+        "role": "BF",
+        "action": "(speaking)",
+        "content": "なるほど、コロナがきっかけだったんですね！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "そうですね。街の方に行かなくなってからでしたね。"
+      },
+      {
+        "role": "BF",
+        "action": "(speaking)",
+        "content": "コロナも回避できて、健康にも良さそうで一石二鳥ですね！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "そうです。健康的な生活になりました。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 7490,
+    "utterances": [
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "よろしくお願いします。"
+      },
+      {
+        "role": "ET",
+        "action": "(speaking)",
+        "content": "こちらこそ、よろしくお願いします。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "夜は早く寝ますか？"
+      },
+      {
+        "role": "ET",
+        "action": "(speaking)",
+        "content": "少しだけやりたいことやって、お酒飲んで、寝ます！いつも０時までは起きてますね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "遅いですね。僕はそろそり寝る時間になります。"
+      },
+      {
+        "role": "ET",
+        "action": "(speaking)",
+        "content": "そうなんですね。朝は何時頃に起きるんですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "５時３０～６時００分の間には起きますよ。何時くらいに起きますか？"
+      },
+      {
+        "role": "ET",
+        "action": "(speaking)",
+        "content": "かなり早いですね！睡眠時間足りてますか？私は毎朝７時起きです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "睡眠時間は大体７時間くらいは寝てるので大丈夫ですね。８時間は寝たいですけどね"
+      },
+      {
+        "role": "ET",
+        "action": "(speaking)",
+        "content": "では、今日はかなり夜更かしされてることになりますね。明日が心配です。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "０時くらいまでには寝れれば普通に起きれますね。仕事も体力的には大丈夫です。"
+      },
+      {
+        "role": "ET",
+        "action": "(speaking)",
+        "content": "座り仕事なんですか？主人が立ち仕事なんですが、寝不足の日は帰宅後倒れ込んでます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "僕も立ち仕事ですけど、それほど体力は使わない感じです。歩数は結構ありますけど。"
+      },
+      {
+        "role": "ET",
+        "action": "(speaking)",
+        "content": "そうなんですね。毎日何歩ぐらい歩かれるんですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "仕事中には結構歩きますけど、仕事終わって晩御飯たべてからもウォーキングしています。何か運動はしていますか？"
+      },
+      {
+        "role": "ET",
+        "action": "(speaking)",
+        "content": "私も一応筋トレはしています。任天堂の出してるリングフィットってゲームをご存知ですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "いや～そのゲームは分からないですね。どんなゲームですか。でも部屋でストレッチはしています。"
+      },
+      {
+        "role": "ET",
+        "action": "(speaking)",
+        "content": "リングの形をしたコントローラーを使って、テレビ画面の前で筋トレ出来るゲームです。ストレッチ良いらしいですね。寝つきも良くなるとか。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ストレッチはお勧めです。体が良く動くようになりますよ。運動しないと体重がきになりますからね。"
+      },
+      {
+        "role": "ET",
+        "action": "(speaking)",
+        "content": "体の可動域を増やすと、同じ動作でも疲れにくくなりますからね！私も久しぶりにストレッチしよう。このあと。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "是非とも！肩とか背中が軽くなりますよ！寝つきも良くなります。"
+      },
+      {
+        "role": "ET",
+        "action": "(speaking)",
+        "content": "最近、肩甲骨の凝りが酷くて。やります、絶対やります。体重も減らしたいですからね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ラジオで芸能人が言ってたんですけど、やっぱりみんな歩いて運動してるみたいですよ。"
+      },
+      {
+        "role": "ET",
+        "action": "(speaking)",
+        "content": "私は自宅で筋トレしてるんですけど、やっぱり外を歩くのが大事なんですかね？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "外を歩くと景色が新鮮に観えてきますからね。毎日すれ違う人も沢山います。"
+      },
+      {
+        "role": "ET",
+        "action": "(speaking)",
+        "content": "確かに良い気分転換にもなりそう！夜ならそんなに暑くなくて良いかもですね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "夜はね、たまに暗闇から人が出てきてびっくりすることがあるので、懐中電灯はつけないとだめですよ"
+      },
+      {
+        "role": "ET",
+        "action": "(speaking)",
+        "content": "ひえっ、ちょっと怖いですね。変質者というより、ぶつかるので危ないって意味ですね？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "対面衝突防止の為ですね。お互い。"
+      },
+      {
+        "role": "ET",
+        "action": "(speaking)",
+        "content": "今日はありがとうございました！おやすみなさい。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 8331,
+    "utterances": [
+      {
+        "role": "CC",
+        "action": "(speaking)",
+        "content": "おはようございます！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "おはようございます！今日もいい天気です。"
+      },
+      {
+        "role": "CC",
+        "action": "(speaking)",
+        "content": "ですね。涼しいですね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "涼しいですか？こちらは朝から猛暑。"
+      },
+      {
+        "role": "CC",
+        "action": "(speaking)",
+        "content": "あらほんとうですか？　こっちは小雨降ってます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "全然天気が違いますね。"
+      },
+      {
+        "role": "CC",
+        "action": "(speaking)",
+        "content": "東北地方が大変なことになっていましたが、お住まいの地域は大丈夫ですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "夕立はすごかったですど。全然大丈夫ですよ。"
+      },
+      {
+        "role": "CC",
+        "action": "(speaking)",
+        "content": "それはよかったです！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "少しくらいは涼しくなってほしいものです。"
+      },
+      {
+        "role": "CC",
+        "action": "(speaking)",
+        "content": "そうですね。ふだん外にはよく出ますか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "アウトドア派なんでずっと外で遊んでいます。"
+      },
+      {
+        "role": "CC",
+        "action": "(speaking)",
+        "content": "そうなんですね。夏はどんなことを？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "サーフィンとかですね。"
+      },
+      {
+        "role": "CC",
+        "action": "(speaking)",
+        "content": "おーかっこいいですね！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "と言われますが、誰でもできる簡単なスポーツですよ。"
+      },
+      {
+        "role": "CC",
+        "action": "(speaking)",
+        "content": "そうなんですか？　難易度が高そうに見えます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "全然！板さえあればだれでもできます。"
+      },
+      {
+        "role": "CC",
+        "action": "(speaking)",
+        "content": "立てるかなぁ。あの、ボードと一緒にパラシュート持つやつありません？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ありますね。なんていうのか忘れました。。"
+      },
+      {
+        "role": "CC",
+        "action": "(speaking)",
+        "content": "調べたらカイトサーフィンって出てきました。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ほー、聞いたことあります。やってみたいですか？"
+      },
+      {
+        "role": "CC",
+        "action": "(speaking)",
+        "content": "あっちの方が立てそう、とか思うんですが、腕が疲れちゃいますかね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "確かに腕がつかれそうですね。夏は好きですか？"
+      },
+      {
+        "role": "CC",
+        "action": "(speaking)",
+        "content": "歳を重ねて愛せるようになってきました。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "冬よりは夏の方がいろいろできますからね。"
+      },
+      {
+        "role": "CC",
+        "action": "(speaking)",
+        "content": "イベントがいっぱいありますもんね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "コロナが広がらないといいですけどね。"
+      },
+      {
+        "role": "CC",
+        "action": "(speaking)",
+        "content": "でもニュースでは感染者数がすごいことになってるようで。マヒしてきちゃったけど。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "確かにマヒしてる感じはあります。注意しましょうね。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 8763,
+    "utterances": [
+      {
+        "role": "BH",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "よろしくお願いします。"
+      },
+      {
+        "role": "BH",
+        "action": "(speaking)",
+        "content": "お願いします。突然ですが、好きな芸能人っていますか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "昔から永瀬正敏さんですね。誰が好きですか？"
+      },
+      {
+        "role": "BH",
+        "action": "(speaking)",
+        "content": "おーいい俳優さんですねー。私は嵐の二宮君が好きです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "かわいい所が好きですか？"
+      },
+      {
+        "role": "BH",
+        "action": "(speaking)",
+        "content": "それもありますが、基本かっこいいなーって思ってます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "年を重ねると渋さもでてきますからね。"
+      },
+      {
+        "role": "BH",
+        "action": "(speaking)",
+        "content": "色々騒がれた結婚ですが、してから増々かっこよくなった気がしています。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "えっ、結婚してたのですか？誰とですか？"
+      },
+      {
+        "role": "BH",
+        "action": "(speaking)",
+        "content": "元アナウンサーの伊藤って方です。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "知らなかった。芸能情報にうとくてすみません。"
+      },
+      {
+        "role": "BH",
+        "action": "(speaking)",
+        "content": "いえいえ。好きな芸能人でなければ、結婚情報なんてスルーですよ。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "嵐の曲で一曲好きな曲があります。"
+      },
+      {
+        "role": "BH",
+        "action": "(speaking)",
+        "content": "なんですか？興味津々。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "桜さけ？さくらさく？どちらでしたっけ？"
+      },
+      {
+        "role": "BH",
+        "action": "(speaking)",
+        "content": "サクラ咲けですね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "その曲です。桜のシーズンにちょうどラジオから流れてきて前向きな曲だなと思いました。"
+      },
+      {
+        "role": "BH",
+        "action": "(speaking)",
+        "content": "いいですよねー。始まりからテンションあがります！！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "曲もロック調なのでテンションがあがりましたね。あと一番最初の曲とか好きですね。"
+      },
+      {
+        "role": "BH",
+        "action": "(speaking)",
+        "content": "結構いい歌出してますよね。私、曲名が覚えられなくて、なかなかこれって言えないのですが。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "コンサートとかには行かれるのですか？"
+      },
+      {
+        "role": "BH",
+        "action": "(speaking)",
+        "content": "ファンクラブには入っていないので、コンサートも行った事ないんです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "今の時期はなかなか人ごみの中に入るのは危険ですしね。"
+      },
+      {
+        "role": "BH",
+        "action": "(speaking)",
+        "content": "そうですねー。でも一度は生嵐、生ニノ見たいなーって思ってます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "松本君も結婚してるのですか？"
+      },
+      {
+        "role": "BH",
+        "action": "(speaking)",
+        "content": "松本君はまだですよ。桜井君と相葉君はしましたが。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "みんなしてるんですね。松本君はけっこう美人な人と結婚しそうですよね。"
+      },
+      {
+        "role": "BH",
+        "action": "(speaking)",
+        "content": "ですねー。周りもそうじゃないと納得しなさそう。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "それはファンも期待してますよ！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 8889,
+    "utterances": [
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "よろしくお願いします。"
+      },
+      {
+        "role": "AX",
+        "action": "(speaking)",
+        "content": "こちらこそよろしく願いいたします。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "趣味はありますか？"
+      },
+      {
+        "role": "AX",
+        "action": "(speaking)",
+        "content": "趣味ですか。大阪にイヤホン屋さんがあるので時々通っています。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "イヤホン屋さんってどんな所ですか？"
+      },
+      {
+        "role": "AX",
+        "action": "(speaking)",
+        "content": "イヤホンとヘッドホンとポータブルアンプが沢山あるところです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "音楽関係というか好きな人ですか？"
+      },
+      {
+        "role": "AX",
+        "action": "(speaking)",
+        "content": "音とか好きですね。視聴できるし面白いですよ、リケーブルもあるし。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "舞台とかステージの音響はちょっとやったことあります。難しいかったです。"
+      },
+      {
+        "role": "AX",
+        "action": "(speaking)",
+        "content": "おーそれは本格的ですね。それは大変だと思います。反響とかありますよね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ターンテーブルの操作方法が全然分かりませんでした。音楽はイヤホンで聞きますか？"
+      },
+      {
+        "role": "AX",
+        "action": "(speaking)",
+        "content": "おー。ターンテーブル。ヘッドホンとイヤホンで聴いています。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "スマホからそのまま流すとと、低音が聞こえなくて迫力がたりませんからね。"
+      },
+      {
+        "role": "AX",
+        "action": "(speaking)",
+        "content": "そうなんですそれで、ポタアン間につないでいます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ポアタン間とは何ですか？"
+      },
+      {
+        "role": "AX",
+        "action": "(speaking)",
+        "content": "ポータブルアンプ、DＡＣともいうみたいですよ。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "詳しくは分かりませんが、音楽やってたりしてるんで音とかには割とこだわりますよ。"
+      },
+      {
+        "role": "AX",
+        "action": "(speaking)",
+        "content": "おー素晴らしいですね。楽曲されるんですか。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "バンドの演奏で弾いていますね。最近はそういうイベントがなくなりましたけどね。"
+      },
+      {
+        "role": "AX",
+        "action": "(speaking)",
+        "content": "もったいない。よいですね。バンドの演奏で色々参加できる活動。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "部屋でスマホなどから音楽聞くときは必ずスピーカーにつなげてから聞くようにしています。"
+      },
+      {
+        "role": "AX",
+        "action": "(speaking)",
+        "content": "なるほど。イヤホン直付けだとスカスカですもんね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "高音だけでスカスカなんですよ。それも良く耳に残るのですけどね。"
+      },
+      {
+        "role": "AX",
+        "action": "(speaking)",
+        "content": "バランス接続できるイヤホンとアンプがあればかなり改善されますけどね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "将来的には自分だけの部屋を持って音響システムをそろえて音楽を聴くのが夢ですね。"
+      },
+      {
+        "role": "AX",
+        "action": "(speaking)",
+        "content": "おー素敵です。DＴＭとかも最近組みやすくなってますしね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "いろんな音楽を聴くのですか？"
+      },
+      {
+        "role": "AX",
+        "action": "(speaking)",
+        "content": "そうですね。ジャンル問わず聴きます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "クラシックとか、ジャズとかもですね。"
+      },
+      {
+        "role": "AX",
+        "action": "(speaking)",
+        "content": "そうですね。ジャズの方が聴くかもです。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 9103,
+    "utterances": [
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "お願いします！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "よろしくお願いします。"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "趣味とかありますか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "結構ありますよ。アウトドアタイプなので。"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "おー。今流行りですね。ひとりキャンプとかですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "自転車やバイクに登山に釣りにサーフィンとかですね。"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "サーフィン！？かっこいいですね。モテそうですね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "全然ですよ。黒いウエットスーツ着てると逆にダサく見えますよ。"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "そうなんですか。でも、結構多趣味ですね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "何か趣味はありますか？"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "私は、野菜づくりが好きです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "今ベランダでプランターでバジルを植えていますよ。"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "バジル良いですね。比較的簡単です。取れすぎて困ると思いますよ。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "結構葉っぱが増えるので毎日すこしづつサラダと一緒に食べています。"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "健康的ですね。私は市民農園を借りて、作ってます。ナスが豊作です。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "田舎に住んでいるんで畑で野菜は大量にとれるので買ったことほとんどないです。"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "羨ましいです。私もそんな生活がしたい。今買うと高くて。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "野菜買うとかなり高いですよね！"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "本当です。野菜の他にも色々高くて、大変ですよね？！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "昨年はなすをかなり食べました。野菜大好きなのです。"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "本当健康的ですね。私も見習いたいです。私はにんにくが好きですね"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "にんにく食べますよ。今パウダーになってるやつがあるのでそれを使っています。"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "香りが良いですよね。食欲もわきます。にんにく、にら、玉ねぎ最高です。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "玉ねぎ、山ほどとれますからね。美味しいです。"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "私は、うまく育たないんですよね。コツありますか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "なにでしょうね。土とか肥料とかですかね？"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "あまり肥料を使わないからですかね。自然農を心がけているので。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "それはそれで、作るのは難しそうですね。"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "雑草との戦いです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "月に何回かは草刈りしています。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 9155,
+    "utterances": [
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "今日もお願いします！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "よろしくお願いします！"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "旅行とか行かれますか？！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "旅行はあまり行かないですね。日帰りのツーリングは行きますけど。"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "バイクがお好きと言ってましたね。楽しそうですね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "旅行には行かれるのですか？"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "行きたいのですが、イケてないのが現状です。社員旅行で数年前に沖縄に行ったのが最後です。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "そうですよね。今は特に行けませんからね。"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "そうですね。海外はありますか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "海外ないのですよ。ありますか？"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "韓国と台湾、アメリカに行ったことあります。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "アメリカのどこに行かれましたか？"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "サンタモニカとラスベガスです。あとロスですかね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "西海岸いいですよね。行ってみたいのですが、ラスベガスって良かったですか？"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "最高でした。本当にエンターテイメントの街でした。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "街中が遊園地みたいな感じなのですよね。カジノをしたのですか？"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "ホテル一つ一つが大きくて、無料で楽しめる催しが沢山あります。カジノは少しだけやりました。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "面白かったですか？"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "素晴らしいです。特にベラッジオの噴水ショーは、絶対におすすめです。レインマンの噴水がそうです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "その噴水ショーはよくテレビとかでみるやつですよね？"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "はい。かなり有名です。音楽と噴水が絶妙です。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "いいですね。ロスはやっぱり雰囲気いいですか？"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "ロスはあまり滞在しなかったですが、拳銃を撃たせてもらいました。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "それは凄い体験ですね。街中がカッコいいイメージがあります。"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "良い経験になりました。紫の桜があり、それはビックリしました。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "紫色の桜ですか？日本ではあまり見ませんね。"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "ロス、独自みたいです。おそらく品種改良かと。それでもキレイでした。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ロスに桜があるとは思いませんでした。ごはんは美味しかったですか？"
+      },
+      {
+        "role": "AJ",
+        "action": "(speaking)",
+        "content": "ご飯は、微妙です。ご飯は台湾、韓国が美味しかったです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "やっぱりアジア料理の方があいますからね。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 10098,
+    "utterances": [
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "よろしくお願いします！"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "よろしくお願いします！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "毎朝何時に起きていますか？"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "布団から出るのは7時ころですが、5時過ぎから目は覚めます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "今日は６時過ぎくらいに目が覚めました。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "猫と一緒に寝ているので、明るくなると頭突きで起こされます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "毛とか散らかりませんか？"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "すごく散らかります！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "掃除が大変そうですね。可愛いですけどね。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "はい、いくら掃除しても、学ランとか毛だらけで目立ってしまいます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "何色の猫ですか？"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "茶系とグレー系です。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "２匹ですか、掃除大変じゃないですか！"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "そうなんです。毎日掃除機かけてます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "僕は自分の部屋の掃除だけでも大変ですからペットは飼えないかもですね。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "飼い続けていると、意外と気にならなくもなります。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ペットは猫だけですか？"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "はい。さすがに猫2匹以上はお世話が行き届かないですね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "そうですね。それ以上になると手が回らなくなりますからね。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "はい、多頭飼育崩壊は起こさないようにしないと！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ペットは大切に育てたいですからね。最近、金魚を飼ってみました。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "水槽系は、水がゆらゆらして癒されますね！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "見てるだけで、癒されるのですよ。気持ちよさそうに泳いでるから。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "金魚にも種類があるようですが、どんな子ですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "一番小さくて安い、小赤って種類です。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "夏祭りで見るような子たちですかね？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "それです、金魚すくいでよく見るやつです。赤色の。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "聞く話によると、そういう子でも、長生きですごく大きく成長するとか。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "びっくりするくらい結構大きくなるみたいですよ。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "長生きして、どんどん大きくなってほしいですね！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 10105,
+    "utterances": [
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "よろしくお願いします！"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "この夏、お祭りや花火、行かれました？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "住んでるところの夏祭りは中止なのでまだ行けてないです。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "こちらも全部中止になりました。これから行く予定なのですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "行く予定もないですね。今人混みが苦手で。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "確かに！感染広がってて、人混みこわいですね！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "会社で結構コロナが出てて、お盆休みは近くで過ごします。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "会社で！大丈夫でしたか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "自分は大丈夫ですよ！"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "よかったです！近しい方が感染すると心配ですね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "自分の周りの人がなると大変ですからね。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "はい。でも、症状なくても感染しててもおかしくないなぁとも思います。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "無症状ですね。それって自然に治るのかな？"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "どうなんでしょう？いつか自分で調べて、感染歴があっても驚かなそうです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "検査したことありますか？"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "今のところないですね。ありますか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ないですね。陽性でないことを祈ります。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "うちは家族でコロナ保険に入ったので、少し心が揺らぎます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "コロナ保険ってのがあるのですね。知りませんでした。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "もう2年ほども払ってるので、かかりたくないけど、でも、みたいな。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "それが保険ですからね。マスクはずっとしています。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "私もです。やっぱりかかりたくない、の方が気持ちが強いんでしょうね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "鼻のあたりが痛くて固くなってる感じになってます。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "お顔のトラブル、皮膚とかも増えてるみたいですよね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "暑い日にマスクをすると喉がからからにもなりますよ。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "確かに！マスクのなか蒸れ蒸れになって、気持ち悪いです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "マスクを外して写真を取らなければいけない時は、逆に緊急事態を感じます。"
+      },
+      {
+        "role": "BI",
+        "action": "(speaking)",
+        "content": "早くマスクなしの生活が普通に戻ってくれるといいですね！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "外すのが恥ずかしくなるときもありますね。"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 10226,
+    "utterances": [
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "こんばんは。"
+      },
+      {
+        "role": "HY",
+        "action": "(speaking)",
+        "content": "こんばんは！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "今日も暑かったですね。夕立降りませんでしたか？"
+      },
+      {
+        "role": "HY",
+        "action": "(speaking)",
+        "content": "暑かったですねー。夕立は大丈夫でした。快晴でした！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "洗濯ものもすっきり乾いた感じですね。"
+      },
+      {
+        "role": "HY",
+        "action": "(speaking)",
+        "content": "そうですね、でも毎日暑いと参ってしまいますね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "食欲ありますか？"
+      },
+      {
+        "role": "HY",
+        "action": "(speaking)",
+        "content": "食欲ありますね、ありすぎて困っています。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "真夏に食欲があるって羨ましいです。"
+      },
+      {
+        "role": "HY",
+        "action": "(speaking)",
+        "content": "夏バテ気味ですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "完全夏バテですね。もう食欲がなくて。"
+      },
+      {
+        "role": "HY",
+        "action": "(speaking)",
+        "content": "そうなのですね、こういう時は麺類が食べやすいですかね？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "そうめんよりも冷や麦派なんですよ。"
+      },
+      {
+        "role": "HY",
+        "action": "(speaking)",
+        "content": "実は、いまだに違いが分からないままでいます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "同じものらしいですよ。ただ太さが違うだけですって。"
+      },
+      {
+        "role": "HY",
+        "action": "(speaking)",
+        "content": "太さなのですね！冷や麦は太いのですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "冷や麦の方が太いですね。さらに太くなるとうどんになります。"
+      },
+      {
+        "role": "HY",
+        "action": "(speaking)",
+        "content": "なるほど、確かにうどんも材料は同じですよね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ラーメンの細麺が好きか太麺が好きかの違いと同じようです。"
+      },
+      {
+        "role": "HY",
+        "action": "(speaking)",
+        "content": "言われてみれば確かに！何かと細い方を好んでしまいます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ラーメンも細麺派なのですか？"
+      },
+      {
+        "role": "HY",
+        "action": "(speaking)",
+        "content": "そうなんです、すすりやすくて。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "その方が沢山食べた感じがしますからね。"
+      },
+      {
+        "role": "HY",
+        "action": "(speaking)",
+        "content": "その通りです。ラーメンも太麺のほうがお好きですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "ラーメンは細麺派ですね。お汁が麺にからまる感じが好きです。"
+      },
+      {
+        "role": "HY",
+        "action": "(speaking)",
+        "content": "分かります！のど越しも良くていいですよね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "今日の昼ごはんはラーメンでした。"
+      },
+      {
+        "role": "HY",
+        "action": "(speaking)",
+        "content": "いいですね！ちなみに私はうどんでした。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "うどんもいいですよね。熱いやつですか？"
+      },
+      {
+        "role": "HY",
+        "action": "(speaking)",
+        "content": "冷たいやつです！夏は冷たいのに限ります！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  },
+  {
+    "dialogue_id": 10270,
+    "utterances": [
+      {
+        "role": "CP",
+        "action": "(speaking)",
+        "content": "こんにちはー！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "よろしくお願いしますー"
+      },
+      {
+        "role": "CP",
+        "action": "(speaking)",
+        "content": "SNSはされますか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "フェイスブックはしてますよ。"
+      },
+      {
+        "role": "CP",
+        "action": "(speaking)",
+        "content": "フェイスブックはおもにリアルのご友人と？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "なんかよく分からないうちに友人の友人とかと繋がっています。"
+      },
+      {
+        "role": "CP",
+        "action": "(speaking)",
+        "content": "確かに！　気づいたら増えてますよね。私はそれで、久々に高校の友人とつながりました。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "いいですね。懐かしいですよねー。"
+      },
+      {
+        "role": "CP",
+        "action": "(speaking)",
+        "content": "はいー。すごい久しぶりで。お互い住所も変わってましたし。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "昔好きだった人ですか？"
+      },
+      {
+        "role": "CP",
+        "action": "(speaking)",
+        "content": "いえいえ。同姓の部活仲間です。今度ZOOMで飲み会しようって盛り上がってます。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "昔好きだった人が結婚してるのを知るとショックですからね笑。オンライン飲み会したことないです。"
+      },
+      {
+        "role": "CP",
+        "action": "(speaking)",
+        "content": "そうなんですね。私は最近よくやりますよー。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "違和感ないですか？"
+      },
+      {
+        "role": "CP",
+        "action": "(speaking)",
+        "content": "ないですね。寝落ちしても放置できて、リアル飲み会よりいいかもです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "好きなおつまみをおいて飲みながら話し相手が目の前にいるって感じになりますか？"
+      },
+      {
+        "role": "CP",
+        "action": "(speaking)",
+        "content": "そうですね。適当にお酒取りに行くし、つまみ作りにいくし、自由です。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "そうなのですね。自由に気を使わないのがいいって感じですねー"
+      },
+      {
+        "role": "CP",
+        "action": "(speaking)",
+        "content": "料理得意な子のつまみを作っているところを眺めながら飲んだり。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "プライベートも少しのぞき見できるのですね笑。お酒は何を飲みますか？"
+      },
+      {
+        "role": "CP",
+        "action": "(speaking)",
+        "content": "主にチューハイです。甘いのが好きです！"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "僕はビール飲んでます。何味のチューハイですか？"
+      },
+      {
+        "role": "CP",
+        "action": "(speaking)",
+        "content": "柑橘系が好きですね。ビール以外はなにを飲みます？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "焼酎ですね。たまに日本酒、たまにチューハイ、ハイボールとかですね。"
+      },
+      {
+        "role": "CP",
+        "action": "(speaking)",
+        "content": "おおー。いっぱい。お強いんですか？"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "種類は飲みますけど量は控えめですよ。"
+      },
+      {
+        "role": "CP",
+        "action": "(speaking)",
+        "content": "そうなんですね。私も、チューハイ2、3本ってところです。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "それくらいがちょうどほろ酔いな感じでベストです。"
+      },
+      {
+        "role": "CP",
+        "action": "(speaking)",
+        "content": "そうそう。ちょっとふわふわって感じがいいですよね。"
+      },
+      {
+        "role": "CZ",
+        "action": "(speaking)",
+        "content": "今日のつまみは冷奴にします。"
+      },
+      {
+        "role": "CP",
+        "action": "(speaking)",
+        "content": "いいですね。暑いと冷たいのがおいしいです！"
+      }
+    ],
+    "inner_monologue_utterances": []
+  }
+]
