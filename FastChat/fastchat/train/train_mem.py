@@ -7,7 +7,7 @@
 
 # replace_llama_attn_with_flash_attn()
 
-from fastchat.train.train import train
+from fastchat.train.train_eval import train
 
 if __name__ == "__main__":
     train()

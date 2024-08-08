@@ -13,6 +13,7 @@ TARGET_INTERLOCUTOR_IDS = os.getenv("TARGET_INTERLOCUTOR_IDS").split(',')
 BIG_FIVE_PERSONALITY_TRAITS_TRANS_DICT = {'BigFive_Openness': '開放性', 'BigFive_Conscientiousness': '誠実性', 
                                           'BigFive_Extraversion': '外向性', 'BigFive_Agreeableness': '協調性', 'BigFive_Neuroticism': '神経症傾向'}
 GENDER_TRANS_DICT = {0: '男性', 1: '女性', 2: 'その他'}
+MAX_GENERATION_TRIAL = 15
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 # ビッグファイブ性格特性の数値(1~7)を(低い, 中程度, 高い)の3段階で評価する関数
@@ -78,6 +79,9 @@ def validate_monologue_format(original_dialogue: str, inner_monologue_dialogue: 
     return True
 
 def postprocess_inner_monologue(inner_monologue_dialogue: str, target_interlocutor_id) -> str:
+    # inner_monologue_dialogueの最初の文字が\nの場合、削除
+    if inner_monologue_dialogue.startswith('\n'):
+        inner_monologue_dialogue = inner_monologue_dialogue[1:]
     # {target_interlocutor_id} (thinking): ~ の ~ が()で囲まれている場合、()を削除
     # 例: {target_interlocutor_id} (thinking): (あいうえお) -> {target_interlocutor_id} (thinking): あいうえお
     inner_monologue_dialogue = re.sub(rf'{target_interlocutor_id} \(thinking\): \((.*?)\)', rf'{target_interlocutor_id} (thinking): \1', inner_monologue_dialogue)
@@ -147,10 +151,11 @@ def create_inner_monologue_annotation(utterances: str, target_interlocutor_id: s
         'ルール:',
         f'1. {target_interlocutor_id}には感情と思考能力があります。{target_interlocutor_id}が何を感じ、何を考えているのか慎重に考えてください。',
         f'2. あなたは今、ペルソナやBigFive性格特性に基づいて、対話履歴に{target_interlocutor_id}の感情や考えを追加することを目的としています。',
+        f'   内心を描写する際には、第三者から見ても{target_interlocutor_id}のBigFive性格特性と整合性が取れるようにしてください。',
         f'3. 主人公は{target_interlocutor_id}です。対話履歴の中に、{target_interlocutor_id}が何かを感じたり考えたりしたと思うところに、(thinking)のラベルを用いて{target_interlocutor_id}の気持ちや考えを挿入してください。',
-        f'4. (speaking)のラベルの内容は「絶対に」書き換えないでそのまま残してください。',
-        f'5. 「{target_interlocutor_id} (thinking): 〜 」という形式必ず従って、{target_interlocutor_id}の内心描写を追加してください。{partner_interlocutor_id} (thinking): 〜 という行は絶対に作らないでください。',
-        f'6. 必ず{target_interlocutor_id} (speaking): 〜 という行の前に{target_interlocutor_id} (thinking): 〜 という行を挿入してください。',
+        f'4. 「{target_interlocutor_id} (thinking): 〜 」という形式必ず従って、{target_interlocutor_id}の内心描写を追加してください。{partner_interlocutor_id} (thinking): 〜 という行は絶対に作らないでください。',
+        f'5. 必ず{target_interlocutor_id} (speaking): 〜 という行の前に{target_interlocutor_id} (thinking): 〜 という行を挿入してください。',
+        f'6. (speaking)のラベルの内容は「絶対に」書き換えないでそのまま残してください。',
         '次に、もとの対話履歴と出力のフォーマットの例を示します。',
         '',
         'もとの対話履歴の例1:',
@@ -256,20 +261,30 @@ if __name__ == '__main__':
         dialogues_first_person_list = []
         for utterances, dialogue_id, partner_interlocutor_id in tzip(utterances_list, dialogue_id_list, partner_interlocutor_id_list):
             # 正しいフォーマットの内心描写付き対話データが生成されるまで繰り返す
+            count = 0
             while True:
+                if count >= MAX_GENERATION_TRIAL:
+                    print('内心描写付き対話データが生成できませんでした。')
+                    break
                 inner_monologue_utterances = create_inner_monologue_annotation(utterances, target_interlocutor_id, partner_interlocutor_id)
                 inner_monologue_utterances = postprocess_inner_monologue(inner_monologue_utterances, target_interlocutor_id)
                 if validate_monologue_format(utterances, inner_monologue_utterances, target_interlocutor_id, partner_interlocutor_id):
                     break
                 else:
+                    count += 1
                     print('inner_monologue_utterancesの形式が正しくありません。再度生成します。')
-        
+            # うまく生成できなかった場合は次の対話データに進む
+            if count >= MAX_GENERATION_TRIAL:
+                continue
             dialogue_first_person_dict = {
                 "dialogue_id": dialogue_id,
                 "utterances": convert_raw_utterances_into_json_format(utterances),
                 "inner_monologue_utterances": convert_raw_utterances_into_json_format(inner_monologue_utterances)
             }
             dialogues_first_person_list.append(dialogue_first_person_dict)
+
+        print(f'もとの対話数: {len(utterances_list)}')
+        print(f'生成に成功した対話数: {len(dialogues_first_person_list)}')
 
         # json形式で保存
         with open(f'./RealPersonaChat/data/gen_inner_monologue/{target_interlocutor_id}_inner_monologue.json', 'w') as f:

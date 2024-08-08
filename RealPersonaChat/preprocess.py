@@ -72,7 +72,7 @@ if __name__ == '__main__':
     interlocutor_dataset = load_dataset("nu-dialogue/real-persona-chat", name='interlocutor', trust_remote_code=True)
 
     # 読み込む対象のinterlocutor_idのリストを指定
-    target_interlocutor_ids = ['CP', 'AT', 'FR', 'CA', 'AY', 'DV', 'CE', 'FL']
+    target_interlocutor_ids = ['FV']
 
     # フォーマット変換
     convert_dialogues_format(dialogue_dataset, interlocutor_dataset, target_interlocutor_ids)
