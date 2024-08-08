@@ -20,8 +20,8 @@ ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 client = Anthropic(api_key=ANTHROPIC_API_KEY)
 TARGET_INTERLOCUTOR_IDS = os.getenv("TARGET_INTERLOCUTOR_IDS").split(',')
 
-TARGET_INTERLOCUTOR_ID = 'GN'
-OUTPUT_DIR = f'./JudgeLLM/result/anthropic_v3'
+# TODO: evalかvalidかはデータの種類によって違うので、適宜変更する
+OUTPUT_DIR = f'./JudgeLLM/result/eval/anthropic_v3'
 
 # TODO: 内心描写も評価に含める場合は以下のプロンプトを編集する
 normal_setting_prompt = '''
@@ -94,12 +94,12 @@ def load_dialogue_list(path):
 
     return dialogue_list, inner_monologue_list
 
-def get_answer(dialogue_list, question):
+def get_answer(dialogue_list, question, target_interlocutor_id):
     dialogues = '\n\n'.join(dialogue_list)
     # プロンプトを作成
     # TODO: 普通の対話か内心描写付きかでnormal_setting_promptかinner_monologue_setting_promptを使い分ける
-    system_prompt = normal_setting_prompt.format(TARGET_INTERLOCUTOR_ID=TARGET_INTERLOCUTOR_ID)
-    user_prompt = questionnaire_prompt.format(TARGET_INTERLOCUTOR_ID=TARGET_INTERLOCUTOR_ID, dialogues=dialogues, question=question)
+    system_prompt = normal_setting_prompt.format(TARGET_INTERLOCUTOR_ID=target_interlocutor_id)
+    user_prompt = questionnaire_prompt.format(TARGET_INTERLOCUTOR_ID=target_interlocutor_id, dialogues=dialogues, question=question)
 
     message = client.messages.create(
         model='claude-3-5-sonnet-20240620',
@@ -111,10 +111,10 @@ def get_answer(dialogue_list, question):
 
     return message.content[0].text
 
-def calculate_error(scores):
+def calculate_error(scores, target_interlocutor_id):
     # 対象人物のBFIスコアを読み込む
     interlocutor_dataset = load_dataset("nu-dialogue/real-persona-chat", name='interlocutor', trust_remote_code=True)
-    target_interlocutor_data = interlocutor_dataset['train'].filter(lambda x: x['interlocutor_id'] == TARGET_INTERLOCUTOR_ID)
+    target_interlocutor_data = interlocutor_dataset['train'].filter(lambda x: x['interlocutor_id'] == target_interlocutor_id)
     target_interlocutor_BFI = target_interlocutor_data[0]['personality']
     target_interlocutor_BFI = {
         '外向性': target_interlocutor_BFI['BigFive_Extraversion'], 
@@ -138,40 +138,41 @@ def calculate_error(scores):
 if __name__ == '__main__':
     # 出力ディレクトリの作成
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    # 対話データの読み込み
-    dialogue_list, inner_monologue_list = load_dialogue_list(f'./JudgeLLM/data/sample20/{TARGET_INTERLOCUTOR_ID}_extracted_data.json')
-    questions = get_question_list()
-    questions = [questions[i-1] for i in RANDOM_ID_LIST]
-    for question in tqdm(questions):
-        # TODO: 普通の対話か内心描写付きかでdialogue_listかinner_monologue_listを使い分ける
-        answer = get_answer(dialogue_list, question)
-        # answetの中から<score>タグ内の数字を取得
-        answer = answer.split('<score>')[1].split('</score>')[0]
-        # \nがあれば削除
-        answer = answer.replace('\n', '')
-        # 回答が1~7の数字かどうかを確認
-        if answer in ['1', '2', '3', '4', '5', '6', '7']:
-            question.set_question_score(int(answer))
-        else:
-            print('回答が1~7の数字ではありません。')
-            break
-        
-    # 性格特性ごとにスコアを集計
-    scores = {'外向性': 0, '神経症傾向': 0, '開放性': 0, '誠実性': 0, '協調性': 0}
-    for question in questions:
-        scores[question.category] += question.get_question_score()
+    for target_interlocutor_id in TARGET_INTERLOCUTOR_IDS:
+        # 対話データの読み込み
+        dialogue_list, inner_monologue_list = load_dialogue_list(f'./JudgeLLM/data/sample20/{target_interlocutor_id}_extracted_data.json')
+        questions = get_question_list()
+        questions = [questions[i-1] for i in RANDOM_ID_LIST]
+        for question in tqdm(questions):
+            # TODO: 普通の対話か内心描写付きかでdialogue_listかinner_monologue_listを使い分ける
+            answer = get_answer(dialogue_list, question, target_interlocutor_id)
+            # answetの中から<score>タグ内の数字を取得
+            answer = answer.split('<score>')[1].split('</score>')[0]
+            # \nがあれば削除
+            answer = answer.replace('\n', '')
+            # 回答が1~7の数字かどうかを確認
+            if answer in ['1', '2', '3', '4', '5', '6', '7']:
+                question.set_question_score(int(answer))
+            else:
+                print('回答が1~7の数字ではありません。')
+                break
+            
+        # 性格特性ごとにスコアを集計
+        scores = {'外向性': 0, '神経症傾向': 0, '開放性': 0, '誠実性': 0, '協調性': 0}
+        for question in questions:
+            scores[question.category] += question.get_question_score()
 
-    # それぞれの性格特性のスコアの平均をとる
-    for key in scores.keys():
-        scores[key] = scores[key] / 12
-    
-    # 誤差と平均二乗誤差を計算
-    error, MSE = calculate_error(scores)
-    # 結果をjsonファイルに保存
-    results = []
-    with open(f'{OUTPUT_DIR}/{TARGET_INTERLOCUTOR_ID}_BFI_test.json', 'w') as f:
-        results.append({'answer': [question.__dict__ for question in questions]})
-        results.append({'scores': scores})
-        results.append({'error': error})
-        results.append({'MSE': MSE})
-        json.dump(results, f, ensure_ascii=False, indent=2)
+        # それぞれの性格特性のスコアの平均をとる
+        for key in scores.keys():
+            scores[key] = scores[key] / 12
+        
+        # 誤差と平均二乗誤差を計算
+        error, MSE = calculate_error(scores, target_interlocutor_id)
+        # 結果をjsonファイルに保存
+        results = []
+        with open(f'{OUTPUT_DIR}/{target_interlocutor_id}_BFI_test.json', 'w') as f:
+            results.append({'answer': [question.__dict__ for question in questions]})
+            results.append({'scores': scores})
+            results.append({'error': error})
+            results.append({'MSE': MSE})
+            json.dump(results, f, ensure_ascii=False, indent=2)

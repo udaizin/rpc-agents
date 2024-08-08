@@ -8,8 +8,8 @@ from tqdm import tqdm
 from datasets import load_dataset
 
 TARGET_INTERLOCUTOR_ID = 'CP'
-model_name = f'./models/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v2-5e-6'
-OUTPUT_DIR = f'./BFI/result/tmp/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v2-5e-6'
+model_name = f'./models/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v2-2e-5'
+OUTPUT_DIR = f'./BFI/result/tmp/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v2-2e-5'
 BIG_FIVE = ['外向性', '神経症傾向', '開放性', '誠実性', '協調性']
 RANDOM_ID_LIST = [20, 22, 3, 14, 50, 51, 59, 49, 23, 60, 53, 29, 25, 47, 41, 5, 6, 28, 15, 1, 2, 56, 33, 13, 52, 48, 10, 38, 32, 
                   19, 18, 30, 7, 37, 34, 31, 35, 36, 16, 17, 42, 8, 4, 44, 55, 46, 39, 26, 45, 12, 43, 21, 24, 54, 40, 58, 11, 57, 9, 27]
