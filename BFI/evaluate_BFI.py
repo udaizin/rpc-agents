@@ -6,7 +6,7 @@ import japanize_matplotlib
 from pycirclize import Circos
 
 
-TARGET_INTERLOCUTOR_ID = 'CP'
+TARGET_INTERLOCUTOR_ID = 'GN'
 # TODO: マルチターンのfew-shotかどうかで代わる。
 PLANE_MODEL_RESULT_PATH = './BFI/result/tmp/Swallow3-8B-plane/BFI_test.json'
 BIG_FIVE_JA_EN = {'外向性': 'Extraversion', '神経症傾向': 'Neuroticism', '開放性': 'Openness', '誠実性': 'Conscientiousness', '協調性': 'Agreeableness'}
@@ -27,7 +27,7 @@ def plot_radar_chart(my_model_result, only_prompt_result, plane_result, target_i
         '開放性': [my_model_result[1]['scores']['開放性'], only_prompt_result[1]['scores']['開放性'], plane_result[1]['scores']['開放性'], target_interlocutor_BFI['開放性']],
         '誠実性': [my_model_result[1]['scores']['誠実性'], only_prompt_result[1]['scores']['誠実性'], plane_result[1]['scores']['誠実性'], target_interlocutor_BFI['誠実性']],
         '協調性': [my_model_result[1]['scores']['協調性'], only_prompt_result[1]['scores']['協調性'], plane_result[1]['scores']['協調性'], target_interlocutor_BFI['協調性']],
-    }, index=['SFT済みモデル', '性格特性プロンプト', 'プレーンモデル', '対象人物の真のスコア'])
+    }, index=['SFT済', 'プレーン+性格特性', 'プレーン', '真の性格特性'])
 
     circos = Circos.radar_chart(
         BFI_df,
@@ -40,7 +40,7 @@ def plot_radar_chart(my_model_result, only_prompt_result, plane_result, target_i
     # Plot figure & set legend on upper right
     fig = circos.plotfig()
     _ = circos.ax.legend(loc="upper right")
-    fig.savefig(f"./BFI/radar_chart/{TARGET_INTERLOCUTOR_ID}-v2-2e-5.png")
+    fig.savefig(f"./BFI/radar_chart/{TARGET_INTERLOCUTOR_ID}-v3-1e-5.png")
 
 
 
@@ -95,7 +95,7 @@ def calculate_MSE(my_model_result_path, target_interlocutor_id):
     
 
 if __name__ == '__main__':
-    my_model_result_path = f'./BFI/result/tmp/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v2-2e-5/BFI_test.json'
+    my_model_result_path = f'./BFI/result/tmp/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v3-1e-5/BFI_test.json'
     plane_MSE, my_model_MSE, only_prompt_MSE = calculate_MSE(my_model_result_path, TARGET_INTERLOCUTOR_ID)
     print(f'PlaneモデルとのMSE: {plane_MSE}')
     print(f'独自モデルとのMSE: {my_model_MSE}')

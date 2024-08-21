@@ -24,7 +24,19 @@ def change_bigfive_number_to_level(bigfive_number: float) -> str:
         return "中程度"
     else:
         return "高い"
-
+    
+def change_bigfive_number_to_five_level(bigfive_number: float) -> str:
+    if bigfive_number <= 2.0:
+        return "非常に低い"
+    elif bigfive_number <= 3.0:
+        return "低い"
+    elif bigfive_number < 5.0:
+        return "中程度"
+    elif bigfive_number < 6.0:
+        return "高い"
+    else:
+        return "非常に高い"
+    
 # GPTによって生成された内心描写付き対話データの形式が正しいのかチェックする関数
 def validate_monologue_format(original_dialogue: str, inner_monologue_dialogue: str, target_interlocutor_id: str, partner_interlocutor_id: str) -> bool:
     # inner_monologue_dialogueのすべての行が{target_interlocutor_id} (speaking): 〜 または {target_interlocutor_id} (thinking): 〜 または {partner_interlocutor_id} (speaking): 〜 で始まっているかチェック
@@ -227,6 +239,9 @@ def convert_raw_utterances_into_json_format(utterances: str) -> str:
     return utterances_json_list
 
 if __name__ == '__main__':
+    # ディレクトリが存在しない場合は作成
+    os.makedirs('./RealPersonaChat/data/gen_inner_monologue', exist_ok=True)
+
     # RealPersonaChatのinterlocutor_datasetを読み込む
     interlocutor_dataset = load_dataset("nu-dialogue/real-persona-chat", name='interlocutor', trust_remote_code=True)
 
@@ -243,7 +258,8 @@ if __name__ == '__main__':
         # 性格特性のプロンプト作成
         target_interlocutor_personality_prompt = '['
         for trait_en, trait_jp in BIG_FIVE_PERSONALITY_TRAITS_TRANS_DICT.items():
-            bigfive_level = change_bigfive_number_to_level(target_interlocutor_personality[trait_en])
+            # TODO: 5段階評価に変更
+            bigfive_level = change_bigfive_number_to_five_level(target_interlocutor_personality[trait_en])
             target_interlocutor_personality_prompt = f'{target_interlocutor_personality_prompt}{trait_jp}: {bigfive_level}, '
         target_interlocutor_personality_prompt = f'{target_interlocutor_personality_prompt[:-2]}]'
 

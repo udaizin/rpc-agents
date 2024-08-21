@@ -7,9 +7,9 @@ from vllm import LLM, SamplingParams
 from tqdm import tqdm
 from datasets import load_dataset
 
-TARGET_INTERLOCUTOR_ID = 'CP'
-model_name = f'./models/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v2-2e-5'
-OUTPUT_DIR = f'./BFI/result/tmp/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v2-2e-5'
+TARGET_INTERLOCUTOR_ID = ''
+model_name = f'./models/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v3-1e-5'
+OUTPUT_DIR = f'./BFI/result/tmp/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v3-1e-5'
 BIG_FIVE = ['外向性', '神経症傾向', '開放性', '誠実性', '協調性']
 RANDOM_ID_LIST = [20, 22, 3, 14, 50, 51, 59, 49, 23, 60, 53, 29, 25, 47, 41, 5, 6, 28, 15, 1, 2, 56, 33, 13, 52, 48, 10, 38, 32, 
                   19, 18, 30, 7, 37, 34, 31, 35, 36, 16, 17, 42, 8, 4, 44, 55, 46, 39, 26, 45, 12, 43, 21, 24, 54, 40, 58, 11, 57, 9, 27]
@@ -98,6 +98,28 @@ def get_question_list():
         questions.append(Question(key, value, category))
     return questions
 
+def extract_true_BFI_score(target_interlocutor_id):
+    interlocutor_dataset = load_dataset("nu-dialogue/real-persona-chat", name='interlocutor', trust_remote_code=True)
+    interlocutor_data = interlocutor_dataset['train'].filter(lambda x: x['interlocutor_id'] == target_interlocutor_id)
+    target_interlocutor_personality = interlocutor_data[0]['personality']
+    target_interlocutor_BFI = {
+        '外向性': target_interlocutor_personality['BigFive_Extraversion'],
+        '神経症傾向': target_interlocutor_personality['BigFive_Neuroticism'],
+        '開放性': target_interlocutor_personality['BigFive_Openness'],
+        '誠実性': target_interlocutor_personality['BigFive_Conscientiousness'],
+        '協調性': target_interlocutor_personality['BigFive_Agreeableness']
+    }
+    return target_interlocutor_BFI
+
+def calculate_error(scores, target_interlocutor_id):
+    target_interlocutor_BFI = extract_true_BFI_score(target_interlocutor_id)
+    error = {}
+    for key in scores.keys():
+        error[key] = scores[key] - target_interlocutor_BFI[key]
+    
+    MSE = sum([error[key] ** 2 for key in error.keys()]) / 5
+
+    return target_interlocutor_BFI, error, MSE
 
 def calculate_BFI_score():
     # モデルの読み込み
@@ -144,11 +166,17 @@ def calculate_BFI_score():
     # それぞれの性格特性のスコアの平均をとる
     for key in scores.keys():
         scores[key] = scores[key] / 12
+
+    # 誤差を計算
+    target_interlocutor_BFI, error, MSE = calculate_error(scores, TARGET_INTERLOCUTOR_ID)
     
     # 結果をjsonファイルに保存
     with open(f'{OUTPUT_DIR}/BFI_test.json', 'w') as f:
         results.append({'answer': [question.__dict__ for question in questions]})
         results.append({'scores': scores})
+        results.append({'true_scores': target_interlocutor_BFI})
+        results.append({'error': error})
+        results.append({'MSE': MSE})
         json.dump(results, f, ensure_ascii=False, indent=2)
 
     return scores
@@ -178,35 +206,15 @@ def calculate_BFI_score_plane_model():
     
     for question in tqdm(questions):
 
-        BFI_test_prompt = '\n'.join(['いまからあなたに性格に関する質問をします。以下の質問に対して、それぞれどのくらい当てはまるかを次の尺度で評価してください。回答するときは数字のみを出力してください。',
-            '',
-            '1: まったくあてはまらない',
-            '2: ほとんどあてはまらない',
-            '3: あまりあてはまらない',
-            '4: どちらとも言えない',
-            '5: ややあてはまる',
-            '6: かなりあてはまる',
-            '7: 非常にあてはまる',
-            '',
-            '質問:',
-            'りんごは赤い',
-            '回答:',
-            '7',
-            '',
-            '質問:',
-            f'{question.detail}',
-            '回答:'
-        ])
-
-        message = [
-            {"role": "system", "content": f"あなたにはこれからアンケートに受けてもらいます。数値のみで回答してください。"},
-            {
-                "role": "user",
-                "content": BFI_test_prompt,
-            },
+        messages = [
+            {"role": "system", "content": "あなたにはこれからアンケートに受けてもらいます。数値のみで回答してください。"},
+            {"role": "user", "content": BFI_test_prompt},
+            {"role": "assistant", "content": "7"},
+            {"role": "user", "content": questionnaire_prompt.format(question=question)}
         ]
+
         prompt = tokenizer.apply_chat_template(
-            message, tokenize=False, add_generation_prompt=True
+            messages, tokenize=False, add_generation_prompt=True
         )
 
         output = llm.generate(prompt, sampling_params)
@@ -231,7 +239,7 @@ def calculate_BFI_score_plane_model():
     # それぞれの性格特性のスコアの平均をとる
     for key in scores.keys():
         scores[key] = scores[key] / 12
-    
+
     # 結果をjsonファイルに保存
     with open(f'{output_dir}/BFI_test.json', 'w') as f:
         results.append({'answer': [question.__dict__ for question in questions]})
@@ -262,35 +270,14 @@ def calculate_BFI_score_only_prompt():
     
     for question in tqdm(questions):
 
-        BFI_test_prompt = '\n'.join(['いまからあなたに性格に関する質問をします。以下の質問に対して、それぞれどのくらい当てはまるかを次の尺度で評価してください。回答するときは数字のみを出力してください。',
-            '',
-            '1: まったくあてはまらない',
-            '2: ほとんどあてはまらない',
-            '3: あまりあてはまらない',
-            '4: どちらとも言えない',
-            '5: ややあてはまる',
-            '6: かなりあてはまる',
-            '7: 非常にあてはまる',
-            '',
-            '質問:',
-            'りんごは赤い',
-            '回答:',
-            '7',
-            '',
-            '質問:',
-            f'{question.detail}',
-            '回答:'
-        ])
-
-        message = [
+        messages = [
             {"role": "system", "content": f"あなたにはこれからアンケートに受けてもらいます。数値のみで回答してください。また、あなたのBigFive性格特性は以下の通りです。\n外向性: {extraversion}/7\n神経症傾向: {neuroticism}/7\n開放性: {openness}/7\n誠実性: {conscientiousness}/7\n協調性: {agreeableness}/7"},
-            {
-                "role": "user",
-                "content": BFI_test_prompt,
-            },
+            {"role": "user", "content": BFI_test_prompt},
+            {"role": "assistant", "content": "7"},
+            {"role": "user", "content": questionnaire_prompt.format(question=question)}
         ]
         prompt = tokenizer.apply_chat_template(
-            message, tokenize=False, add_generation_prompt=True
+            messages, tokenize=False, add_generation_prompt=True
         )
 
         output = llm.generate(prompt, sampling_params)
@@ -315,11 +302,17 @@ def calculate_BFI_score_only_prompt():
     # それぞれの性格特性のスコアの平均をとる
     for key in scores.keys():
         scores[key] = scores[key] / 12
-    
+
+    # 誤差を計算
+    true_scores, error, MSE = calculate_error(scores, TARGET_INTERLOCUTOR_ID)
+
     # 結果をjsonファイルに保存
     with open(f'{OUTPUT_DIR}/BFI_test_only_prompt.json', 'w') as f:
         results.append({'answer': [question.__dict__ for question in questions]})
         results.append({'scores': scores})
+        results.append({'true_scores': true_scores})
+        results.append({'error': error})
+        results.append({'MSE': MSE})
         json.dump(results, f, ensure_ascii=False, indent=2)
 
 if __name__ == '__main__':
