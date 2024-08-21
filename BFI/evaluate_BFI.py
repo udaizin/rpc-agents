@@ -9,6 +9,8 @@ from pycirclize import Circos
 TARGET_INTERLOCUTOR_ID = 'GN'
 # TODO: マルチターンのfew-shotかどうかで代わる。
 PLANE_MODEL_RESULT_PATH = './BFI/result/tmp/Swallow3-8B-plane/BFI_test.json'
+MY_MODEL_RESULT_PATH = f'./BFI/result/tmp/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v3-1e-5/BFI_test.json'
+RADAR_CHART_PATH = f"./BFI/radar_chart/{TARGET_INTERLOCUTOR_ID}-v3-1e-5.png"
 BIG_FIVE_JA_EN = {'外向性': 'Extraversion', '神経症傾向': 'Neuroticism', '開放性': 'Openness', '誠実性': 'Conscientiousness', '協調性': 'Agreeableness'}
 
 
@@ -40,7 +42,7 @@ def plot_radar_chart(my_model_result, only_prompt_result, plane_result, target_i
     # Plot figure & set legend on upper right
     fig = circos.plotfig()
     _ = circos.ax.legend(loc="upper right")
-    fig.savefig(f"./BFI/radar_chart/{TARGET_INTERLOCUTOR_ID}-v3-1e-5.png")
+    fig.savefig(RADAR_CHART_PATH)
 
 
 
@@ -66,7 +68,8 @@ def calculate_MSE(my_model_result_path, target_interlocutor_id):
 
 
     # レーダーチャートをプロット
-    plot_radar_chart(my_model_result, only_prompt_result, plane_result, target_interlocutor_BFI)
+    # TODO: レーダーチャートが必要な場合はコメントアウトを外す
+    # plot_radar_chart(my_model_result, only_prompt_result, plane_result, target_interlocutor_BFI)
 
     # planeモデルと対象人物のMSEを計算
     plane_MSE = 0
@@ -95,10 +98,10 @@ def calculate_MSE(my_model_result_path, target_interlocutor_id):
     
 
 if __name__ == '__main__':
-    my_model_result_path = f'./BFI/result/tmp/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v3-1e-5/BFI_test.json'
-    plane_MSE, my_model_MSE, only_prompt_MSE = calculate_MSE(my_model_result_path, TARGET_INTERLOCUTOR_ID)
+    plane_MSE, my_model_MSE, only_prompt_MSE = calculate_MSE(MY_MODEL_RESULT_PATH, TARGET_INTERLOCUTOR_ID)
     print(f'PlaneモデルとのMSE: {plane_MSE}')
-    print(f'独自モデルとのMSE: {my_model_MSE}')
-    print(f'プロンプトのみとのMSE: {only_prompt_MSE}')
+    print(f'Planeモデル+性格特性プロンプトとのMSE: {only_prompt_MSE}')
+    print(f'SFT済みモデルとのMSE: {my_model_MSE}')
+    
 
 
