@@ -1,0 +1,456 @@
+[
+  {
+    "answer": [
+      {
+        "id": 20,
+        "detail": "神経質な",
+        "is_reverse": false,
+        "category": "神経症傾向",
+        "score": 3
+      },
+      {
+        "id": 22,
+        "detail": "悲観的な",
+        "is_reverse": false,
+        "category": "神経症傾向",
+        "score": 2
+      },
+      {
+        "id": 3,
+        "detail": "陽気な",
+        "is_reverse": false,
+        "category": "外向性",
+        "score": 5
+      },
+      {
+        "id": 14,
+        "detail": "不安になりやすい",
+        "is_reverse": false,
+        "category": "神経症傾向",
+        "score": 3
+      },
+      {
+        "id": 50,
+        "detail": "短気",
+        "is_reverse": true,
+        "category": "協調性",
+        "score": 5
+      },
+      {
+        "id": 51,
+        "detail": "怒りっぽい",
+        "is_reverse": true,
+        "category": "協調性",
+        "score": 5
+      },
+      {
+        "id": 59,
+        "detail": "素直な",
+        "is_reverse": false,
+        "category": "協調性",
+        "score": 5
+      },
+      {
+        "id": 49,
+        "detail": "温和な",
+        "is_reverse": false,
+        "category": "協調性",
+        "score": 5
+      },
+      {
+        "id": 23,
+        "detail": "緊張しやすい",
+        "is_reverse": false,
+        "category": "神経症傾向",
+        "score": 3
+      },
+      {
+        "id": 60,
+        "detail": "反抗的",
+        "is_reverse": true,
+        "category": "協調性",
+        "score": 6
+      },
+      {
+        "id": 53,
+        "detail": "親切な",
+        "is_reverse": false,
+        "category": "協調性",
+        "score": 5
+      },
+      {
+        "id": 29,
+        "detail": "想像力に富んだ",
+        "is_reverse": false,
+        "category": "開放性",
+        "score": 6
+      },
+      {
+        "id": 25,
+        "detail": "独創的な",
+        "is_reverse": false,
+        "category": "開放性",
+        "score": 6
+      },
+      {
+        "id": 47,
+        "detail": "几帳面な",
+        "is_reverse": true,
+        "category": "誠実性",
+        "score": 3
+      },
+      {
+        "id": 41,
+        "detail": "不精な",
+        "is_reverse": false,
+        "category": "誠実性",
+        "score": 2
+      },
+      {
+        "id": 5,
+        "detail": "暗い",
+        "is_reverse": true,
+        "category": "外向性",
+        "score": 6
+      },
+      {
+        "id": 6,
+        "detail": "無愛想な",
+        "is_reverse": true,
+        "category": "外向性",
+        "score": 6
+      },
+      {
+        "id": 28,
+        "detail": "洞察力のある",
+        "is_reverse": false,
+        "category": "開放性",
+        "score": 5
+      },
+      {
+        "id": 15,
+        "detail": "心配性",
+        "is_reverse": false,
+        "category": "神経症傾向",
+        "score": 3
+      },
+      {
+        "id": 1,
+        "detail": "話し好き",
+        "is_reverse": false,
+        "category": "外向性",
+        "score": 5
+      },
+      {
+        "id": 2,
+        "detail": "無口な",
+        "is_reverse": true,
+        "category": "外向性",
+        "score": 6
+      },
+      {
+        "id": 56,
+        "detail": "とげがある",
+        "is_reverse": true,
+        "category": "協調性",
+        "score": 6
+      },
+      {
+        "id": 33,
+        "detail": "興味の広い",
+        "is_reverse": false,
+        "category": "開放性",
+        "score": 6
+      },
+      {
+        "id": 13,
+        "detail": "悩みがち",
+        "is_reverse": false,
+        "category": "神経症傾向",
+        "score": 3
+      },
+      {
+        "id": 52,
+        "detail": "寛大な",
+        "is_reverse": false,
+        "category": "協調性",
+        "score": 5
+      },
+      {
+        "id": 48,
+        "detail": "飽きっぽい",
+        "is_reverse": false,
+        "category": "誠実性",
+        "score": 2
+      },
+      {
+        "id": 10,
+        "detail": "意思表示しない",
+        "is_reverse": false,
+        "category": "外向性",
+        "score": 1
+      },
+      {
+        "id": 38,
+        "detail": "ルーズな",
+        "is_reverse": false,
+        "category": "誠実性",
+        "score": 2
+      },
+      {
+        "id": 32,
+        "detail": "臨機応変な",
+        "is_reverse": false,
+        "category": "開放性",
+        "score": 5
+      },
+      {
+        "id": 19,
+        "detail": "動揺しやすい",
+        "is_reverse": true,
+        "category": "神経症傾向",
+        "score": 5
+      },
+      {
+        "id": 18,
+        "detail": "傷つきやすい",
+        "is_reverse": false,
+        "category": "神経症傾向",
+        "score": 3
+      },
+      {
+        "id": 30,
+        "detail": "美的感覚の鋭い",
+        "is_reverse": false,
+        "category": "開放性",
+        "score": 6
+      },
+      {
+        "id": 7,
+        "detail": "社交的",
+        "is_reverse": false,
+        "category": "外向性",
+        "score": 5
+      },
+      {
+        "id": 37,
+        "detail": "いい加減な",
+        "is_reverse": false,
+        "category": "誠実性",
+        "score": 2
+      },
+      {
+        "id": 34,
+        "detail": "好奇心が強い",
+        "is_reverse": false,
+        "category": "開放性",
+        "score": 6
+      },
+      {
+        "id": 31,
+        "detail": "頭の回転の速い",
+        "is_reverse": false,
+        "category": "開放性",
+        "score": 5
+      },
+      {
+        "id": 35,
+        "detail": "独立している",
+        "is_reverse": false,
+        "category": "開放性",
+        "score": 5
+      },
+      {
+        "id": 36,
+        "detail": "呑み込みの速い",
+        "is_reverse": false,
+        "category": "開放性",
+        "score": 5
+      },
+      {
+        "id": 16,
+        "detail": "気苦労の多い",
+        "is_reverse": false,
+        "category": "神経症傾向",
+        "score": 2
+      },
+      {
+        "id": 17,
+        "detail": "弱気になる",
+        "is_reverse": false,
+        "category": "神経症傾向",
+        "score": 3
+      },
+      {
+        "id": 42,
+        "detail": "計画性のある",
+        "is_reverse": true,
+        "category": "誠実性",
+        "score": 3
+      },
+      {
+        "id": 8,
+        "detail": "人嫌い",
+        "is_reverse": true,
+        "category": "外向性",
+        "score": 6
+      },
+      {
+        "id": 4,
+        "detail": "外交的",
+        "is_reverse": false,
+        "category": "外向性",
+        "score": 4
+      },
+      {
+        "id": 44,
+        "detail": "軽率な",
+        "is_reverse": false,
+        "category": "誠実性",
+        "score": 2
+      },
+      {
+        "id": 55,
+        "detail": "協力的な",
+        "is_reverse": false,
+        "category": "協調性",
+        "score": 5
+      },
+      {
+        "id": 46,
+        "detail": "無節操",
+        "is_reverse": false,
+        "category": "誠実性",
+        "score": 2
+      },
+      {
+        "id": 39,
+        "detail": "怠惰な",
+        "is_reverse": false,
+        "category": "誠実性",
+        "score": 2
+      },
+      {
+        "id": 26,
+        "detail": "多才な",
+        "is_reverse": false,
+        "category": "開放性",
+        "score": 6
+      },
+      {
+        "id": 45,
+        "detail": "勤勉な",
+        "is_reverse": true,
+        "category": "誠実性",
+        "score": 3
+      },
+      {
+        "id": 12,
+        "detail": "地味な",
+        "is_reverse": true,
+        "category": "外向性",
+        "score": 5
+      },
+      {
+        "id": 43,
+        "detail": "無頓着な",
+        "is_reverse": false,
+        "category": "誠実性",
+        "score": 2
+      },
+      {
+        "id": 21,
+        "detail": "くよくよしない",
+        "is_reverse": true,
+        "category": "神経症傾向",
+        "score": 2
+      },
+      {
+        "id": 24,
+        "detail": "憂鬱な",
+        "is_reverse": false,
+        "category": "神経症傾向",
+        "score": 2
+      },
+      {
+        "id": 54,
+        "detail": "良心的な",
+        "is_reverse": false,
+        "category": "協調性",
+        "score": 5
+      },
+      {
+        "id": 40,
+        "detail": "成り行きまかせ",
+        "is_reverse": false,
+        "category": "誠実性",
+        "score": 2
+      },
+      {
+        "id": 58,
+        "detail": "自己中心的",
+        "is_reverse": true,
+        "category": "協調性",
+        "score": 6
+      },
+      {
+        "id": 11,
+        "detail": "積極的な",
+        "is_reverse": false,
+        "category": "外向性",
+        "score": 5
+      },
+      {
+        "id": 57,
+        "detail": "かんしゃくもち",
+        "is_reverse": true,
+        "category": "協調性",
+        "score": 6
+      },
+      {
+        "id": 9,
+        "detail": "活動的な",
+        "is_reverse": false,
+        "category": "外向性",
+        "score": 5
+      },
+      {
+        "id": 27,
+        "detail": "進歩的",
+        "is_reverse": false,
+        "category": "開放性",
+        "score": 6
+      }
+    ]
+  },
+  {
+    "scores": {
+      "外向性": 4.916666666666667,
+      "神経症傾向": 2.8333333333333335,
+      "開放性": 5.583333333333333,
+      "誠実性": 2.25,
+      "協調性": 5.333333333333333
+    }
+  },
+  {
+    "true_scores": {
+      "外向性": 4.833333492279053,
+      "神経症傾向": 3.25,
+      "開放性": 6.166666507720947,
+      "誠実性": 5.083333492279053,
+      "協調性": 5.5
+    }
+  },
+  {
+    "error": {
+      "外向性": 0.08333317438761423,
+      "神経症傾向": -0.4166666666666665,
+      "開放性": -0.5833331743876142,
+      "誠実性": -2.8333334922790527,
+      "協調性": -0.16666666666666696
+    }
+  },
+  {
+    "MSE": 1.7152779155307498
+  }
+]
