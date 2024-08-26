@@ -95,6 +95,8 @@ def alpaca_tokenize_fn(strings: Sequence[str], tokenizer: transformers.PreTraine
             padding="max_length",
             max_length=tokenizer.model_max_length,
             truncation=True,
+            # TODO: apply_chat_templateの引数tokenize=Falseに対応するためにadd_special_tokens=Falseを追加
+            add_special_tokens=False,
         )
         for text in strings
     ]
