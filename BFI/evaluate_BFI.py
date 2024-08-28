@@ -6,11 +6,11 @@ import japanize_matplotlib
 from pycirclize import Circos
 
 
-TARGET_INTERLOCUTOR_ID = 'GN'
+TARGET_INTERLOCUTOR_ID = 'FK'
 # TODO: マルチターンのfew-shotかどうかで代わる。
-PLANE_MODEL_RESULT_PATH = './BFI/result/tmp/Swallow3-8B-plane/BFI_test.json'
-MY_MODEL_RESULT_PATH = f'./BFI/result/tmp/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v3-1e-5/BFI_test.json'
-RADAR_CHART_PATH = f"./BFI/radar_chart/{TARGET_INTERLOCUTOR_ID}-v3-1e-5.png"
+PLANE_MODEL_RESULT_PATH = './BFI/result/tmp/Swallow3-8B-plane-v3-1e-5-wo-im/BFI_test.json'
+MY_MODEL_RESULT_PATH = f'./BFI/result/tmp/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v3-1e-5-wo-im/BFI_test.json'
+RADAR_CHART_PATH = f"./BFI/radar_chart/{TARGET_INTERLOCUTOR_ID}-v3-1e-5-wo-im.png"
 BIG_FIVE_JA_EN = {'外向性': 'Extraversion', '神経症傾向': 'Neuroticism', '開放性': 'Openness', '誠実性': 'Conscientiousness', '協調性': 'Agreeableness'}
 
 

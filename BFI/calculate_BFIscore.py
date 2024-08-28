@@ -8,8 +8,9 @@ from tqdm import tqdm
 from datasets import load_dataset
 
 TARGET_INTERLOCUTOR_ID = 'GN'
-model_name = f'./models/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v3-1e-5'
-OUTPUT_DIR = f'./BFI/result/tmp/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v3-1e-5'
+model_name = f'./models/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v3-1e-5-ast-false'
+OUTPUT_DIR = f'./BFI/result/tmp/Swallow3-8B-{TARGET_INTERLOCUTOR_ID}-v3-1e-5-ast-false'
+PLANE_OUTPUT_DIR = './BFI/result/tmp/Swallow3-8B-plane-v3-1e-5-ast-false'
 BIG_FIVE = ['外向性', '神経症傾向', '開放性', '誠実性', '協調性']
 RANDOM_ID_LIST = [20, 22, 3, 14, 50, 51, 59, 49, 23, 60, 53, 29, 25, 47, 41, 5, 6, 28, 15, 1, 2, 56, 33, 13, 52, 48, 10, 38, 32, 
                   19, 18, 30, 7, 37, 34, 31, 35, 36, 16, 17, 42, 8, 4, 44, 55, 46, 39, 26, 45, 12, 43, 21, 24, 54, 40, 58, 11, 57, 9, 27]
@@ -40,11 +41,11 @@ BFI_test_prompt = '''
 回答するときは数字のみを出力してください。
 
 質問:
-大根は細い
+りんごは赤い
 回答:
 '''
 
-BFI_test_answer_example = '2'
+BFI_test_answer_example = '7'
 
 questionnaire_prompt = '''
 質問:
@@ -185,8 +186,7 @@ def calculate_BFI_score():
 
 def calculate_BFI_score_plane_model():
     model_name = 'tokyotech-llm/Llama-3-Swallow-8B-Instruct-v0.1'
-    output_dir = './BFI/result/tmp/Swallow3-8B-plane'
-    os.makedirs(output_dir, exist_ok=True)
+    os.makedirs(PLANE_OUTPUT_DIR, exist_ok=True)
     sampling_params = SamplingParams(
         temperature=0, max_tokens=1, stop="<|eot_id|>"
     )
@@ -243,7 +243,7 @@ def calculate_BFI_score_plane_model():
         scores[key] = scores[key] / 12
 
     # 結果をjsonファイルに保存
-    with open(f'{output_dir}/BFI_test.json', 'w') as f:
+    with open(f'{PLANE_OUTPUT_DIR}/BFI_test.json', 'w') as f:
         results.append({'answer': [question.__dict__ for question in questions]})
         results.append({'scores': scores})
         json.dump(results, f, ensure_ascii=False, indent=2)
@@ -317,17 +317,101 @@ def calculate_BFI_score_only_prompt():
         results.append({'MSE': MSE})
         json.dump(results, f, ensure_ascii=False, indent=2)
 
+def calculate_BFI_score_sft_with_prompt():
+    # モデルの読み込み
+    sampling_params = SamplingParams(
+        temperature=0, max_tokens=1, stop="<|eot_id|>"
+    )
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    llm = LLM(model_name, tensor_parallel_size=1)
+    results = []
+    questions = get_question_list()
+    # Question.idがRANDOM_ID_LISTの順番に従って質問事項をランダムに並び替える
+    questions = [questions[i-1] for i in RANDOM_ID_LIST]
+
+    interlocutor_dataset = load_dataset("nu-dialogue/real-persona-chat", name='interlocutor', trust_remote_code=True)
+    interlocutor_data = interlocutor_dataset['train'].filter(lambda x: x['interlocutor_id'] == TARGET_INTERLOCUTOR_ID)
+    target_interlocutor_personality = interlocutor_data[0]['personality']
+    openness = target_interlocutor_personality['BigFive_Openness']
+    conscientiousness = target_interlocutor_personality['BigFive_Conscientiousness']
+    extraversion = target_interlocutor_personality['BigFive_Extraversion']
+    agreeableness = target_interlocutor_personality['BigFive_Agreeableness']
+    neuroticism = target_interlocutor_personality['BigFive_Neuroticism']
+
+    proper_answers_num = {
+        '外向性': 0,
+        '神経症傾向': 0,
+        '開放性': 0,
+        '誠実性': 0,
+        '協調性': 0
+    }
+    
+    print(f"あなたにはこれからアンケートに受けてもらいます。数値のみで回答してください。また、あなたのBigFive性格特性は以下の通りです。\n外向性: {extraversion}/7\n神経症傾向: {neuroticism}/7\n開放性: {openness}/7\n誠実性: {conscientiousness}/7\n協調性: {agreeableness}/7")
+    for question in tqdm(questions):
+
+        messages = [
+            # {"role": "system", "content": "あなたにはこれからアンケートに受けてもらいます。数値のみで回答してください。"},
+            {"role": "system", "content": f"あなたにはこれからアンケートに受けてもらいます。数値のみで回答してください。また、あなたのBigFive性格特性は以下の通りです。\n外向性: {extraversion}/7\n神経症傾向: {neuroticism}/7\n開放性: {openness}/7\n誠実性: {conscientiousness}/7\n協調性: {agreeableness}/7"},
+            {"role": "user", "content": BFI_test_prompt},
+            {"role": "assistant", "content": BFI_test_answer_example},
+            {"role": "user", "content": questionnaire_prompt.format(question=question)}
+        ]
+        prompt = tokenizer.apply_chat_template(
+            messages, tokenize=False, add_generation_prompt=True
+        )
+        output = llm.generate(prompt, sampling_params, use_tqdm=False)
+
+        # output[0].outputs[0].textの最初の文字数字ならばその数字をquestionにセット
+        if output[0].outputs[0].text[0].isdigit():
+            # 数字が1~7の範囲内かどうか
+            if int(output[0].outputs[0].text[0]) < 1 or int(output[0].outputs[0].text[0]) > 7:
+                print('Error: 回答が1~7の範囲内にありません。')
+                print(f'ID: {question.id}, 出力: {output[0].outputs[0].text}')
+            else:
+                question.set_question_score(int(output[0].outputs[0].text))
+                proper_answers_num[question.category] += 1
+        else:
+            print('Error: 回答の最初の文字が数字ではありません。')
+            print(f'ID: {question.id}, 出力: {output[0].outputs[0].text}')
+
+    
+    # 性格特性ごとにスコアを集計
+    scores = {'外向性': 0, '神経症傾向': 0, '開放性': 0, '誠実性': 0, '協調性': 0}
+    for question in questions:
+        scores[question.category] += question.get_question_score()
+
+    # それぞれの性格特性のスコアの平均をとる
+    for key in scores.keys():
+        scores[key] = scores[key] / proper_answers_num[key]
+
+    # 誤差を計算
+    target_interlocutor_BFI, error, MSE = calculate_error(scores, TARGET_INTERLOCUTOR_ID)
+    
+    # 結果をjsonファイルに保存
+    with open(f'{OUTPUT_DIR}/BFI_test_with_prompt.json', 'w') as f:
+        results.append({'answer': [question.__dict__ for question in questions]})
+        results.append({'scores': scores})
+        results.append({'true_scores': target_interlocutor_BFI})
+        results.append({'error': error})
+        results.append({'MSE': MSE})
+        json.dump(results, f, ensure_ascii=False, indent=2)
+
+    return scores
+
 if __name__ == '__main__':
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     parser = argparse.ArgumentParser()
     parser.add_argument('--plane_model', action='store_true', default=False, help='If you want to use plane model, please use this option.')
     parser.add_argument('--only_prompt', action='store_true', default=False, help='If you want to output only prompt, please use this option.')
+    parser.add_argument('--with_prompt', action='store_true', default=False, help='If you want to output SFT agent with prompt, please use this option.')
     args = parser.parse_args()
 
     if args.plane_model:
         calculate_BFI_score_plane_model()
     elif args.only_prompt:
         calculate_BFI_score_only_prompt()
+    elif args.with_prompt:
+        calculate_BFI_score_sft_with_prompt()
     else:
         calculate_BFI_score()
     print('Done')
