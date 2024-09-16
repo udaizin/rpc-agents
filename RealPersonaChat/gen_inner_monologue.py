@@ -51,6 +51,13 @@ def validate_monologue_format(original_dialogue: str, inner_monologue_dialogue: 
     inner_monologue_speaking_lines = [line for line in inner_monologue_dialogue.split('\n') if line.startswith(f'{target_interlocutor_id} (speaking): ') or line.startswith(f'{partner_interlocutor_id} (speaking): ')]
     inner_monologue_thinking_lines = [line for line in inner_monologue_dialogue.split('\n') if line.startswith(f'{target_interlocutor_id} (thinking): ')]
 
+    # inner_monologue_speaking_linesの数がoriginal_dialogue_linesの数と同じかチェック
+    if len(original_dialogue_lines) != len(inner_monologue_speaking_lines):
+        print(f'original_dialogue_lines: {len(original_dialogue_lines)}')
+        print(f'inner_monologue_speaking_lines: {len(inner_monologue_speaking_lines)}')
+        print('original_dialogue_linesの数とinner_monologue_speaking_linesの数が異なります。')
+        return False
+    
     # original_dialogue_linesの内容がinner_monologue_speaking_linesで書き換わってないかチェック
     # ここで{target_interlocutor_id} (speaking): 〜 (thinking) などという行があるかどうかの確認も兼ねている
     for original_dialogue_line, inner_monologue_speaking_line in zip(original_dialogue_lines, inner_monologue_speaking_lines):
@@ -59,6 +66,7 @@ def validate_monologue_format(original_dialogue: str, inner_monologue_dialogue: 
             print(f'inner_monologue_speaking_line: {inner_monologue_speaking_line}')
             print('original_dialogue_lineの内容がinner_monologue_speaking_lineで書き換わっています。')
             return False
+    
         
     # {target_interlocutor_id} (thinking): 〜 の行のあとに{target_interlocutor_id} (speaking): 〜 があるかチェック
     # 例: {target_interlocutor_id} (thinking): ... \n {target_interlocutor_id} (speaking): ... という形式であるかチェック
@@ -100,7 +108,7 @@ def postprocess_inner_monologue(inner_monologue_dialogue: str, target_interlocut
     return inner_monologue_dialogue
 
 
-def create_inner_monologue_annotation(utterances: str, target_interlocutor_id: str, partner_interlocutor_id: str) -> str:
+def create_inner_monologue_annotation(utterances: str, target_interlocutor_id: str, partner_interlocutor_id: str, target_interlocutor_personality_prompt: str) -> str:
     # インデントなどを整えるため、'\n'でjoin
     utterances_example_1 = '\n'.join([
         f'{partner_interlocutor_id} (speaking): ...',
@@ -282,7 +290,7 @@ if __name__ == '__main__':
                 if count >= MAX_GENERATION_TRIAL:
                     print('内心描写付き対話データが生成できませんでした。')
                     break
-                inner_monologue_utterances = create_inner_monologue_annotation(utterances, target_interlocutor_id, partner_interlocutor_id)
+                inner_monologue_utterances = create_inner_monologue_annotation(utterances, target_interlocutor_id, partner_interlocutor_id, target_interlocutor_personality_prompt)
                 inner_monologue_utterances = postprocess_inner_monologue(inner_monologue_utterances, target_interlocutor_id)
                 if validate_monologue_format(utterances, inner_monologue_utterances, target_interlocutor_id, partner_interlocutor_id):
                     break
