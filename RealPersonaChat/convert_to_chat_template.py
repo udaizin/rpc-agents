@@ -122,7 +122,7 @@ json形式の対話データを読み込み、promptとoutputをjsonl形式に�
 
 def convert_to_chat_template(target_interlocutor_id: str):
     # json形式データの読み込み
-    with open(f'./RealPersonaChat/data/gen_inner_monologue/{target_interlocutor_id}_inner_monologue.json', 'r', encoding='utf-8') as f:
+    with open(f'./RealPersonaChat/data/train_data/{target_interlocutor_id}_inner_monologue_train.json', 'r', encoding='utf-8') as f:
         dialogues = json.load(f)
     
     with open(f'./RealPersonaChat/data/train_data/chat_template_{target_interlocutor_id}.jsonl', 'w', encoding='utf-8') as f:
