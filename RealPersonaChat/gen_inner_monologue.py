@@ -167,11 +167,15 @@ def create_inner_monologue_annotation(utterances: str, target_interlocutor_id: s
         f'性別: {target_interlocutor_gender_jp}',
         f'ペルソナ: {target_interlocutor_persona_prompt}',
         f'BigFive性格特性: {target_interlocutor_personality_prompt}',
+        f'開放性とは、新しいアイデアや経験に対する興味や好奇心の程度を示します。開放性が高い人は、創造性や想像力に富み、新しいことに対して積極的に取り組みます。',
+        f'誠実性とは、自己規律や責任感、目標達成への意欲の程度を示します。誠実性が高い人は、自己管理能力が高く、信頼性があります。',
+        f'外向性とは、社交性や活動性、ポジティブな感情の程度を示します。外向性が高い人は、社交的で積極的であり、他者との関係を楽しむことが多いです。',
+        f'協調性とは、他者への配慮や協力、共感の程度を示します。協調性が高い人は、他者との関係を大切にし、他者の感情やニーズに敏感です。',
+        f'神経症傾向とは、不安や抑うつ、ストレス耐性の程度を示します。神経症傾向が高い人は、感情の起伏が激しく、ストレスに弱い傾向があります。',
         '',          
         'ルール:',
         f'1. {target_interlocutor_id}には感情と思考能力があります。{target_interlocutor_id}が何を感じ、何を考えているのか慎重に考えてください。',
         f'2. あなたは今、ペルソナやBigFive性格特性に基づいて、対話履歴に{target_interlocutor_id}の感情や考えを追加することを目的としています。',
-        f'   内心を描写する際には、第三者から見ても{target_interlocutor_id}のBigFive性格特性と整合性が取れるようにしてください。',
         f'3. 主人公は{target_interlocutor_id}です。対話履歴の中に、{target_interlocutor_id}が何かを感じたり考えたりしたと思うところに、(thinking)のラベルを用いて{target_interlocutor_id}の気持ちや考えを挿入してください。',
         f'4. 「{target_interlocutor_id} (thinking): 〜 」という形式必ず従って、{target_interlocutor_id}の内心描写を追加してください。{partner_interlocutor_id} (thinking): 〜 という行は絶対に作らないでください。',
         f'5. 必ず{target_interlocutor_id} (speaking): 〜 という行の前に{target_interlocutor_id} (thinking): 〜 という行を挿入してください。',
@@ -200,7 +204,7 @@ def create_inner_monologue_annotation(utterances: str, target_interlocutor_id: s
     ])
 
     completion = client.chat.completions.create(
-        model="gpt-4o",
+        model="gpt-4o-2024-08-06",
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_first_prompt},
