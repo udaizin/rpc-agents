@@ -1,0 +1,6878 @@
+[
+  {
+    "dialogue_id": 5066,
+    "utterances": [
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "お昼ご飯なにたべましたか"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "今チョコパンを食べてます！あなたは？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いいですね！シチューを食べました"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "なにシチューですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "クリームです！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "ご自身で作ったんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そうです！！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "すごいですね！よく作りますか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "自炊はよくします！されますか？"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "たまにします。というか実家なので家族分ですかね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、でもいいですね。実家うらやましいです！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "いや、家族分の料理はなかなかプレッシャーです。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "多いですか、やはり"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "そうですね。味も期待されますし。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "気楽に作りましょ！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "そうすると、指摘されますね！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "まじですか！きびしい！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "そうなんですよ！美食家で困ります"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "困った家族ですね、！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "もうご実家でられて長いんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "だいぶですね。10年近いです"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "おぉ！じゃあ料理の腕もだいぶ上がってますね！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "全然そんなことないです！！！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "よく作るのは他になんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "中華とか多いですよ！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "いいですね！中華得意とかかっこいいです！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "楽しいです！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "羨ましいです！！"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "今日はどんな話ができるかな。最近の話題はなんだろう。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "お昼ご飯の話でもしてみようかな。どんなものを食べてるのか興味あるな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "お昼ご飯なにたべましたか"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "今チョコパンを食べてます！あなたは？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "チョコパンか、甘いものもいいよね。自分は少しヘルシーにしたかな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いいですね！シチューを食べました"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "なにシチューですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "シチューなんて普段なかなか食べないし、クリームシチューは自分の中では定番だからな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "クリームです！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "ご自身で作ったんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "自分で作ると美味しいんだよな。ちょっと自慢したい気分。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そうです！！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "すごいですね！よく作りますか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "自炊は楽しいし、健康にもいいからね。相手も自炊するのかな？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "自炊はよくします！されますか？"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "たまにします。というか実家なので家族分ですかね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "実家か。懐かしいなぁ。自分も時々実家の料理が恋しくなるな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、でもいいですね。実家うらやましいです！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "いや、家族分の料理はなかなかプレッシャーです。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "家族の期待か、それは確かにプレッシャーだよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "多いですか、やはり"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "そうですね。味も期待されますし。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "期待に応えるのは大変だけど、それもまた料理の楽しさかもしれないな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "気楽に作りましょ！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "そうすると、指摘されますね！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "厳しいな、その家族！でも、きっとおいしいものを作ってるんだろうな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "まじですか！きびしい！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "そうなんですよ！美食家で困ります"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "美食家の家族か、それは大変そうだけど、ちょっと羨ましい気もするな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "困った家族ですね、！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "もうご実家でられて長いんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "実家を出てから結構経つけど、時々思い出すなぁ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "だいぶですね。10年近いです"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "おぉ！じゃあ料理の腕もだいぶ上がってますね！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そんなに上手くはなってないけど、楽しんでるからいいかな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "全然そんなことないです！！！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "よく作るのは他になんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "中華は簡単に作れるし、美味しいからつい作っちゃうんだよな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "中華とか多いですよ！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "いいですね！中華得意とかかっこいいです！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そう言ってもらえると嬉しいな。料理はやっぱり楽しい。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "楽しいです！"
+      },
+      {
+        "role": "DD",
+        "action": "(speaking)",
+        "content": "羨ましいです！！"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 5082,
+    "utterances": [
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "こんにちはー"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "好きな食べ物なんですか"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "夏野菜！あ、ニンニク！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "夏野菜カレーと二郎食べるしかないですね"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "そういうことです"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "さいこうすぎるでしょ"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "夏野菜カレー食べたいわー"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "わかります、いいお店ないかなぁ"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "カレーを食べに行ったことがないから"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "美味しいとこいっぱいありますよ"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "スパイスカレーって食べてみたい"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "スパイスカレーもいいですね、たくさんありますお店"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "子供が食べれるようになったらいこかな"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そんな小さいんですね。いつもおつかれさまです"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "小１だから、カレー辛いと文句言います"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "笑いました。たいへんですね"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "甘口に飽き飽きですよ"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "甘口結構すきですけどね"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "そうです？インディアンカレー知ってます？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "しってます！"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "甘くて辛いってすごいです"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "謎ですよねあそこ"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "嫌いじゃないな、２０年位いいってないけど"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "だいぶ前ですね"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "外食したいです！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "してください！いきましょう！"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "寿司とかね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "寿司もさいこうです"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "高いですがまわらないやつたべたい"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "今日も楽しい会話が始まりそうだな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "こんにちはー"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "食べ物の話は盛り上がるに違いない。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "好きな食べ物なんですか"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "夏野菜！あ、ニンニク！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "夏野菜とニンニクか、面白い組み合わせだな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "夏野菜カレーと二郎食べるしかないですね"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "そういうことです"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "やっぱり食べ物の話はいいね。想像するだけでワクワクする。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "さいこうすぎるでしょ"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "夏野菜カレー食べたいわー"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "一緒においしいカレーを探してあげたいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "わかります、いいお店ないかなぁ"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "カレーを食べに行ったことがないから"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "これはチャンスだ、カレーの美味しさを教えたい。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "美味しいとこいっぱいありますよ"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "スパイスカレーって食べてみたい"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "スパイスカレーは本当にいい選択だ。多くの美味しい店を知ってる。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "スパイスカレーもいいですね、たくさんありますお店"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "子供が食べれるようになったらいこかな"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "子供のことを考えてあげるなんて優しいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そんな小さいんですね。いつもおつかれさまです"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "小１だから、カレー辛いと文句言います"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "小さい子には辛いカレーはまだ早いか。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "笑いました。たいへんですね"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "甘口に飽き飽きですよ"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "甘口もいいけど、たまには冒険してほしいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "甘口結構すきですけどね"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "そうです？インディアンカレー知ってます？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "あの独特な味わいは忘れられない。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "しってます！"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "甘くて辛いってすごいです"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "確かにあのカレーは不思議な魅力がある。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "謎ですよねあそこ"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "嫌いじゃないな、２０年位いいってないけど"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そんなに時間が経っているのか、ぜひまた行ってほしいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "だいぶ前ですね"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "外食したいです！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "外食はやっぱり特別な楽しみだよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "してください！いきましょう！"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "寿司とかね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "寿司は鉄板だ、誰にも負けない魅力がある。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "寿司もさいこうです"
+      },
+      {
+        "role": "EU",
+        "action": "(speaking)",
+        "content": "高いですがまわらないやつたべたい"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 5462,
+    "utterances": [
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "きょうあついですね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ですよね、昨日寒かったのに"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "天候変わりすぎて、"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "台風きてましたし。"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "あれすごかったですよね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "被害ありました？"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "いえ、音と雨が。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "九州とかすごかったですね"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "連日ニュースでしたね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "車吹き飛んでました。"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "みました私も。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あれは衝撃でしたね、、"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "バイクもとんでいってました"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "軽いからすぐ飛びそうですよね"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "よく運転しまうよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ほんとにです。"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "危ないから気をつけて欲しいです"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "安全にして欲しいですね"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "ピザ配達とかもすごかったですよ"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なんですかそれ"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "台風なのに配達あったって"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ええ、ほんとですか？"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "映像ありましたよ"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "酷すぎますねそれは"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "絶対したくないです"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "事故りそうです"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "事故りかけてましたよ"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あぶない、、"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "今日はどんな会話が始まるのかな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "きょうあついですね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "昨日との気温差が激しいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ですよね、昨日寒かったのに"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "天候変わりすぎて、"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "最近は天候が不安定すぎるよな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "台風きてましたし。"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "あれすごかったですよね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "被害がなければいいけど。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "被害ありました？"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "いえ、音と雨が。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "それなら良かったけど、怖かっただろうな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "九州とかすごかったですね"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "連日ニュースでしたね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ニュースを見てると心配になる。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "車吹き飛んでました。"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "みました私も。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "映像衝撃的だったな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あれは衝撃でしたね、、"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "バイクもとんでいってました"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ロードバイクもこんな風に飛ばされたら嫌だな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "軽いからすぐ飛びそうですよね"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "よく運転しまうよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "自分だったら絶対運転しない。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ほんとにです。"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "危ないから気をつけて欲しいです"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "安全第一にしてほしい。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "安全にして欲しいですね"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "ピザ配達とかもすごかったですよ"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "こんな天候で配達とか、さすがに無茶だろう。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なんですかそれ"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "台風なのに配達あったって"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そんなことをするなんて信じられない。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ええ、ほんとですか？"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "映像ありましたよ"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "映像があるなら事実か…。やっぱり無茶だ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "酷すぎますねそれは"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "絶対したくないです"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "自分も絶対にやりたくない。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "事故りそうです"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "事故りかけてましたよ"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "想像しただけで怖い。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あぶない、、"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 13282,
+    "utterances": [
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "台風の影響はどうですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "びみょうにきてます、、"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "こちらも大雨が降ったり急にやんだりですね。。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "それつらいですね、、"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "出かける予定が立てづらいです"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "わかります、むずかしいです"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "スーパー行きたいんですが、雨のタイミングは外したくて。。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "スーパーぬれたくないですよね"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "帰りに荷物もできますしね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "帰り危ないですし"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "傘さして大荷物だとやりづらいですよね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ほんとにきけんです"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "視界も悪いですし"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そのとおりです"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "台風向けの対策とか何かしましたか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なにもしてないです！！"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "うちは一応物干しざおの固定くらいはしておこうかと"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、えらいですね"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "万一飛ぶと大変ですしね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "でもだいじですよねほんと"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "そうそう。他の人のお宅を傷つけたらと思うと怖いですし"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あぶないですよね、、"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "今日も風強いですからね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "強風ですよね"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "台風からはちょっと距離あるはずなんですが"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そのへんがいちばんやばそうです"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "油断してる割に雨や風が強くなりますからね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "わかります"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "今日も台風の影響で天気が心配だなあ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "台風の影響はどうですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "奈良の方も結構影響が出てるな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "びみょうにきてます、、"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "こちらも大雨が降ったり急にやんだりですね。。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "それは大変そうだ。大雨は本当に困るよな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "それつらいですね、、"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "出かける予定が立てづらいです"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "予定が狂うのは嫌だなあ。早く晴れてくれないかな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "わかります、むずかしいです"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "スーパー行きたいんですが、雨のタイミングは外したくて。。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "雨に濡れるのは絶対避けたいよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "スーパーぬれたくないですよね"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "帰りに荷物もできますしね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "荷物が増えると余計に面倒だよな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "帰り危ないですし"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "傘さして大荷物だとやりづらいですよね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "確かに、バランス崩しそうで怖い。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ほんとにきけんです"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "視界も悪いですし"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "雨の日は特に気をつけないと。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そのとおりです"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "台風向けの対策とか何かしましたか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "特に何もしてないけど、何かした方がいいのかな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なにもしてないです！！"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "うちは一応物干しざおの固定くらいはしておこうかと"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ちゃんと対策してるのは偉いなあ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、えらいですね"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "万一飛ぶと大変ですしね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "それは怖い、何か対策考えないと。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "でもだいじですよねほんと"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "そうそう。他の人のお宅を傷つけたらと思うと怖いですし"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "確かに、自分だけじゃなく周りにも迷惑かける可能性があるもんな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あぶないですよね、、"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "今日も風強いですからね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "風が強いと余計に心配だ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "強風ですよね"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "台風からはちょっと距離あるはずなんですが"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "距離があっても油断できないな、意外と影響が出るし。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そのへんがいちばんやばそうです"
+      },
+      {
+        "role": "CN",
+        "action": "(speaking)",
+        "content": "油断してる割に雨や風が強くなりますからね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そうだよな、油断せずにちゃんと備えないと。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "わかります"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 13524,
+    "utterances": [
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ケーキ好きですか"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "はい、すきです！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たとえば？"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "チョコケーキとか"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "お、いいですね"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "苦いの好きなんですよ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ビターなのもいいですね"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "最近食べてないですが。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あらそうなんですか。"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "専門店いきたいですね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "コンビニのとはちがいますもんね！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "まったくちがいます！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "専門店がいいです、"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "まちがいないですね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "チーズケーキとかは？"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "それもすきですよ！！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "レアのがいいですか"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "ですね、そっちです。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おーベイクドですわたし"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "こんがりのやつですかね？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そうです！茶色の"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "あれもおいしいですね！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "すごいすきなんですよ。"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "わかりますよ！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たべたくなってきました！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "ぜひかいに！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "せんもんてん！！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "ぜったいそっちです！"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "今日もいい天気だし、何か楽しいことを見つけたいなぁ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ケーキの話をしてみようかな、みんな好きだし。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ケーキ好きですか"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "はい、すきです！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "やっぱりケーキ好きな人って多いよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たとえば？"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "チョコケーキとか"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "チョコケーキか、いいチョイスだな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "お、いいですね"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "苦いの好きなんですよ。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "苦い味が好きなんて、ちょっと大人な感じだな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ビターなのもいいですね"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "最近食べてないですが。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "最近食べてないのか、じゃあ今度一緒に行くのもいいかも。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あらそうなんですか。"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "専門店いきたいですね。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "専門店か、確かに特別な感じがするよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "コンビニのとはちがいますもんね！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "まったくちがいます！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "その気持ち、すごくわかるなぁ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "専門店がいいです、"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "まちがいないですね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "チーズケーキの話もしてみよう。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "チーズケーキとかは？"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "それもすきですよ！！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "やっぱりチーズケーキも人気あるよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "レアのがいいですか"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "ですね、そっちです。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "レアチーズケーキか、さっぱりしてておいしいよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おーベイクドですわたし"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "こんがりのやつですかね？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そうそう、あの焼けた感じがたまらないんだよな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そうです！茶色の"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "あれもおいしいですね！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "このままケーキを買いに行きたくなってきた。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "すごいすきなんですよ。"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "わかりますよ！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "こういう話をしてると、ますます食べたくなるなぁ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たべたくなってきました！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "ぜひかいに！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "よし、専門店で買うぞ！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "せんもんてん！！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "ぜったいそっちです！"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 5131,
+    "utterances": [
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "晩御飯何食べました"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "何も食べてないです"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "だいじょうぶですかそれ"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "体調かなり悪いです"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "しんどそうです"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "焼肉食べたい気分です"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "焼肉は最高ですね"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "そちらは何を食べましたか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "キーマカレーたべました"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "いいですね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "CoCo壱しまってました"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "ここいち地元にないです"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "それかなしすぎませんか"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "カレー食いに行っていい思いでないので"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なにがあったんですか"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "東京で炭の味がするカレー食いました"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ほう。どんな色でした"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "真っ黒でした"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "劇物じゃないですか"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "周りの客も微妙そうな表情浮かべてました"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "最悪すぎますね、おいしくなさそう"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "ほんまにはずれひきました"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "はずれるとおもってなかったでしょうね"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "あと東京ネズミ多くて驚きました"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なんかやばいらしいですねねずみ"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "実物結構でかいですよ"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "まじですか、きつい"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "かわいさのかけらもないです"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "今日も元気にスタートだ。新しい話題を見つけたいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "晩御飯の話題ならリラックスして話せそうだ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "晩御飯何食べました"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "何も食べてないです"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "おっと、それは心配だな。何かあったのかな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "だいじょうぶですかそれ"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "体調かなり悪いです"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "やっぱり体調が悪いのか。心配だな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "しんどそうです"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "焼肉食べたい気分です"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "焼肉か、いいね！食欲が戻るといいけど。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "焼肉は最高ですね"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "そちらは何を食べましたか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そういえば、今日はキーマカレーだったな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "キーマカレーたべました"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "いいですね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "CoCo壱に行こうと思ったけど、閉まってたのが残念だったな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "CoCo壱しまってました"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "ここいち地元にないです"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "それは悲しいな。カレー好きにはつらいね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "それかなしすぎませんか"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "カレー食いに行っていい思いでないので"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "何か嫌な思い出でもあるのかな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なにがあったんですか"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "東京で炭の味がするカレー食いました"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "それは酷いな。どんな見た目だったんだろう。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ほう。どんな色でした"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "真っ黒でした"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "うわ、それは確かに劇物っぽい。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "劇物じゃないですか"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "周りの客も微妙そうな表情浮かべてました"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "みんな同じ気持ちだったんだろうな。美味しくないとがっかりするよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "最悪すぎますね、おいしくなさそう"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "ほんまにはずれひきました"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "それは本当に残念だったね。期待してた分、ショックも大きいだろうな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "はずれるとおもってなかったでしょうね"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "あと東京ネズミ多くて驚きました"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "東京のネズミってどのくらいの大きさなんだろう。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なんかやばいらしいですねねずみ"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "実物結構でかいですよ"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "でかいネズミはちょっと怖いな。見たくないかも。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "まじですか、きつい"
+      },
+      {
+        "role": "GP",
+        "action": "(speaking)",
+        "content": "かわいさのかけらもないです"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 5111,
+    "utterances": [
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "こんにちはー。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ばんごはんなにたべましたか"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "つけ麺でしたー。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "お、何味ですか"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "魚介系です。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "さいこうですね"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "あなたはなにを？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "かれーです！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "何カレーですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "キーマですかね"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "おいしそうですね！自分でおつくりに？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "自分で作りました！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "いいですね。何かトッピングはしますか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たまごしました！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "生ですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "生です、後チーズ"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "最高じゃないですか。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "最高においしかったです！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "両方合いますね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ですよね！おいしい"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "ですよねぇ。納豆とかいれます？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "それはいれないですね！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "意外にいけますよ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、つけ麺はなにかされました？"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "冷凍のやつです。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "お、コンビニですか"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "そうです。意外においしいんですよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おいしいですよねあれ！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "下手なラーメン屋より！"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "今日も楽しい会話ができそうだな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "こんにちはー。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "つけ麺か、いいなぁ。今日は何を食べようかな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ばんごはんなにたべましたか"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "つけ麺でしたー。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "魚介系のつけ麺、大好きなんだよなぁ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "お、何味ですか"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "魚介系です。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "やっぱり魚介系か。羨ましいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "さいこうですね"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "あなたはなにを？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "今日は自分で作ったカレーを楽しんだんだよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "かれーです！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "何カレーですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "キーマカレー、意外と簡単で美味しいんだよな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "キーマですかね"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "おいしそうですね！自分でおつくりに？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "自分で作ると好きな具材をたくさん入れられるからいいよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "自分で作りました！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "いいですね。何かトッピングはしますか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "トッピングは、やっぱりたまごとチーズが鉄板だよな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たまごしました！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "生ですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "生たまごとチーズの組み合わせが最高なんだ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "生です、後チーズ"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "最高じゃないですか。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そう言ってもらえると嬉しいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "最高においしかったです！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "両方合いますね。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "たまごとチーズの相性は抜群だよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ですよね！おいしい"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "ですよねぇ。納豆とかいれます？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "納豆はちょっとなぁ、カレーには合わない気がする。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "それはいれないですね！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "意外にいけますよ。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "今度試してみるのもいいかもしれないな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、つけ麺はなにかされました？"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "冷凍のやつです。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "冷凍のつけ麺、意外と美味しいよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "お、コンビニですか"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "そうです。意外においしいんですよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そうそう、下手なラーメン屋より美味しい時もある。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おいしいですよねあれ！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "下手なラーメン屋より！"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 5376,
+    "utterances": [
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "好きな色ありますか"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "ピンク好きです"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、薄めですか"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "どっちもいいですね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ショッキングも？"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "それはそれでアクセントになります"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たしかに。使い勝手ありますね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "好きな色あります？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "黒とか、薄い色ですね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "じゃあ持っているものもそういうもの多いですか。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "多いですね、統一してます"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "統一すること大事ですよね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "だいじですほんと"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "部屋は白とかシンプルにまとめたいです"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いっしょですね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "一番暮らしやすい気がします"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ベージュとか白でまとめてます"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "落ち着きますよね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "だいじです"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "たまに色入れるのも楽しいですよね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "差し色ですね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "そうです。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "だいじですそれも"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "うまくやるとめっちゃおしゃれになります"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "センスとわれますね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "難しいんですけどね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "人によります"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "センスほしいです"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "この会話、なんだか心地いいな。落ち着いたトーンで話せるのはいいことだ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ピンクか、意外な選択だな。どんなピンクが好きなんだろう。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "好きな色ありますか"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "ピンク好きです"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "薄いピンクとか濃いピンクとか、どっちだろう？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、薄めですか"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "どっちもいいですね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ピンクってアクセントになるのか、なるほど。考えたことなかったな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ショッキングも？"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "それはそれでアクセントになります"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "たしかに、あると便利だし、いろんな場面で使えそうだ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たしかに。使い勝手ありますね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "好きな色あります？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "自分はシンプルな色が好きだけど、どう思われるかな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "黒とか、薄い色ですね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "じゃあ持っているものもそういうもの多いですか。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "結構こだわってるし、統一感って大事だよなぁ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "多いですね、統一してます"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "統一すること大事ですよね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "やっぱり共感してくれる人がいると嬉しいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "だいじですほんと"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "部屋は白とかシンプルにまとめたいです"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "まさに同じ考えだ。シンプルが一番心地いい。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いっしょですね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "一番暮らしやすい気がします"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "自分の部屋もそんな感じにしていて、すごく落ち着くんだ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ベージュとか白でまとめてます"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "落ち着きますよね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "落ち着きって大事だし、心をリラックスさせてくれる。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "だいじです"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "たまに色入れるのも楽しいですよね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "うん、でも入れすぎないようにしないとね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "差し色ですね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "そうです。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "うまく色を使いこなせる人ってすごいなと思う。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "だいじですそれも"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "うまくやるとめっちゃおしゃれになります"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "確かにセンスが求められるところだな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "センスとわれますね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "難しいんですけどね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "自分のセンスももっと磨きたいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "人によります"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "センスほしいです"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 13299,
+    "utterances": [
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "こんにちはー。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "好きな音楽ありますか"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "んー最近はadoが。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "adoうまいですよね"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "上手いですね。映画で見て感動しました。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "redですか"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "ですです。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "まだみてないんですよね"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "マジで見たほうがいいです。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "配信されるかなって"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "あれは映画館で見る良さ、ありますよ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "まじですか、音響やばそうですね"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "そうなんです！迫力やばいです。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "音すごいイメージあります"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "初手でいきなり引き込まれました。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "イントロですか"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "そんな感じです。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、すごいです"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "何曲か歌うんですよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ウタがですか"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "あ、そうです。歌う能力なので。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "adoちゃんの声で。"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "歌うときだけ、そうです。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "声優さんもいるんですね"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "そうですね。でもその時々の感情が曲にぴったりで。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "一緒かと思ってました。"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "違うんですよね。でも違和感あまりなかったです。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "すごいことですよね"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "すばらしいです。"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "今日はどんな話ができるかな、楽しみだな。  "
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "こんにちはー。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "最近、音楽の話をするのも面白いかも。  "
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "好きな音楽ありますか"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "んー最近はadoが。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "あ、adoか。彼女の歌声は本当に素晴らしいよね。  "
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "adoうまいですよね"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "上手いですね。映画で見て感動しました。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そういえば、「red」って映画が話題になってたな。まだ見てないけど。  "
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "redですか"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "ですです。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "見てみたいなって思いつつ、まだタイミングが合わなくて。  "
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "まだみてないんですよね"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "マジで見たほうがいいです。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "映画館で見るのがいいのかな。でも、配信されるかもって期待しちゃうんだよな。  "
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "配信されるかなって"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "あれは映画館で見る良さ、ありますよ。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "なるほど、やっぱり映画館の音響って特別なんだろうな。  "
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "まじですか、音響やばそうですね"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "そうなんです！迫力やばいです。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "迫力ある音って、本当に感動するからな。  "
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "音すごいイメージあります"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "初手でいきなり引き込まれました。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "最初からそんなに引き込まれる演出って、すごく興味ある。  "
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "イントロですか"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "そんな感じです。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "音楽が始まる瞬間のワクワク感って最高だよね。  "
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、すごいです"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "何曲か歌うんですよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "映画の中でadoちゃんが何曲も歌うなんて贅沢だな。  "
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ウタがですか"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "あ、そうです。歌う能力なので。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "なるほど、歌う能力か。面白い設定だな。  "
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "adoちゃんの声で。"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "歌うときだけ、そうです。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "声優さんと歌の声が違うのに違和感がないって、すごい技術だな。  "
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "声優さんもいるんですね"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "そうですね。でもその時々の感情が曲にぴったりで。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "曲に合わせた感情表現ができるって、本当にプロフェッショナルだよね。  "
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "一緒かと思ってました。"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "違うんですよね。でも違和感あまりなかったです。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "違和感なく楽しめるなんて、完成度が高いんだろうな。  "
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "すごいことですよね"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "すばらしいです。"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 13303,
+    "utterances": [
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "最近の趣味とかありますか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "読書とかニュースとかですかね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、本いいですね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "ラノベとかも多いですけどね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ラノベもおもしろいですよね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "まぁ確かに。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "最近なにがよかったです？"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "リゼロですかね、ネットですけど。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "リゼロおもしろいですよね、とても"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "あ、わかります？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "わかります、みてました"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "原作今結構進んでますよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "結構長いですよね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "でも終わる気配ないんですよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "どう終わらせるんでしょうね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "ワンピースぐらい行きますかね？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ワンピースももう終わりそうですよね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "らしいですね、見てないですけど。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "みてないんですか、いちども"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "アニメのシーンはちらっとぐらいで。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なるほど、長いですし。"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "そうですね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あきますよね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "そうなんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あきちゃいます、"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "そうですか。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ある程度いくとだれます"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "ふむふむ。"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "相手がどんな趣味を持っているのか興味があるな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "どんな話題を振れば盛り上がるかな？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "最近の趣味とかありますか"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "読書とかニュースとかですかね。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "読書か、いい趣味だな。自分もカフェでのんびり本を読みたいと思うことがある。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、本いいですね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "ラノベとかも多いですけどね。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ラノベか、結構人気だよね。自分もたまに読むし、話が合いそうだ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ラノベもおもしろいですよね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "まぁ確かに。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "最近のおすすめを聞いてみようかな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "最近なにがよかったです？"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "リゼロですかね、ネットですけど。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "リゼロは確かに面白い。あのストーリー展開には引き込まれるな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "リゼロおもしろいですよね、とても"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "あ、わかります？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "共感できる話題が見つかって嬉しいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "わかります、みてました"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "原作今結構進んでますよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "どこまで進んでるんだろう、気になるな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "結構長いですよね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "でも終わる気配ないんですよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "どんな結末を迎えるのか、想像するだけでワクワクする。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "どう終わらせるんでしょうね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "ワンピースぐらい行きますかね？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ワンピースもずっと追いかけてきたし、終わりが近いのかな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ワンピースももう終わりそうですよね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "らしいですね、見てないですけど。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ワンピースを見てないなんて意外だな。けど、長すぎて敬遠する人もいるよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "みてないんですか、いちども"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "アニメのシーンはちらっとぐらいで。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "アニメは確かに長いから、見るのに時間がかかるしね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なるほど、長いですし。"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "そうですね。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "自分も途中で飽きてしまうことがあるから、わかるな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あきますよね"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "そうなんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "長編は面白いけど、集中力が続かないときがあるんだ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あきちゃいます、"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "そうですか。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "途中でだれるのは自分だけじゃないはずだ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ある程度いくとだれます"
+      },
+      {
+        "role": "FO",
+        "action": "(speaking)",
+        "content": "ふむふむ。"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 5379,
+    "utterances": [
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "行きたいところありますか"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "北海道ですかね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "いいですね、旅行ですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "シーシャとグルメ旅で。"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "グルメは最高ですね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いきたい店メモってます"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "海鮮好きですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "すきですよ"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "回転ずしとかおいしそうですよね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "やばいらしいですむこうのは"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "ですよね、観光も興味あります？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "観光もしたいですね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "どこ行きたいですか。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "函館とか"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "いいですね、夜景もきれい"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "水族館とか"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "水族館楽しいですよね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ありすぎて困ります"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "北海道広いですしね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "広すぎですよね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "一気に行ききれないです"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あれかなしいです"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "なんですか"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "一気に行きたいです"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "休みを長期的にとるしか"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たしかに、、"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "1週間とかいきたいです"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "はがゆいです"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "お、今日はどんな話になるんだろう。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "行きたいところありますか"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "最近、旅に出たい気分なんだよな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "北海道ですかね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "いいですね、旅行ですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "美味しいものも楽しみたいし、リラックスもしたいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "シーシャとグルメ旅で。"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "グルメは最高ですね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "本当に美味しいものには目がないからな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いきたい店メモってます"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "海鮮好きですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "海鮮はやっぱり外せないよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "すきですよ"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "回転ずしとかおいしそうですよね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "北海道の回転寿司は別格らしいし、楽しみだな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "やばいらしいですむこうのは"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "ですよね、観光も興味あります？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "美味しいもの食べるだけじゃなくて、観光も楽しみたいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "観光もしたいですね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "どこ行きたいですか。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "せっかくだからいろんなところ行きたいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "函館とか"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "いいですね、夜景もきれい"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "夜景はやっぱり外せないよな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "水族館とか"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "水族館楽しいですよね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "色々ありすぎて、どこに行くか悩むな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ありすぎて困ります"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "北海道広いですしね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "本当に広いよね、一回で全部回るのは無理かも。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "広すぎですよね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "一気に行ききれないです"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "それがちょっと残念だな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あれかなしいです"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "なんですか"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "色んな所を一気に回りたいけど、時間が足りないのが悔しい。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "一気に行きたいです"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "休みを長期的にとるしか"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "それしかないのか、でも現実的には難しいよな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たしかに、、"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "1週間とかいきたいです"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "1週間あれば、かなり色んな所回れるかもな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "はがゆいです"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 13490,
+    "utterances": [
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いましたいことありますか？"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "ごはんがたべたいです、、"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おなかすいたんですね。"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "結構限界です！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "家に何もないんですか？"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "あるんですけど、"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あら。めんどくさいですか"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "そうです。外で食べたいです。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "我慢は毒ですよ。"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "そのとおりですよね、！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "早くたべちゃいましょう。"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "作業が終わったらすぐ行きます！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "近くにあるんですか？"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "なにがですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ごはんやさんです！"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "ありますよ！！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、近くにあるのうらやましい。"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "ないんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あまりないですね、、"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "あら、田舎ですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "住宅街なんですよ"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "コンビニは？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "それはあります！"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "ならよかった！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ギリセーフです"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "ライフラインですね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ほんとにですよ"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "ないと困ります。"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "今日はどんな話ができるかな？楽しみだな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "何か楽しいことを一緒に見つけられるといいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いましたいことありますか？"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "ごはんがたべたいです、、"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "お腹が空いているのか、どんなごはんが好きなんだろう？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おなかすいたんですね。"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "結構限界です！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そんなにお腹が空いているなんて、早く何か食べさせてあげたいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "家に何もないんですか？"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "あるんですけど、"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "あるのに外で食べたい気持ち、すごくわかるな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あら。めんどくさいですか"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "そうです。外で食べたいです。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "やっぱり外での食事って特別感があるよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "我慢は毒ですよ。"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "そのとおりですよね、！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "納得してもらえてよかった。美味しいもの食べて元気になってほしいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "早くたべちゃいましょう。"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "作業が終わったらすぐ行きます！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "近くに美味しいごはんやさんがあるといいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "近くにあるんですか？"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "なにがですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ちょっと言葉足らずだったかな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ごはんやさんです！"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "ありますよ！！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "いいなぁ、近くにそういう場所があると便利だよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、近くにあるのうらやましい。"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "ないんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "うちの近くにはあまり選択肢がないんだよなぁ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あまりないですね、、"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "あら、田舎ですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "田舎ってほどではないけど、ちょっと不便かな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "住宅街なんですよ"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "コンビニは？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "コンビニはどこにでもあるから安心だよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "それはあります！"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "ならよかった！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "コンビニがあれば何とかなるよね、ほんとに助かる。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ギリセーフです"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "ライフラインですね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "同感だなぁ。コンビニは現代のライフラインだ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ほんとにですよ"
+      },
+      {
+        "role": "GU",
+        "action": "(speaking)",
+        "content": "ないと困ります。"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 13518,
+    "utterances": [
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "こんにちはー。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "趣味ありますか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "サウナすきです。"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "サウナ！どれくらいの頻度で？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "週2とかです！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "かなりですね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "結構すきです"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "近くにあるんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "近くにあります！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "うらやましい。回数券とか買って？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いいえ、それはないですね、"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "そうなんですね。結構高くないですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "500円とかですよ！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "ええ！安い！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "銭湯かかくです！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "800円くらいするんですよね。私の近く。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "すぱせんですか？"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "あーそうかもしれません。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そっちはたかいですね、"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "ラーメンいっぱいかぁと思って。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "わらいました。"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "なんか考えちゃいます。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いい考え方です"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "あはは。デブの考えです。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いいじゃないですか！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "確かに。三大欲求ですよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "みたさないとです。"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "くっちゃねです。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "強欲にいきます"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "こんにちはー。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "今日はどんな話になるかな？楽しみだ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "趣味ありますか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "趣味かあ、何を話そうかな。やっぱり最近ハマってるサウナかな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "サウナすきです。"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "サウナ！どれくらいの頻度で？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "頻度を聞かれると、やっぱり結構行ってる方かな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "週2とかです！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "かなりですね。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "やっぱり多い方なんだな、でもそれくらい好きなんだよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "結構すきです"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "近くにあるんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "近くにあるからこそ、こんなに行けるんだよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "近くにあります！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "うらやましい。回数券とか買って？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "回数券は使ってないけど、毎回楽しみにしてるんだ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いいえ、それはないですね、"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "そうなんですね。結構高くないですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "高くないから、気軽に行けるんだよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "500円とかですよ！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "ええ！安い！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "驚かれるのはいつものことだけど、これが普通なんだ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "銭湯かかくです！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "800円くらいするんですよね。私の近く。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "やっぱり場所によって違うんだなあ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "すぱせんですか？"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "あーそうかもしれません。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "それなら納得。スーパー銭湯は高いもんね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そっちはたかいですね、"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "ラーメンいっぱいかぁと思って。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "確かに、ラーメンと比べるのも面白い考え方だね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "わらいました。"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "なんか考えちゃいます。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "こういう発想は楽しいよなあ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いい考え方です"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "あはは。デブの考えです。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "でも、そういう風に自由に考えるのって大事だよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いいじゃないですか！"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "確かに。三大欲求ですよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "欲求を満たすのは人生の楽しみの一つだよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "みたさないとです。"
+      },
+      {
+        "role": "GI",
+        "action": "(speaking)",
+        "content": "くっちゃねです。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "シンプルだけど、これが幸せの基本かもしれないな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "強欲にいきます"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 5364,
+    "utterances": [
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "よろしくお願いしますね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ペットを飼われていたことはありますか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "蛇くらいです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "蛇ですか！珍しいですね。どんな蛇ですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "コーンスネークです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ペットショップとかで普通に買えるんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いちおうかえますね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "結構お高いんですかね？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "3kとかですよ"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あら、意外と手が届きます。蛇に決めたきっかけとかってあるんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なんか、ノリでしたね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ノリですか！どうですか？飼ってみて。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "めちゃかわです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "かわいいですか！蛇も人になつくんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なつかないです、、、"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "おっとぉ。なつかないんですか。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なれるだけですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "警戒をしなくなるだけ。って感じですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そのとおりです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "で、でもビジュアルは結構可愛いんじゃないですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "かわいらしいですよ"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "エサとかって何を与えているんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "マウスです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "冷凍マウスってやつですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そのとおりです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "一度にどのくらい食べるんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "一個だけですよ"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あら。意外と食べないんですね。もっと食べるイメージがありました。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "手軽です"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "よろしくお願いしますね。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "どんな話になるのかな。楽しみだな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ペットを飼われていたことはありますか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ペットって、蛇だけど大丈夫かな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "蛇くらいです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "蛇ですか！珍しいですね。どんな蛇ですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "みんな珍しいって言うけど、意外と飼いやすいんだよな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "コーンスネークです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ペットショップとかで普通に買えるんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そういえば、初めて行った時はちょっと緊張したな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いちおうかえますね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "結構お高いんですかね？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そんなに高くないから、意外と手が出しやすいんだよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "3kとかですよ"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あら、意外と手が届きます。蛇に決めたきっかけとかってあるんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "きっかけは特になかったけど、なんとなく魅力を感じたんだよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なんか、ノリでしたね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ノリですか！どうですか？飼ってみて。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "飼ってみて本当に良かった。毎日が楽しい。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "めちゃかわです！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "かわいいですか！蛇も人になつくんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "蛇は犬や猫とは違うからなぁ。でも、それがまたいいんだよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なつかないです、、、"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "おっとぉ。なつかないんですか。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "まぁ、慣れてくれるだけでも十分かな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なれるだけですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "警戒をしなくなるだけ。って感じですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そうそう、それでも十分満足だよ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そのとおりです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "で、でもビジュアルは結構可愛いんじゃないですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "見た目は本当に魅力的だよね。色とか模様とか。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "かわいらしいですよ"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "エサとかって何を与えているんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "エサの話はちょっと驚かれるかもしれないな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "マウスです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "冷凍マウスってやつですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "うん、最初は抵抗あったけど慣れたよ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そのとおりです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "一度にどのくらい食べるんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "あんまり食べないけど、それが普通なんだよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "一個だけですよ"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あら。意外と食べないんですね。もっと食べるイメージがありました。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そう思うよね。でも、だからこそ手軽でいいんだ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "手軽です"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 5536,
+    "utterances": [
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "動物園よくいきますか？"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "たまにいきますよ！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "どんなこがすきです！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "ペンギンすきです！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おーかわいいですよね！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "よちよちしててかわいい！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あいくるしいですよね！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "うるさいところもすきです。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たまにさけんでますよね"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "すごい顔してます。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "わらいました"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "つい最近いきました"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、いいですね"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "結構暑かったです。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "屋外ですか？"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "です！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あ、でもその方がおおいか"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "屋内のとことかありますかね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ゾーンによってはありませんか"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "あ、熱帯ゾーンとか。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そうそう、"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "小さい生き物すきです"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そういうコーナーありますよね"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "こまかいのがすきなんですよね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "わかりますそのきもち"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "珍しいのいたらうれしい。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たしかに！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "そうですよね。"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "今日も気持ちよく会話が始まったな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "動物園の話題なら、楽しい会話ができそうだ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "動物園よくいきますか？"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "たまにいきますよ！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ペンギンか、確かにあの動きは愛らしいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "どんなこがすきです！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "ペンギンすきです！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ペンギンの話をすると、なんだか和やかな気持ちになる。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おーかわいいですよね！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "よちよちしててかわいい！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "自分もペンギンの動きに心を奪われることがある。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あいくるしいですよね！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "うるさいところもすきです。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "うるさい場所は苦手だけど、動物の声は別だな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たまにさけんでますよね"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "すごい顔してます。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "その顔を想像すると、やっぱり笑っちゃうな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "わらいました"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "つい最近いきました"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "最近行ったばかりなら、新しい話が聞けるかも。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、いいですね"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "結構暑かったです。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "暑いと屋外はちょっと大変だよな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "屋外ですか？"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "です！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "まあ、動物園は大抵屋外が多いよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あ、でもその方がおおいか"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "屋内のとことかありますかね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "屋内なら涼しいし、動物も見やすいかも。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ゾーンによってはありませんか"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "あ、熱帯ゾーンとか。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "熱帯ゾーンは雰囲気があって好きだな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そうそう、"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "小さい生き物すきです"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "小さい生き物か、細かいところに目が行くのはいいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そういうコーナーありますよね"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "こまかいのがすきなんですよね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "自分も細かいところを探すのは得意だ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "わかりますそのきもち"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "珍しいのいたらうれしい。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "見たことない生き物に出会うとワクワクするよな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たしかに！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "そうですよね。"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 13526,
+    "utterances": [
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "何か趣味ありますか"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そうですね、サウナがすきです。"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "おー、すごい！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いったことありますか？"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "たまーにいきます！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "水風呂つかれます？"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "ちょっとだけなら！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "つかれるだけすごいですよ！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "がっつりはむずかしいです。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ぜひなれましょう。"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "慣れですかーー"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "慣れたら平気です！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "それまでながそう。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "確かに時間はかかります。"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "どれくらいいきますか"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "よくいきますよ！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "週ペーすは？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "2回とかですかね"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "おお、すごいですね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ふつうになっちゃいました"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "それもなれですねー"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "温泉も好きですし"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "リラックスしますよね！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "それがいいとこです！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "たまにはいかないと"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "つかるのだいじですね。"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "ほんとにそうおもいます"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ですよね、"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "今日も元気に話せそうだ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "何か趣味ありますか"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "趣味はたくさんあるけど、最近ハマっているのはやっぱりサウナかな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そうですね、サウナがすきです。"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "おー、すごい！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "反応がいいな、嬉しい。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いったことありますか？"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "たまーにいきます！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "サウナ仲間が増えたら嬉しいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "水風呂つかれます？"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "ちょっとだけなら！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "やっぱり水風呂はハードル高いよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "つかれるだけすごいですよ！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "がっつりはむずかしいです。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "最初はみんなそんなもんだよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ぜひなれましょう。"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "慣れですかーー"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "慣れれば楽しさが倍増するのに。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "慣れたら平気です！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "それまでながそう。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "焦らず楽しんでいけばいいさ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "確かに時間はかかります。"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "どれくらいいきますか"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "さて、どれくらいが普通なんだろう。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "よくいきますよ！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "週ペーすは？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "週に2回も行けば十分リフレッシュできる。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "2回とかですかね"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "おお、すごいですね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そう言われるとちょっと誇らしいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ふつうになっちゃいました"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "それもなれですねー"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "どんどんハマっていく感覚が楽しい。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "温泉も好きですし"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "リラックスしますよね！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "温泉は心も体も癒される最高の場所だ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "それがいいとこです！"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "たまにはいかないと"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "忙しいと忘れがちだけど、やっぱり大事だよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "つかるのだいじですね。"
+      },
+      {
+        "role": "GW",
+        "action": "(speaking)",
+        "content": "ほんとにそうおもいます"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "共感してもらえると嬉しいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ですよね、"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 5365,
+    "utterances": [
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんにちわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "動物なにかかいたいですか"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "猫とか犬を飼ってみたいですね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、いっしょです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "犬と猫、どちらがお好きですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ねこですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "何かお気に入りの品種とかありますか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ラグドールとか。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "いいですよね！足が短い種類でしたっけ？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ちがうかもです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "失礼しました。どんな感じの猫ちゃんでしたっけ？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "でかくて長毛ですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "でかい！ですか。それは抱き心地がありまそうですね！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "すごいでかいですよ"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "そんなにですか！調べてみます。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あと目がくりくりです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "調べました！確かにこれデカいですね！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "すごいでしょ"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "しかも可愛いって反則じゃないですか！"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "最高でしょ"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですね！これは確かに飼いたくなりますね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ぎゃんかわです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはは。猫を飼われていたことはあるんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ないんですよー"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "賃貸とかですか？飼えない環境とか。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そういうわけです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ウチも同じなんですよ。一軒家いいですよねー"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たいへんですよね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですよねぇ。"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "今日はどんな話ができるかな？楽しみだな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "こんにちわ。よろしくお願いしますね。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "動物の話題は盛り上がりそうだな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "動物なにかかいたいですか"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "猫とか犬を飼ってみたいですね。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "やっぱり猫と犬は人気だよね。僕も同じだな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おお、いっしょです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "犬と猫、どちらがお好きですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "どちらも好きだけど、やっぱり猫かな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ねこですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "何かお気に入りの品種とかありますか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ラグドールは本当に魅力的なんだよな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ラグドールとか。"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "いいですよね！足が短い種類でしたっけ？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "あれ、ラグドールは足が短くないんだけどな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ちがうかもです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "失礼しました。どんな感じの猫ちゃんでしたっけ？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ラグドールの特徴をちゃんと伝えよう。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "でかくて長毛ですね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "でかい！ですか。それは抱き心地がありまそうですね！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "抱き心地は本当に最高なんだよな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "すごいでかいですよ"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "そんなにですか！調べてみます。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ラグドールの魅力を分かってもらえたかな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "あと目がくりくりです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "調べました！確かにこれデカいですね！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そうそう、これがラグドールの良さだよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "すごいでしょ"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "しかも可愛いって反則じゃないですか！"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "可愛い上に大きいなんて最高だよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "最高でしょ"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですね！これは確かに飼いたくなりますね。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "自分もいつか飼えたらいいなぁ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ぎゃんかわです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "あはは。猫を飼われていたことはあるんですか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "残念ながらまだ飼ったことがないんだよな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "ないんですよー"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "賃貸とかですか？飼えない環境とか。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "そうなんだよね、賃貸だと難しいんだ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "そういうわけです"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ウチも同じなんですよ。一軒家いいですよねー"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "一軒家だったらもっと自由に飼えるのになぁ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たいへんですよね"
+      },
+      {
+        "role": "DL",
+        "action": "(speaking)",
+        "content": "ですよねぇ。"
+      }
+    ]
+  },
+  {
+    "dialogue_id": 13464,
+    "utterances": [
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "好きな食べ物ありますか"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "フルーツ好きです"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なにすきですか"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "特にブドウですね"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おおお、皮無しですか"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "いや、デラウェアや巨峰です"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "さいこうですね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "ぶどう狩毎年行きます"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たのしそう！"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "楽しいし、食べ放題です"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "かりたいですね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "フルール狩りとか行きますか？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たまにいきますよ"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "何行きますか。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いちごとか"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "わたしもいきます"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "さいこうです"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "めっちゃ食べちゃいます"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "めっちゃたべます"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "練乳もおいしい"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "かけたいですね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "今年はメロン狩りもいきました"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "甘いもの食べたくなってきます"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "今家になにもなくてつらいです"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いっしょです、、、、"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "あまり買わないんですよ"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "スーパー高いですし"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "そうなんですよね"
+      }
+    ],
+    "inner_monologue_utterances": [
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "今日はどんな会話ができるかな。ちょっとワクワクするな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "こんにちは！"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "こんにちは。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "フルーツの話って、なんだか楽しいな。どんなフルーツが好きなんだろう？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "好きな食べ物ありますか"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "フルーツ好きです"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "フルーツか、いいね。どんな種類が好きなんだろう？"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "なにすきですか"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "特にブドウですね"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ブドウか、いいチョイスだな。皮があるのか無いのか気になるな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "おおお、皮無しですか"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "いや、デラウェアや巨峰です"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "なるほど、甘くて美味しいやつだな。話が弾むな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "さいこうですね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "ぶどう狩毎年行きます"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "ブドウ狩りか、いいなぁ。楽しそうだし、食べ放題って最高だよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たのしそう！"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "楽しいし、食べ放題です"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "やっぱり食べ放題は魅力的だよなぁ。行きたいなぁ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "かりたいですね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "フルール狩りとか行きますか？"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "フルール狩り、久しぶりに行ってみたくなってきたな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "たまにいきますよ"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "何行きますか。"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "いちご狩りは特に楽しいよね。甘くて美味しいし。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いちごとか"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "わたしもいきます"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "同じ趣味だと話が合うなぁ。うれしいな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "さいこうです"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "めっちゃ食べちゃいます"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "わかる、たくさん食べちゃうよね。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "めっちゃたべます"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "練乳もおいしい"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "練乳は最高の組み合わせだよね。たまらないな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "かけたいですね"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "今年はメロン狩りもいきました"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "メロン狩りか、そんなのもあるんだ。甘い物が食べたくなってきたな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "甘いもの食べたくなってきます"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "今家になにもなくてつらいです"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "それは切ないね。自分も同じ状況だな。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "いっしょです、、、、"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "あまり買わないんですよ"
+      },
+      {
+        "role": "GN",
+        "action": "(thinking)",
+        "content": "確かに、スーパーのフルーツは高いから、頻繁には買えないよなぁ。"
+      },
+      {
+        "role": "GN",
+        "action": "(speaking)",
+        "content": "スーパー高いですし"
+      },
+      {
+        "role": "GT",
+        "action": "(speaking)",
+        "content": "そうなんですよね"
+      }
+    ]
+  }
+]
